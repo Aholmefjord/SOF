@@ -1,0 +1,49 @@
+{
+"Dialogue":[
+			{
+				"text":"欢迎来到海洋历险记",
+				"audio":"Sally_1_iwetmybed_1",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"请问'12345'就是你的密码吗？",
+				"audio":"Sally_1_iwetmybed_2",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"你确定吗？",
+				"audio":"Sally_2_AreUSure_4",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"啊.... 因为所有人都知道是这个密码,\n 所以这不安全。",
+				"audio":"Sally_3_changepassword_3_1",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"请更换你的密码。",
+				"audio":"Sally_3_changepassword_3_2",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"请输入一个新的密码。",
+				"audio":"Sally_4_keynewpass_3",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"请再重复输入一遍新的密码。",
+				"audio":"Sally_5_repeatpass_4",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"两次密码不相同\n 请再重新尝试。",
+				"audio":"Sally_6_tryagain_4",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"密码更换成功！",
+				"audio":"SFX_acceptnewpass_01",
+				"Speaker":"Sally",
+			},
+	]
+}

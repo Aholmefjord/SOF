@@ -1,0 +1,40 @@
+{
+	"serverList": [
+		{
+			"idname": "dev, tom, local",
+			"ipaddress": "http://192.168.1.3:2468"
+		},
+		{
+			"idname": "dev, jix, local",
+			"ipaddress": "http://192.168.1.169:80"
+		},
+		{
+			"idname": "dev, sg, remote",
+			"ipaddress": "https://s3-ap-southeast-1.amazonaws.com/jules-sof-assetbundles-dev/dev"
+		},
+		{
+			"idname": "test CDN",
+			"ipaddress": "https://d134nzew60ep3c.cloudfront.net/test"
+		},
+		{
+			"idname": "live, sg, remote",
+			"ipaddress": "https://s3-ap-southeast-1.amazonaws.com/jules-sof-assetbundles"
+		},
+		{
+			"idname": "TW live CDN",
+			"ipaddress": "https://d1tnpz2ibsq3j8.cloudfront.net/0-95-tw-live"
+		},
+		{
+			"idname": "JAPAN demo CDN",
+			"ipaddress": "https://d1tnpz2ibsq3j8.cloudfront.net/0-95-jp-demo"
+		},
+		{
+			"idname": "Oceanize CDN",
+			"ipaddress": "https://d1tnpz2ibsq3j8.cloudfront.net/Oceanize"
+		},
+		{
+			"idname": "StreamingAssets",
+			"ipaddress": "Assets/StreamingAssets"
+		}
+	]
+}

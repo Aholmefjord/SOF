@@ -1,0 +1,90 @@
+{
+"Dialogue":[
+			{//0
+				"text":"哦，嗨！！我就知道能在这个看起来 \n 就像是大乌龟壳的房子里找到你。呵呵呵..",
+				"audio":"MsPuf_1_ohHit_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+
+			{//1
+				"text":"不管怎样，我找到了这个奇怪的 \n - 我是说, 有趣的珍珠？",
+				"audio":"MsPuf_1_pearlgift_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//2
+				"text":"而且我想它对于你帮我收集珍珠 \n 来说一定是个奇妙的礼物。",
+				"audio":"MsPuf_1_pearlgift_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//3
+				"text":"谢谢你！",
+				"audio":"Sally_Thankyou_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//4
+				"text":"？？！？？",
+				"audio":"SFX_buddy_attention",
+				"dialogType":0,
+				"Speaker":"Buddy",
+			},
+			{//5
+				"text":"这不是珍珠！它是我们要找的神奇蛋之一啊！",
+				"audio":"Sally_2_notpearlEggs_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//6
+				"text":"哦！怪不得它看起来这么的呃...不同！",
+				"audio":"MsPuf_3_pearldifferent_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//7
+				"text":"你是在哪里找到它的？",
+				"audio":"Sally_3_wherefindit_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//8
+				"text":"我在市场里买东西的时候....",
+				"audio":"MsPuf_4_mantagaveegg_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//9
+				"text":"然后旧货商店的大福先生给了我这个神奇蛋。 \n 哦！他真是我的心肝宝贝！",
+				"audio":"MsPuf_4_mantagaveegg_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//10
+				"text":"旧货商店？在那里我们也很有可能\n 会为我的船拿到一个新的螺旋桨！",
+				"audio":"Sally_4_junkshop_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//11
+				"text":"总之你拿到蛋了，很高兴你喜欢它。\n 我该回去制造项链去了！拜拜啦~",
+				"audio":"MsPuf_5_toodaloo_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//12
+				"text":"好吧... 美丽豚女士看来真是魅力超凡啊。",
+				"audio":"Sally_5_quitethechar_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//13
+				"text":"我猜我们知道接下来该去哪了, \n 让我们出发吧！",
+				"audio":"Sally_6_gonextletsgo_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+
+			]
+}

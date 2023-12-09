@@ -1,0 +1,393 @@
+ManifestFileVersion: 0
+CRC: 4227047157
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65787397528b02b70fbff2b9d634f2bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7eecc79c35eab4086b1d410d8212ac11
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7eeb6a60733e4dd4c802152eed402e21, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 676ca752e28a835479499c44a9b4d8dc, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7463adb34fca02e4485e3fe1e84f0114, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61efb9c347e33484090faa7cad77871f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a5de16775d23d4b99bfcdd62042252, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fac40e59d739f054a905a8f2cc15e68e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 025fed0adb75aed40a85154ac2bd0da4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb521e9ace49d8546a83f420a0debd12, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfcc462c3fb4e764e830f065d43318b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f391488c72f6bf742a4021fd8352f57a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30d66aacc9f1e6547a4fa6767d1ee174, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e80bd5d69176dc489b488ef181cbb5d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73598c8f65bcb004687c3b269b8bb506, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0141e276e44e09147bc5dd998b685ec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 423be38e139d4894880932211a055e67, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Common/Materials/stone_side.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab03_0.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/dustcloud.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/crabBeginning.anim
+- Assets/App/Common/Materials/metal_wood1_side.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_DoodleFace_layered.mat
+- Assets/App/Common/Materials/brick_lit.mat
+- Assets/App/Common/Materials/Home/HomeWallMaterial.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_landing_bg.jpg
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL01idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/crabLeftArm.controller
+- Assets/App/Common/Materials/Doodle_Rig_InnerEarsSG.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/incorrectSign.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/danceIn.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/IntroIn.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/crabRightArm.controller
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab02_0.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_complete_fg2.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/Reset.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/crossClaws.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/Cube.prefab
+- Assets/App/Common/Materials/Home/HomeFloorMaterial.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/ICB_right.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR01idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR06idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose4Crab.anim
+- Assets/App/Common/Materials/BrickLG.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose7Crab.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_selection_bg.jpg
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/numberlabel.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL06ide.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/mainStill.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab03_2.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crabshadow.png
+- Assets/App/Common/Materials/BrickPlus.mat
+- Assets/App/Common/Materials/SphereGlow.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/CrabCanvas.prefab
+- Assets/App/Common/Materials/metal_octo_side.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_choicebg3.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab01_2.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL05.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/signIdle.anim
+- Assets/App/Common/Materials/Home/HomeOuterFloorMaterial.mat
+- Assets/App/Common/Materials/Doodle_Rig_noseSG.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/Main Menu Screen Crab.prefab
+- Assets/App/Common/Materials/NoMarkerMat.mat
+- Assets/App/Common/Materials/ReverseMask.mat
+- Assets/App/Common/Materials/metal_crate_side.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_InnerEarsSG.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/Crab.controller
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_complete_fg1.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/crab_dance_shuffle_left_1.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/incorrect.anim
+- Assets/App/Common/Materials/grass_02.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL06.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR00_danceIn.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR02idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR01.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/CrabButton.controller
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_selection_stage2.png
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_Doodle_toeNailsSG.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab02_1.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab01_1.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR02.anim
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_DoodleMuzzel_layered.mat
+- Assets/App/Common/Materials/Home/HomeOuterWaterMaterial.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/correct.anim
+- Assets/App/Common/Materials/Mountain01_Crystal.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/mainHiddenIdle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/hidden.controller
+- Assets/App/Common/Materials/endmat.mat
+- Assets/App/Common/Materials/Doodle_Rig_Doodle_BodySG1.mat
+- Assets/App/Common/Materials/Doodle_Rig_teeth1.mat
+- Assets/App/Common/Materials/ReverseMasked.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab01_0.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_selection_stage1.png
+- Assets/App/Common/Materials/metal_octo.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR06.anim
+- Assets/App/Common/Materials/Doodle_Rig_eyeBrow4.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab04_1.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/exit.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL03.anim
+- Assets/App/Common/Materials/Doodle_Rig_DoodleFace_layered.mat
+- Assets/App/Common/Materials/Home/HomeAssetsCombinedMaterial.mat
+- Assets/App/Common/Materials/CrateMat.mat
+- Assets/App/Common/Materials/ShellMat.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/pebbles.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/goToQuiz.anim
+- Assets/App/Common/Materials/metal_wood_side.mat
+- Assets/App/Common/Materials/soilmat2.mat
+- Assets/App/Common/Materials/metal_jag_side.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/CrabSelectionsIndividual.prefab
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/mainHiddenDancing.anim
+- Assets/App/Common/Materials/UnlitSprite.mat
+- Assets/App/Common/Materials/cave_01.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR05.anim
+- Assets/App/Common/Materials/yellow_box_mat.mat
+- Assets/App/Common/Materials/SandGradient.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/mainIdle.anim
+- Assets/App/Common/Materials/BrickStraight1.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_choicebg1.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_bg.jpg
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL04idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose9Crab.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/button.controller
+- Assets/App/Common/Materials/lambert1.mat
+- Assets/App/Common/Materials/BrickStraight1G.mat
+- Assets/App/Common/Materials/BrickStraight2G.mat
+- Assets/App/Common/Materials/Mobile-Diffuse.shader
+- Assets/App/Common/Materials/Doodle_Rig_eyeColor4.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_complete_bg1.png
+- Assets/App/Common/Materials/Doodle_Rig_eyeSocket.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/GameObject.controller
+- Assets/App/Common/Materials/stone_01.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_retrybutton (2).png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_levelframe.png
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_Doodle_BodySG1.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/neutralPose.anim
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_eyeColor4.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose1Crab.anim
+- Assets/App/Common/Materials/BrickL.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL03idle.anim
+- Assets/App/Common/Materials/reeflonkbg.jpg
+- Assets/App/Common/Materials/BrickPlus (2).png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/crab_dance_shuffle_right_1.anim
+- Assets/App/Common/Materials/Home/HomeStartFloorMaterial.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_eyeSocket.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/dustcloud.prefab
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_landing_star.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_choicebg4.png
+- Assets/App/Common/Materials/SpriteGlow.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR04.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR03idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/CrabGridIndividual.prefab
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR03.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_landing_center.png
+- Assets/App/Common/Materials/BrickStraight (2).png
+- Assets/App/Common/Materials/cave_02.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL01.anim
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_tongue4.mat
+- Assets/App/Common/Materials/Masked.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose2Crab.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab04_2.png
+- Assets/App/Common/Materials/soilmat3.mat
+- Assets/App/Common/Materials/Home/HomeOuterBrickMaterial.mat
+- Assets/App/Common/Materials/Brick_L.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose3Crab.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/buttonFadeOut.anim
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_teeth1.mat
+- Assets/App/Common/Materials/blacktex.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose6Crab.anim
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_eyeBrow4.mat
+- Assets/App/Common/Materials/YesMarkerMat.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_noseSG.mat
+- Assets/App/Common/Materials/OpaqueSpriteShader.mat
+- Assets/App/Common/Materials/BrickStraight3G.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL02idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/Crab Level Select.prefab
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose8Crab.anim
+- Assets/App/Common/Materials/SandMat.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR05ide.anim
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_DoodleMESH_MASTER_v11_DoodleMESH_v16_Mane.mat
+- Assets/App/Common/Materials/Doodle_Rig_Doodle_TailSG.mat
+- Assets/App/Common/Materials/Brick_flat.png
+- Assets/App/Common/Materials/grass_side.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabby_hearts.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL00_crossarm.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_nextbutton (2).png
+- Assets/App/Common/Materials/BrickStraight.mat
+- Assets/App/Common/Materials/blob_shadow.mat
+- Assets/App/Common/Materials/metal_wood.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab03_1.png
+- Assets/App/Common/Materials/Video Cap/Dog_mouth_mat.mat
+- Assets/App/Common/Materials/BrickStraight2.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/CrabQuestionCanvas.controller
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR04idle.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_endscreen_base (2).png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/pose5Crab.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/newCrab.prefab
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/correct_indicator.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/correctSign.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL00_danceIn.anim
+- Assets/App/Common/Materials/misplace.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_useBackground.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/Crab.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/Bucket.prefab
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/ICB_wrong.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_selection_rightarrow.png
+- Assets/App/Common/Materials/startmat.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/pebbles.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL05ide.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/crab.controller
+- Assets/App/Common/Materials/Video Cap/Dog_face_mat.mat
+- Assets/App/Common/Materials/metal_crate.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/HPImage.prefab
+- Assets/App/Common/Materials/BrickPlus.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_complete_bg2.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/bucket.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animations/come_in.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_selection_leftarrow.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/idle.anim
+- Assets/App/Common/Materials/Doodle_Rig_shine2.mat
+- Assets/App/Common/Materials/Mask.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Prefabs/Crab Win Screen.prefab
+- Assets/App/Common/Materials/grass_01.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_shine2.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_uipanel.png
+- Assets/App/Common/Materials/Brick_L (2).png
+- Assets/App/Common/Materials/metal_wood1.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawR00_crossarm.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL02.anim
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab02_2.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/crab04_0.png
+- Assets/App/Common/Materials/cave_03.mat
+- Assets/App/Common/Materials/Doodle_Rig_DoodleMESH_MASTER_v11_DoodleMESH_v16_Mane.mat
+- Assets/App/Common/Materials/metal_jag.mat
+- Assets/App/Common/Materials/soilmat1.mat
+- Assets/App/Common/Materials/Doodle_Rig_tongue4.mat
+- Assets/App/Common/Materials/BrickStraight3.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_backbutton (2).png
+- Assets/App/Common/Materials/Doodle_Rig_DoodleMuzzel_layered.mat
+- Assets/App/Common/Materials/Doodle_Rig_useBackground.mat
+- Assets/App/Common/Materials/gameanim_test_Doodle_Rig_Doodle_TailSG.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/preQuiz.anim
+- Assets/App/Common/Materials/Doodle_Rig_Doodle_toeNailsSG.mat
+- Assets/App/Common/Materials/translucent.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/crabbie_ingame_choicebg2.png
+- Assets/App/Features/Games/InfiniteCrabBrothers/Animator/clawL04.anim
+- Assets/App/Common/Materials/BrickT.mat
+- Assets/App/Features/Games/InfiniteCrabBrothers/Sprites/Crab/dustcloud.png
+Dependencies:
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-fonts-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/games-shared-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-gui-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-audio-sfx-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/buddy-bundles
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/infinitecrabbros-configs-bundle

@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: f09af828ddad56941863d34ed5b3dea4
+timeCreated: 1465807480
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Zen_KitchenSink
+    100004: Zen_KitchenSinkCabinet1
+    100006: Zen_KitchenSinkCabinet2
+    100008: Zen_KitchenSinkDrawer1
+    100010: Zen_KitchenSinkDrawer2
+    100012: Zen_KitchenTap
+    100014: Zen_KitchenTapLeft
+    100016: Zen_KitchenTapLeftSwitch
+    100018: Zen_KitchenTapRight
+    100020: Zen_KitchenTapRightSwitch
+    400000: //RootNode
+    400002: Zen_KitchenSink
+    400004: Zen_KitchenSinkCabinet1
+    400006: Zen_KitchenSinkCabinet2
+    400008: Zen_KitchenSinkDrawer1
+    400010: Zen_KitchenSinkDrawer2
+    400012: Zen_KitchenTap
+    400014: Zen_KitchenTapLeft
+    400016: Zen_KitchenTapLeftSwitch
+    400018: Zen_KitchenTapRight
+    400020: Zen_KitchenTapRightSwitch
+    2300000: Zen_KitchenSink
+    2300002: Zen_KitchenSinkCabinet1
+    2300004: Zen_KitchenSinkCabinet2
+    2300006: Zen_KitchenSinkDrawer1
+    2300008: Zen_KitchenSinkDrawer2
+    2300010: Zen_KitchenTap
+    2300012: Zen_KitchenTapLeft
+    2300014: Zen_KitchenTapLeftSwitch
+    2300016: Zen_KitchenTapRight
+    2300018: Zen_KitchenTapRightSwitch
+    3300000: Zen_KitchenSink
+    3300002: Zen_KitchenSinkCabinet1
+    3300004: Zen_KitchenSinkCabinet2
+    3300006: Zen_KitchenSinkDrawer1
+    3300008: Zen_KitchenSinkDrawer2
+    3300010: Zen_KitchenTap
+    3300012: Zen_KitchenTapLeft
+    3300014: Zen_KitchenTapLeftSwitch
+    3300016: Zen_KitchenTapRight
+    3300018: Zen_KitchenTapRightSwitch
+    4300000: Zen_KitchenSink
+    4300002: Zen_KitchenSinkDrawer1
+    4300004: Zen_KitchenSinkDrawer2
+    4300006: Zen_KitchenSinkCabinet1
+    4300008: Zen_KitchenSinkCabinet2
+    4300010: Zen_KitchenTap
+    4300012: Zen_KitchenTapLeft
+    4300014: Zen_KitchenTapLeftSwitch
+    4300016: Zen_KitchenTapRightSwitch
+    4300018: Zen_KitchenTapRight
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

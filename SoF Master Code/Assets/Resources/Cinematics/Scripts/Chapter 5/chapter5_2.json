@@ -1,0 +1,106 @@
+{
+"Dialogue":[
+				{//0
+					"text":"You three ain't that bad after all. You pay attention! you are able to recognise us as individuals, not many creatures can do that!",
+					"audio":"ICB_1_Aintthatbad",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//1
+					"text":"Tell you what, we like you three. We'll hit you up!",
+					"audio":"ICB_2_welikehityouup",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//2
+					"text":"We believe that this is yours!",
+					"audio":"ICB_3_believethisyours",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//3
+					"text":"*happy*",
+					"audio":"SFX_buddy_happy_02",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//4
+					"text":"The egg! Can we ask where you got it from?",
+					"audio":"Sally_1_eggwhere_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"We found them in this big boat!",
+					"audio":"ICB_4_foundbigboat",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//6
+					"text":"A big boat?!",
+					"audio":"Sally_2_abigboat_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"Yes, a big boat. On the other side of the reef where it drops down into the deeper ocean.",
+					"audio":"ICB_5_yesbigboatdeepocean",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//8
+					"text":"That must be Goliath! We're definitely on the right track!",
+					"audio":"Sally_2_thatgoliath_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"Hold up. You're not going there are  you? It's dangerous!",
+					"audio":"ICB_7_notgoingthere",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//10
+					"text":"We have to, we need to retrieve the rest of the eggs.",
+					"audio":"Sally_3_needtheeggs_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//11
+					"text":"Hmm..... if you insist.",
+					"audio":"ICB_8_ifyouinsist",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//12
+					"text":"*suprised*",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//13
+					"text":"What is it?",
+					"audio":"Sally_4_whatisit_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//14
+					"text":"You don't want to know... just stay away from the edge of the cliff or you'll be sorry!",
+					"audio":"ICB_10_juststayaway",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//15
+					"text":"We'll keep that in mind. Thank you",
+					"audio":"Sally_5_keepinmind_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//16
+					"text":"*waves goodbye*",
+					"audio":"SFX_buddy_garble",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+			],
+}

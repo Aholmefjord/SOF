@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5e30f15d71aa5f54fbded66b47e2ea51
+timeCreated: 1482660976
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cone
+  fontNames:
+  - Cone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c819d20b94a8ac429f877d971e6040b, type: 3}
+  - {fileID: 12800000, guid: e7a2c3ed388473e4fb3fb287c26d4136, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

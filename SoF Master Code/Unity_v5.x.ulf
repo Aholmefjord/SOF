@@ -1,0 +1,59 @@
+<root>
+  <License id="Terms">
+    <AlwaysOnline Value="false"/>
+    <ClientProvidedVersion Value="5.4.3f1"/>
+    <DeveloperData Value="AQAAAFIzLUhWRDMtWkVFUi1YQ1o1LVU4VE4tUUY2Vg=="/>
+    <Features>
+      <Feature Value="0"/>
+      <Feature Value="1"/>
+      <Feature Value="2"/>
+      <Feature Value="3"/>
+      <Feature Value="4"/>
+      <Feature Value="12"/>
+      <Feature Value="13"/>
+      <Feature Value="17"/>
+      <Feature Value="18"/>
+      <Feature Value="19"/>
+      <Feature Value="20"/>
+      <Feature Value="24"/>
+      <Feature Value="25"/>
+      <Feature Value="33"/>
+      <Feature Value="34"/>
+      <Feature Value="36"/>
+    </Features>
+    <InitialActivationDate Value="2016-03-07T07:16:09"/>
+    <LicenseVersion Value="5.x"/>
+    <MachineBindings>
+      <Binding Key="1" Value="00329-00000-00003-AA344"/>
+      <Binding Key="4" Value="VG8gYmUgZmlsbGVkIGJ5IE8uRS5NLg=="/>
+      <Binding Key="2" Value="619151087124"/>
+      <Binding Key="5" Value="40:8d:5c:e6:05:61"/>
+    </MachineBindings>
+    <MachineID Value="KK+wqhHspC9J2h2l+/egUtCA2po="/>
+    <SerialHash Value="e6451cbba4dcd39f0e1237441d62f62dd6a31abe"/>
+    <SerialMasked Value="R3-HVD3-ZEER-XCZ5-U8TN-XXXX"/>
+    <StartDate Value="2016-03-07T00:00:00"/>
+    <StopDate Value=""/>
+    <UpdateDate Value="2016-11-25T06:57:46"/>
+  </License>
+
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference URI="#Terms">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>ib1RjEsNaDkcfq45WPj3ASSc6c8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>tmJD/NMTBkWVrmDt625tP3a+GT0UfB3fWWpJp1kffi67Yybg5nl0bt8cvEMxYsNZ
+dBGHU7jBI6ZnInFNc7simAW1uX2I+ZHxwefgXf0up+KpijqOAZbgMKLce9HNg7U4
+Iwylswz0TPwr2psP8fR2KoQeGBu9q2czjcThZlRhY1o5jmZRZdt8BqdQEnd/pzYx
+EX8uDEuwIiHvtwo4aw/a9fd5unbvXyZjoL20pS9v7L8eeZtr2Z1YvFEZ5S7Bb7km
+DeCQrqL2LQrrXRULKGkLEezNNcrymnPOIi7fM5C7th/J6MU2X8qwDZl9h4/8BRfT
+za4Bfd18aTy+FMekphgORw==</SignatureValue>
+</Signature>
+</root>

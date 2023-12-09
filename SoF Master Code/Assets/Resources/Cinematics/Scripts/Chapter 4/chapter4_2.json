@@ -1,0 +1,118 @@
+{
+"Dialogue":[
+				{//0
+					"text":"Oh! Thank you very much",
+					"audio":"MANTA13",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//1
+					"text":"Great job on piecing the smaller pieces together!",
+					"audio":"MANTA14",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//2
+					"text":"Now! Let me piece them all together...",
+					"audio":"MANTA15",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//3
+					"text":"AND... DONE!",
+					"audio":"MANTA16",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//4
+					"text":"Thank you!",
+					"audio":"Sally_1_Thankyou_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"*clapping*",
+					"audio":"SFX_buddy_clap_01",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//6
+					"text":"Oh, That egg on your hand looks mighty familiar!",
+					"audio":"MANTA17",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//7
+					"text":"Yes! We got it from Miss Puffin, she told us you gave it to her?",
+					"audio":"Sally_2_frommspuff_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//8
+					"text":"Why yes! When I got the egg I thought it suits her looks. Doesn't it?",
+					"audio":"MANTA18",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//9
+					"text":"Can we ask where you got the egg from?",
+					"audio":"Sally_3_eggfrom_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//10
+					"text":"Why I got it from the Infinite Crab Brothers!",
+					"audio":"MANTA19",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//11
+					"text":"Infinite Crab Brothers? Who are they?",
+					"audio":"Sally_4_icbwho_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//12
+					"text":"They're famous around these parts, they're rough and loud so alot of creatures avoid them.",
+					"audio":"MANTA20",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//13
+					"text":"You might find them back in the reefs. They're always lurking around. Wouldn't be suprised if they find you first",
+					"audio":"MANTA21",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//14
+					"text":"They don't sound very nice...",
+					"audio":"Sally_5_dontsoundnice_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//15
+					"text":"Hahaha! Believe it or not, they're good friends of mine!",
+					"audio":"MANTA22",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//16
+					"text":"They find junk for my shop all the time. I'm sure they can help you find more of those eggs!",
+					"audio":"MANTA23",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//17
+					"text":"I see... thank you for telling us. We shall go find them!",
+					"audio":"Sally_5_thxgofindthem_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//18
+					"text":"*Clapping in gratitude*",
+					"audio":"SFX_buddy_clap_01",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+			],
+}

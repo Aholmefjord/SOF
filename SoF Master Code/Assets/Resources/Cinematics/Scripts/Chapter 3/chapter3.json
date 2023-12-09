@@ -1,0 +1,58 @@
+{
+"Dialogue":[
+			{//0
+				"text":"Hmm.... I think your buddy is hungry",
+				"audio":"Sally_1_ithinkbuddyhungry_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//1
+				"text":"Tap on your buddy to check its hunger level.",
+				"audio":"Sally_2_taponbuddy_01",
+				"dialogType":2,
+				"Speaker":"Sally",
+			},
+			{//2
+				"text":"Oh deary, it sure is hungry.",
+				"audio":"Sally_3_itsureishungry_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//3
+				"text":"It is time to feed it!",
+				"audio":"Sally_4_time2feed_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//4
+				"text":"Do you see the delicious looking icon?",
+				"audio":"Sally_5_deliciousiconn_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//5
+				"text":"Tap on it and feed away!",
+				"audio":"Sally_6_tapfeed_01",
+				"dialogType":2,
+				"Speaker":"Sally",
+			},
+			{//6
+				"text":"Your buddy looks satisfied.\n It must be happy being with you",
+				"audio":"Sally_7_satisfiedhappy_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//7
+				"text":"Remember to feed your buddy from time to time.",
+				"audio":"Sally_8_feedbuddy_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//8
+				"text":"You have to take care of your buddy!",
+				"audio":"Sally_9_takecareofbuddy_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			]
+}

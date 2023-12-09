@@ -1,0 +1,95 @@
+{
+"Dialogue":[
+				{//0
+					"text":"！！？！！",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//1
+					"text":"啊，真的是蛋！我们一定要取回它",
+					"audio":"Sally_1_reallyisegg_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"慢慢的....\n 我们一定要非常小心谨慎",
+					"audio":"Sally_2_slowlycareful_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//3
+					"text":"慢慢来... 慢慢来...",
+					"audio":"Sally_3_slowlslow_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"干得好伙计们！\n 是时候该返回总部了！",
+					"audio":"Sally_4_headbackhq_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"哦不....",
+					"audio":"Sally_5_ohno_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"啊~",
+					"audio":"Sally_6_ahhh_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"我们赶紧离开这",
+					"audio":"Sally_7_letsgetout_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//8
+					"text":"啊~",
+					"audio":"Sally_6_ahhh_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"大家都来了",
+					"audio":"Sally_8_itseveryone_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//10
+					"text":"这里震动很强烈...\n 我可不希望你们把海底巨怪给吵醒！",
+					"audio":"MANTA24",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//11
+					"text":"有我们在这帮助你们真的应该心存感激！",
+					"audio":"MsPuf_1_heretohelp_1",
+					"dialogType":0,
+					"Speaker":"Miss Puffin",
+				},
+				{//12
+					"text":"我们不是都已经警告过你们了吗？！？",
+					"audio":"ICB_1_whatwetellyou",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//13
+					"text":"如果没有我们的支持\n 你们是不会成功的！",
+					"audio":"ICB_2_wontstandachance",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//14
+					"text":"赶紧走吧！！！",
+					"audio":"ICB_2_justgo",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+
+			],
+}

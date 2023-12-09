@@ -1,0 +1,64 @@
+{
+"Dialogue":[
+				{//0
+					"text":"??!!??",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//1
+					"text":"I have searched around the ship and there's no more egg inside, but..",
+					"audio":"Sally_1_nomoreeggs_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"?!!!??",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//3
+					"text":"That could be our egg.",
+					"audio":"Sally_2_thatouregg_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"The crab brothers warned us about the deep seas, but...",
+					"audio":"Sally_3_warnedus_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"Shouldn't we go there and find out?",
+					"audio":"Sally_4_gofindout_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"You're right",
+					"audio":"Sally_5_youareright_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"But we have to retrieve the egg at all costs.",
+					"audio":"Sally_6_retrieveegg_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//8
+					"text":"I have a bad feeling about this...",
+					"audio":"Sally_7_badfeeling_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"No, it's alright. As long as we don't go to deep, we'll be fine!",
+					"audio":"Sally_8_webefine_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+			],
+}

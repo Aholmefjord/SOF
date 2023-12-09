@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4207424546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb206775b00a667164a42db0189d96d5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 12/01.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 12/02.jpg
+Dependencies: []

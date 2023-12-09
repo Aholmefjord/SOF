@@ -1,0 +1,333 @@
+ManifestFileVersion: 0
+CRC: 1521451231
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 351f8b59964846f52e00794d754afdd3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: da60b5daf0cd3ae0637db6f06a109753
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a500a2a010e3ee64594534d0a28f495a, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -98529514, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -146154839, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -113659843, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1297475563, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7463adb34fca02e4485e3fe1e84f0114, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 458a18450e0c6b845a0c652284af82bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ee889b72fc76d747a7f5ff88390dbaf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 025fed0adb75aed40a85154ac2bd0da4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d561f35a3be22c4498ecfceae52e2276, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb521e9ace49d8546a83f420a0debd12, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f391488c72f6bf742a4021fd8352f57a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9104889dfc82cc144a4bd6e5d2dab47a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5dce52e981ad704a83abde9320d7259, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73598c8f65bcb004687c3b269b8bb506, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/fuseFish_fins3.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s68.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s26.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/36.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/1.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/19.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s61.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/40.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s5.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish4_Happy.PNG
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish2_Semi.PNG
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/12.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/barLinesShort.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/26.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/13.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/fuseFish_fins2.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s46.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/fuseBarBG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/38.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/background.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s4.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/carpetBG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s66.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/000_piecesLABEL.jpg
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/23.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/39.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s50.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/fuseFish_fins4.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/woodBG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s24.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/2.png
+- Assets/App/Autumn/Tangram/Sprites/Start Screen UI/MantaLogo.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s27.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/7.png
+- Assets/App/Autumn/Tangram/Sprites/Start Screen UI/background.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s58.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/progBarFill.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/11.png
+- Assets/App/Autumn/Tangram/Prefab/BiggerExplosion.prefab
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/25.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s56.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s44.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/fuseFire.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s39.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s51.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s8.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/barLines.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s13.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/6.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s53.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/BG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/z_EXTRA3.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/trangramBG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s59.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/progBarBG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/33.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/fuseBarFill.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s28.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish3_Angry.PNG
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish3_Semi.PNG
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/fuseFish_fins1.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s7.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/restartBtn.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/nextBtn.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish1_Happy.PNG
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/chestNew_manta.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/z_EXTRA1.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/chestLocked_manta.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s54.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish5_Angry.PNG
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/Hearts2.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s57.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s38.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/barLinesLong.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s70.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s16.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish1_Semi.PNG
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s71.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish5_Semi.PNG
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/PlayText.png
+- Assets/App/Autumn/Tangram/Sprites/resetpuzzlebutton.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/tray.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/gradientBG.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/Hearts3.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s23.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/4.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s48.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/34.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s67.png
+- Assets/App/Autumn/Tangram/Sprites/Temp Puzzle Pieces/shape2.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s63.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s15.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/rays.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s21.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s52.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s45.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s55.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/22.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/backBtn.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s25.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish1_Angry.PNG
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/progBarBorder.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s82.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s30.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s41.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/37.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s40.png
+- Assets/App/Autumn/Tangram/Sprites/Start Screen UI/PlayBoard.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s62.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/mantaShop.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s34.png
+- Assets/App/Autumn/Tangram/Prefab/ui/Tangram Level Select.prefab
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s81.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish4_Angry.PNG
+- Assets/App/Autumn/Tangram/Sprites/Start Screen UI/rays.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/24.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s1.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/21.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish2_Angry.PNG
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s65.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/z_EXTRA2.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s14.png
+- Assets/App/Autumn/Tangram/Prefab/Tangram Coin Explosion.prefab
+- Assets/App/Autumn/Tangram/Sprites/Temp Puzzle Pieces/shape1.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/15.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/5.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/3.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s64.png
+- Assets/App/Autumn/Tangram/Sprites/Start Screen UI/mantaShop.png
+- Assets/App/Autumn/Tangram/Prefab/tangram_template.prefab
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/sandGround.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/29.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s75.png
+- Assets/App/Autumn/Tangram/Prefab/ui/Stage Clear UI.prefab
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s17.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s19.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s36.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/31.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish4_Semi.PNG
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/9.png
+- Assets/App/Autumn/Tangram/Prefab/ui/Tangram Results Screen.prefab
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/Hearts1.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s37.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s69.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s6.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s72.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s74.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/8.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s77.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/bg.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s12.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/32.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s10.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/27.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s20.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/18.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s22.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s35.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s73.png
+- Assets/App/Autumn/Tangram/Prefab/ui/Tangram MainMenu.prefab
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s11.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s43.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s31.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/FG.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s79.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s9.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s18.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish2_Happy.PNG
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/woodPlank.png
+- Assets/App/Autumn/Tangram/Sprites/sprite-addition.mat
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/14.png
+- Assets/App/Autumn/Tangram/Sprites/Temp Puzzle Pieces/shape4.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s3.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/16.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/fuseFish_fins5.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/17.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s33.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s76.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s29.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s78.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/30.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish3_Happy.PNG
+- Assets/App/Autumn/Tangram/Sprites/sprite-multiply.mat
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/20.png
+- Assets/App/Autumn/Tangram/Sprites/customer_fishes/Fish5_Happy.PNG
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s32.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s49.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s42.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s80.png
+- Assets/App/Autumn/Tangram/Sprites/Game Screen UI/progBarPig.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/PlayBoard.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s60.png
+- Assets/App/Autumn/Tangram/Sprites/Temp Puzzle Pieces/shape3.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/35.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s2.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/10.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/28.png
+- Assets/App/Autumn/Tangram/Sprites/mantaparts/s47.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Results Screen/mainSign.png
+- Assets/App/Autumn/Tangram/Sprites/Start Screen UI/PlayText.png
+- Assets/App/Autumn/Tangram/UI Screens/Tangram Main UI Sprites/chestClear_manta.png
+Dependencies:
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-fonts-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/games-shared-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-gui-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-audio-sfx-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/tumbletrouble-bundle

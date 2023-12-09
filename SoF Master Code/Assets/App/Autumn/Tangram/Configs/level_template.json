@@ -1,0 +1,19 @@
+{
+	"gold_3_stars" : 150,
+	"gold_after_20_completion_max" : 5,
+	"gold_after_20_completion_min" : 1,
+	"gold_first_completion_max" : 100,
+	"gold_first_completion_min" : 80,
+	"gold_subsequent_completion_max" : 40,
+	"gold_subsequent_completion_min" : 20,
+   
+	"ruby_3_stars" : 10,
+	"ruby_after_20_completion" : 0,
+	"ruby_first_completion" : 5,
+	
+	"score_per_cleared" : 2000,
+
+	"puzzle_num" : 3,
+	"puzzle_time" : 45,
+	"puzzles" : [ 1, 1, 1 ],
+}

@@ -1,0 +1,68 @@
+total_parts	7
+lesson_name	JULES 小白介绍
+lesson_description	1.让幼儿了解小白（JULES平板电脑）的使用方法(开机，关机，锁屏，调整音量)|2.让幼儿了解使用小白的基本规则，学会保护和爱惜，并独立使用小白|3.使用打开“兜兜画板”应用程序并完成画作，使幼儿对计算思维课程产生初步兴趣
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，《小伙伴手册》,水彩笔（每位幼儿分别有红，黄，蓝色彩色笔一支）
+part_1_description_2_header	教学目标
+part_1_description_2	1.让幼儿了解小白（JULES平板电脑）的使用方法(开机，关机，锁屏，调整音量)|2.让幼儿了解使用小白的基本规则，学会保护和爱惜，并独立使用小白|3.使用打开“兜兜画板”应用程序并完成画作，使幼儿对计算思维课程产生初步兴趣
+part_1_description_3_header	教学提示
+part_1_description_3	1.在给幼儿分发小白前，确保这些小白已经连接上学校的无线网络 |2.强调幼儿需要适当地照顾小白|3教师在计算思维的课堂上扮演的角色是引导者，帮助者，合作者及观察者，多鼓励幼儿自己去独立操作完成
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.游戏：画一画 猜一猜（教师的平板电脑上有参考图案）|教师画小朋友猜，引出可爱的主人公——小狮子“兜兜”||2.提问：小朋友们，海底有什么动物呢？今天我们要认识一位可以去海底探险的狮子---兜兜，兜兜带我们一起去海底探险！"
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_name	示范
+part_3_video_name	Doodle Episode 1
+part_3_video_type	doodle
+part_3_video_path	1
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 10分钟）
+part_3_description_1	视频播放：兜兜视频第一集|1）这只小狮子的名字是什么呢？|教师示范轻轻地拿起平板电脑（小白）|2）开关键在哪里？怎样才能打开小白呢？示范开机|3）最长的按键有什么作用？示范调节音量（调节音量）|4）示范锁屏（轻轻按开关键一次）|5）示范关机（长按开机键）
+part_3_picture	
+part_3_button	button_playvideo
+part_3_button_description	这按钮将会开始兜兜第一集
+part_4	manual
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	小白陪你快乐学（时长 = 20分钟）
+part_4_description_1	1.比一比：看谁先打开小白|2.教师发出指令：|解锁-找到并打开程序-调节音量-关机|重复练习，直到幼儿掌握
+part_4_picture	
+part_4_button	
+part_4_button_description	
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	1.教师再次示范开机，找到“兜兜画板”软件，并写下自己的名字，示范如何画画|2.幼儿独立画画（教师给出绘画的主题，如：水果，车......）|3.涂一涂：请幼儿翻到《小伙伴手册》第二页，完成《涂涂画画》
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1. 回顾今天的学习内容|2. 让幼儿将自己的画作在班级分享|3. 请幼儿将《小伙伴手册》带回家，|完成第三页内容《给兜兜穿一件新衣服》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	回家向爸爸妈妈介绍你的新朋友（兜兜），给兜兜穿上一件漂亮的新衣服（涂色游戏，详见《小伙伴手册》第三页）
+part_7_picture	
+part_7_button	
+part_7_button_description	

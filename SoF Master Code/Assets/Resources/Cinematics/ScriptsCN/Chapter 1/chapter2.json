@@ -1,0 +1,112 @@
+{
+"Dialogue":[
+			{//0
+				"text":"你好！我的名字是美丽豚女士！很高兴见到你！",
+				"audio":"MsPuf_1_hellothere",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//1
+				"text":"我在从蛤子群里寻找珍珠，\m 他们说如果我能够找到他们的话，\n 就会给我他们的珍珠！",
+				"audio":"MsPuf_2_clamclans_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//2
+				"text":"我希望能做一条珍珠项链 \n 然后在我妹妹生日那天能送给她！",
+				"audio":"MsPuf_3_necklace_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//3
+				"text":"但是很难能找到一个,这个地方简直就像是一个迷宫！",
+				"audio":"MsPuf_4_maze_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//4
+				"text":"哦亲爱的，哦亲爱的....",
+				"audio":"MsPuf_5_ohdear_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//5
+				"text":"你可以帮帮我吗, 求你了？",
+				"audio":"MsPuf_6_helpplease_02",
+				"dialogType":1,
+				"Speaker":"Miss Puffin",
+			},
+			{//6
+				"text":"在我们帮助她的时候正好可以探索这个区域",
+				"audio":"Sally_explorearea_01",
+				"dialogType":1,
+				"Speaker":"Sally",
+			},
+			{//7
+				"text":"完美！你们三个简直就是我的心肝宝贝!",
+				"audio":"MsPuf_7_perfect_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//8
+				"text":"这些山峰就像是迷宫，\n 你将需要计划好你的行进路程要不然你会走丢的",
+				"audio":"",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//9
+				"text":"计算好需要转弯的次数，\n 你就能成功的拿到珍珠",
+				"audio":"",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//10
+				"text":"然后输入指令到左边的航行面板里",
+				"audio":"",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//11
+				"text":"记住我们的时间不多了，\n 所以请用最短的距离到达目的地",
+				"audio":"",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//12
+				"text":"哦！谢谢你谢谢你！你们真是帮了大忙了！",
+				"audio":"MsPuf_8_thankyou_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//13
+				"text":"现在我该离开了，我回去要开始为我妹妹做她的生日项链了！\n 再见！",
+				"audio":"MsPuf_9_mspffciaociao_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//14
+				"text":"*凝视*",
+				"audio":"SFX_buddy_attention",
+				"dialogType":0,
+				"Speaker":"Buddy",
+			},
+			{//15
+				"text":"！！？？！！",
+				"audio":"SFX_buddy_attention",
+				"dialogType":0,
+				"Speaker":"Buddy",
+			},
+			{//16
+				"text":"你得到了一个蛋！",
+				"audio":"",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//17
+				"text":"让我们把它带回船里去吧！",
+				"audio":"Sally_bringback2ship_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			]
+}

@@ -1,0 +1,68 @@
+total_parts	7
+lesson_name	登陆
+lesson_description	1.幼儿将学习到用户名和密码的概念，成功登陆、登出账户解释密码保密和记住它的重要性|2.成功修改密码
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，纸笔（根据幼儿人数），纸条（含JULES提供的用户名及密码），彩色笔（每人一套），《小伙伴手册》，故事书（第一卷）《潜水艇萨丽》
+part_1_description_2_header	教学目标
+part_1_description_2	1.幼儿将学习到用户名和密码的概念，成功登陆、登出账户解释密码保密和记住它的重要性|2.成功修改密码
+part_1_description_3_header	教学提示
+part_1_description_3	1.教师需确保所有的幼儿平板都已连接上无线网络 |2.幼儿们将理解拥有用户名和高强度密码的重要性 |3.教师应收集幼儿写在纸片上的密码，以防幼儿忘记自己的密码 |4.我们将提供给教师一个“主密码”，该密码可以登录所有的幼儿账号此举措是为了防止幼儿因各种特殊原因无法访问账户 
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.提问：|小朋友们知道超人吗？|超人有什么本领？|兜兜会什么本领呢？(自由回答)|------兜兜有一个小本领，可以在海底冒险，并且登陆和修改密码，超级酷是不是？||2.讨论：|1）密码是什么？|2）小朋友你们会修改密码吗?
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_name	示范
+part_3_video_name	Doodle Episode 2
+part_3_video_type	doodle
+part_3_video_path	2
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.视频播放：兜兜视频第二集|2.提问：|a）小朋友喜欢吃汉堡吗?|b）我们需要守护视频里面的汉堡房子，那要设置什么呢?|c）小朋友知道爸爸妈妈的手机密码是多少吗？|（引导幼儿不要告诉别人，强调密码安全）||3.示范登陆并且修改密码
+part_3_picture	
+part_3_button	button_playvideo
+part_3_button_description	这按钮将会开始兜兜第二集
+part_4	manual
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	小白陪你快乐学（时长 = 15分钟）
+part_4_description_1	1.分发给幼儿Jules预设的用户名和密码（纸条）|2.比一比：看谁先登陆|3.比一比：看谁先修改密码||分发给每一位幼儿一支笔，一张纸，让幼儿悄悄写下自己的真实名字和修改后的密码
+part_4_picture	
+part_4_button	
+part_4_button_description	
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	1.活动一：书写密码用户名 |完成《小伙伴手册》上面的第四页和第五页。|（部分幼儿不会书写用户名，由教师协助完成，但是密码由幼儿独立记录到《小伙伴手册》上）||2.活动二：找找涂涂|完成《小伙伴手册》上面的第六页。|a）教师介绍登陆后看到的房间（教室大屏幕），请幼儿用如下的短语介绍房间里面有什么。|（如：可爱的小床，蓝色的桌子，木制的书柜，蹦蹦跳跳的小狐狸...）如果幼儿无法完成，教师可以给出形容词，幼儿补充名词。如：|师：圆形的            幼儿：窗户|师：美丽的            幼儿：地毯|b）请幼儿翻到《小伙伴手册》第四页，完成《涂一涂》
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1. 回顾今天的学习内容|2. 让幼儿将自己的涂色画作在班级分享|3. 请幼儿将《小伙伴手册》带回家，和爸爸妈妈一起看漫画故事第七页《密码的安全》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	《小伙伴手册》第七页：和爸爸妈妈一起看漫画故事《密码的安全》
+part_7_picture	
+part_7_button	
+part_7_button_description	

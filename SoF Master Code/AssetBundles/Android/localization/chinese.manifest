@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 69599792
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 702a901ae0e2ebee8c59047ba27f4573
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f73bf4575117d03472577b0bcfa36a4a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crab_tutorial_3.png
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crabbie_landing_start_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crabbieTitleCN.png
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crab_tutorial_4.png
+- Assets/App/Features/Localization/chinese/Images/map/2icbmapiconCN.png
+- Assets/App/Features/Localization/chinese/Images/gui/settings_resume_cn.png
+- Assets/App/Features/Localization/chinese/Images/games/Manta/manta_tutorial_1.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/reelrightbutton_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearly_tutorial_3.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearly_tutorial_5.png
+- Assets/App/Features/Localization/chinese/Images/games/Manta/manta_tutorial_4.png
+- Assets/App/Features/Localization/chinese/Images/games/Manta/manta_tutorial_title.png
+- Assets/App/Features/Localization/chinese/Images/gui/settings_home_cn.png
+- Assets/App/Features/Localization/chinese/Images/games/Tako/tako_tutorial_title.png
+- Assets/App/Features/Localization/chinese/Images/map/3mpmapiconCN.png
+- Assets/App/Features/Localization/chinese/Images/gui/loginbutton_CN.png
+- Assets/App/Features/Localization/chinese/Images/map/worksheeticon_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/TsumTsum/tsum_tsum_tutorial_4.png
+- Assets/App/Features/Localization/chinese/Images/games/TsumTsum/tsum_tsum_tutorial_title.png
+- Assets/App/Features/Localization/chinese/Images/games/TsumTsum/tsum_tsum_tutorial_3.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearly_tutorial_1.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearlywhirlytitle_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Tako/tako_tutorial_1.png
+- Assets/App/Features/Localization/chinese/Images/games/Tako/tako_tutorial_2.png
+- Assets/App/Features/Localization/chinese/Images/games/Chomp/chomp_tutorial_title.png
+- Assets/App/Features/Localization/chinese/text_chinese.xml
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crab_tutorial_title.png
+- Assets/App/Features/Localization/chinese/Images/gui/returnbutton_CN.png
+- Assets/App/Features/Localization/chinese/image_chinese.xml
+- Assets/App/Features/Localization/chinese/Images/games/Chomp/chomp_tutorial_4.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/reefstartoverbutton_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crab_tutorial_2.png
+- Assets/App/Features/Localization/chinese/Images/gui/settings_restart_cn.png
+- Assets/App/Features/Localization/chinese/Images/games/Chomp/chompchompicon_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearly_tutorial_title.png
+- Assets/App/Features/Localization/chinese/Images/games/Chomp/chomp_tutorial_2.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/reefleftbutton_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/TsumTsum/ttgametitlev2_CN.png
+- Assets/App/Features/Localization/chinese/style_chinese.xml
+- Assets/App/Features/Localization/chinese/Images/games/Crab/crab_tutorial_1.png
+- Assets/App/Features/Localization/chinese/Images/games/Tako/tako_tutorial_3.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearly_tutorial_2.png
+- Assets/App/Features/Localization/chinese/Images/map/videoicon_CN.png
+- Assets/App/Features/Localization/chinese/Images/gui/settings_levelselect_cn.png
+- Assets/App/Features/Localization/chinese/Images/map/4sunkenmapiconCN.png
+- Assets/App/Features/Localization/chinese/Images/games/Pearly/pearly_tutorial_4.png
+- Assets/App/Features/Localization/chinese/Images/map/doodleicon_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/TsumTsum/tsum_tsum_tutorial_2.png
+- Assets/App/Features/Localization/chinese/Images/games/Tako/start-screen_title_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Manta/manta_tutorial_2.png
+- Assets/App/Features/Localization/chinese/Images/games/Manta/mantamatchmaniatitle_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Chomp/chomp_tutorial_3.png
+- Assets/App/Features/Localization/chinese/Images/games/Tako/Start_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/Chomp/chomp_tutorial_1.png
+- Assets/App/Features/Localization/chinese/Images/map/1mantamapiconCN.png
+- Assets/App/Features/Localization/chinese/Images/gui/gobutton_CN.png
+- Assets/App/Features/Localization/chinese/Images/games/TsumTsum/tsum_tsum_tutorial_1.png
+- Assets/App/Features/Localization/chinese/Images/games/Manta/manta_tutorial_3.png
+Dependencies: []

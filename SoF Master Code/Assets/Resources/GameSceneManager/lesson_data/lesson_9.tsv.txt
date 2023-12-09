@@ -1,0 +1,84 @@
+total_parts	8
+lesson_name	模式识别介绍
+lesson_description	1.让幼儿了解什么是模式，并能举出简单模式的例子|2.模式分为序列和分组，在本课中使幼儿能做简单的排序和分组|3.游戏目标：|萨丽寻宝记：第21-25关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，角色卡片两组（猫咪组和小熊组），乐高积木
+part_1_description_2_header	教学目标
+part_1_description_2	1.让幼儿了解什么是模式，并能举出简单模式的例子|2.模式分为序列和分组，在本课中使幼儿能做简单的排序和分组|3.游戏目标：|萨丽寻宝记：第21-25关
+part_1_description_3_header	教学提示
+part_1_description_3	幼儿将了解什么是模式理解模式的定义很重要，因为模式的应用是在后面章节教授抽象化思维的基础
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	提问：|1.小朋友们做过梦吗？|2.做过什么梦？ |兜兜正在睡觉，他做了一个奇怪的梦，我们一起来看看
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_video_name	Doodle Episode 8
+part_3_video_type	doodle
+part_3_video_path	8
+part_3_multiple_activities	start
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1）观看兜兜视频第8集和第9集（大屏幕播放）|2）提问：|兜兜梦见什么了？什么是模式？（相同事物的排序和分组）|序列模式是什么？（特定的顺序摆放）比如：|1 2 3 4 ？|2 4 6 8 ？|分组模式什么？（相似物体放在一起） 比如：|将所有的幼儿分成两组（男生组和女生组）
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始兜兜第八集
+part_4	video
+part_4_target	teacher
+part_4_video_name	Doodle Episode 9
+part_4_video_type	doodle
+part_4_video_path	9
+part_4_multiple_activities	end
+part_4_name	示范2
+part_4_description_count	0
+part_4_picture	
+part_4_button	doodle
+part_4_button_description	这按钮将会开始兜兜第九集
+part_5	game
+part_5_target	student
+part_5_game_name	pearly
+part_5_game_start_level	21
+part_5_game_end_level	25
+part_5_name	小白陪你快乐学
+part_5_description_count	1
+part_5_description_1_header	示范（时长 = 15分钟）
+part_5_description_1	1.比一比：看谁先打开海洋历险记，找到并观看兜兜视频第8集第9集|2.再次观看视频，观看后询问幼儿现在是白天还是夜晚？|放学回家后，我们看到了夜晚，明天早上又是白天……|白天  夜晚  白天  夜晚 白天  夜晚  ？|3.萨丽寻宝记：第21-25关
+part_5_picture	
+part_5_button	pearlyCN
+part_5_button_description	这按钮将会开始萨丽寻宝记 LV 21-25
+part_6	manual
+part_6_name	活动与游戏
+part_6_description_count	1
+part_6_description_1_header	活动与游戏（时长 = 15分钟）
+part_6_description_1	1.游戏一  排序|拿出两组角色卡片（小熊组和猫咪组），教师在桌上依次摆放卡片如下：|猫咪  小熊 猫咪 小熊 猫咪  小熊 ？|请幼儿回答小熊卡片后面应该摆放什么卡片？|解释这也是一种模式（排序）||2.游戏二 画一画|在大屏幕上打开“兜兜画板”软件，画出斑马线，和幼儿讨论不同的模式（序列和分组）|可以画出更多的模式，如分组模式：左边三个苹果，右边两个梨子，还需要画一个什么水果呢（梨子）|序列模式：依次画出三角形 圆形 三角形  圆形 ？（三角形）||3.游戏三  排序游戏：《小伙伴手册》第十六页|4.游戏四  分组游戏：分发给幼儿每人24片乐高小零件，在规定的时间内，幼儿比赛看谁先把相同的小零件（颜色和大小相同视为完全相同）分在一组
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	分享与回顾（时长 = 10分钟）
+part_7_description_1	1.回顾学习内容|2.请幼儿带《小伙伴手册》回家，|完成第十七页：《找规律》
+part_7_picture	
+part_7_button	
+part_7_button_description	
+part_8	manual
+part_8_name	分享与反思
+part_8_description_count	1
+part_8_description_1_header	活动延伸（时长 = 60分钟）
+part_8_description_1	完成《小伙伴手册》的小游戏（第十七页）《找规律》
+part_8_picture	
+part_8_button	
+part_8_button_description	

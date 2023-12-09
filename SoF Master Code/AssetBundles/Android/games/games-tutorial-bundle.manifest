@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 2512231472
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 959c5f2a9e8800ef1cb7c14e482cc7a6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0354febaaafe91351e2a77ab85b7bf9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 025fed0adb75aed40a85154ac2bd0da4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3bfad90ecb1eca94a8f33a1fa0cb2913, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 94a453fe3810db14680811723b81b529, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Common/Textures/tutorial_bg.png
+- Assets/App/Common/Prefabs/TutorialCanvas.prefab
+- Assets/App/Common/Prefabs/TutorialCanvasv2.prefab
+Dependencies:
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-fonts-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-gui-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-audio-sfx-bundle

@@ -1,0 +1,84 @@
+total_parts	8
+lesson_name	抽象化思维介绍 I
+lesson_description	1.通过视频和游戏培养幼儿的抽象化思维能力|2.游戏目标：萨丽寻宝记：第41-45关|3.引导幼儿寻找事物的相同点
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，《小伙伴手册》，彩色笔
+part_1_description_2_header	教学目标
+part_1_description_2	1.通过视频和游戏培养幼儿的抽象化思维能力|2.游戏目标：萨丽寻宝记：第41-45关|3.引导幼儿寻找事物的相同点
+part_1_description_3_header	教学提示
+part_1_description_3	1.抽象化思维是一门将问题中不重要的细节排除的艺术，这样我们可以将一个解决方案应用于许多事物许多例子中，同时应用4种计算思维的元素可以获得对事物更加清晰的理解
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	找一找：|1.找出教室里面的圆形（如：镜子，皮球，玩具，窗花等等），锻炼幼儿的抽象思维能力|2.还可以请幼儿找出教室里面的正方形，长方形等
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_video_name	Doodle Episode 11
+part_3_video_type	doodle
+part_3_video_path	11
+part_3_multiple_activities	start
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1）教室的大屏幕上播放兜兜视频第11集（第一遍）|2）播放兜兜视频第11集（第二遍）画面停留在02：21的地方，提问:|刚刚兜兜在斑马线上遇到什么动物？|斑马和普通的马有什么不一样？|中间的图片上是什么？（汉堡）请幼儿上台指出汉堡的每个部分（面包片，蔬菜，番茄，芝士，肉馅饼）|3）打开猜猜蟹游戏：|教师示范第一关，第二关（第一关让幼儿观察，不解释，第二关一边示范一边解释，第一排和第二排的螃蟹钳子角度相同）
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始兜兜第十一集
+part_4	game
+part_4_target	teacher
+part_4_game_name	crab
+part_4_game_start_level	1
+part_4_game_end_level	5
+part_4_multiple_activities	end
+part_4_name	示范2
+part_4_description_count	0
+part_4_picture	
+part_4_button	crab
+part_4_button_description	这按钮将会开始猜猜蟹 LV 1-5
+part_5	game
+part_5_target	student
+part_5_game_name	pearly
+part_5_game_start_level	41
+part_5_game_end_level	45
+part_5_name	小白陪你快乐学
+part_5_description_count	1
+part_5_description_1_header	示范（时长 = 15分钟）
+part_5_description_1	1.比一比：看谁先打开小白，找到兜兜视频第11集？|2.幼儿再次观看视频，讨论：|斑马和斑马线的共同点是什么？（都有条纹）|教师解释：|抽象化就是简化事物，或者在不同事物之间找到共同点的艺术|3.幼儿独立完成第一关和第二关喂食小伙伴四次|4.游戏：萨丽寻宝记第41-45关
+part_5_picture	
+part_5_button	pearly
+part_5_button_description	这按钮将会开始萨丽寻宝记 LV 41-45
+part_6	manual
+part_6_name	活动与游戏
+part_6_description_count	1
+part_6_description_1_header	活动与游戏（时长 = 15分钟）
+part_6_description_1	游戏：《小伙伴手册》|第二十六页《找影子》|第二十七页《找出不同的动物》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	分享与回顾（时长 = 10分钟）
+part_7_description_1	1.回顾学习内容|2.请幼儿展示通关记录分享为什么通关|3.请幼儿展示《小伙伴手册》的完成情况
+part_7_picture	
+part_7_button	
+part_7_button_description	
+part_8	manual
+part_8_name	分享与反思
+part_8_description_count	1
+part_8_description_1_header	活动延伸（时长 = 60分钟）
+part_8_description_1	生活中的抽象化，引导幼儿在生活中多观察：|-所有的树都有叶子|-所有的猫都有4条腿|-所有的椅子都有4条腿
+part_8_picture	
+part_8_button	
+part_8_button_description	

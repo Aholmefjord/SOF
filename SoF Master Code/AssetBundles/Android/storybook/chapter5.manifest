@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 41135060
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 424350f577c3a1fa9c198cfd2fbba5b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/03.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/07.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/04.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/02.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/06.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/08.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/05.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/10.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/01.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 5/09.jpg
+Dependencies: []

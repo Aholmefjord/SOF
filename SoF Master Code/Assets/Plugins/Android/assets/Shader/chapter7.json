@@ -1,0 +1,95 @@
+{
+"Dialogue":[
+				{//0
+					"text":"!!??!!",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//1
+					"text":"Ah it really is the egg! We have to retrieve it.",
+					"audio":"Sally_1_reallyisegg_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"Do it slowly.... We have to be very careful.",
+					"audio":"Sally_2_slowlycareful_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//3
+					"text":"Slow... slow...",
+					"audio":"Sally_3_slowlslow_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"Great job guys! Time to head back to HQ!",
+					"audio":"Sally_4_headbackhq_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"Oh no....",
+					"audio":"Sally_5_ohno_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"AAAAAAAAAAAAAAAAAAAH",
+					"audio":"Sally_6_ahhh_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"LET'S GET OUT OF HERE",
+					"audio":"Sally_7_letsgetout_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//8
+					"text":"AAAAAAAAAAAAAAAAAAAH",
+					"audio":"Sally_6_ahhh_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"It's everyone",
+					"audio":"Sally_8_itseveryone_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//10
+					"text":"There was alot of shaking... I didn't expect you guys would awaken the Kraken!",
+					"audio":"MANTA24",
+					"dialogType":0,
+					"Speaker":"Manta",
+				},
+				{//11
+					"text":"You should be thankful we're here to help!",
+					"audio":"MsPuf_1_heretohelp_1",
+					"dialogType":0,
+					"Speaker":"Miss Puffin",
+				},
+				{//12
+					"text":"WHAT DID WE TELL YOU?!?",
+					"audio":"ICB_1_whatwetellyou",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//13
+					"text":"You won't stand a chance, but we have your backs!",
+					"audio":"ICB_2_wontstandachance",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//14
+					"text":"Just go!!!",
+					"audio":"ICB_2_justgo",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+
+			],
+}

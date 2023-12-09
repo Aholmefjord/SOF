@@ -1,0 +1,70 @@
+total_parts	7
+lesson_name	计算思维与财商训练
+lesson_description	1.引导幼儿树立理财目标，培养幼儿提前规划和理财的意识|2.游戏目标：|萨丽历险记：第11-15关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，《小伙伴手册》，自备不同额度的钱币（1元，5元，10元的纸币，一角，五角，一元的硬币）
+part_1_description_2_header	教学目标
+part_1_description_2	1.引导幼儿树立理财目标，培养幼儿提前规划和理财的意识|2.游戏目标：|萨丽历险记：第11-15关
+part_1_description_3_header	教学提示
+part_1_description_3	学生将认识到货币是当今世界的一种资源，他们必须提前规划资源的使用
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.教师展示不同额度的纸币和硬币||2.提问:|a）你认识什么额度的钱币？|b）钱从哪里来？|c）钱可以用来做什么？
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	gotoscene
+part_3_target	teacher
+part_3_scene_name	buddyhome
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.展示兜兜银行的货币种类认识不同种类的兜兜币|（《小伙伴手册》第七页）||2.大屏幕上展示兜兜币可以购买的内容提问：|a）想买什么物品？|b）购买该物品需要多少钱？|c）示范如何购买物品|d）示范如何获得兜兜币
+part_3_picture	
+part_3_button	button_playvideo
+part_3_button_description	这按钮将会开始小伙伴的家
+part_4	game
+part_4_target	student
+part_4_game_name	pearly
+part_4_game_start_level	11
+part_4_game_end_level	15
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	1.比一比：打开小白 ，看谁先找到物品商店|2.幼儿独立完成萨丽寻宝记第11关，查看自己获得的兜兜币|3.强调存钱和赚钱的重要性|4.讲解幼儿如何升级自己家里的装备|分层思维：头脑中列出清单|流程建设：为了达成目标，创建分步计划|5.游戏萨丽寻宝记完成第11-15关
+part_4_picture	
+part_4_button	pearlyCN
+part_4_button_description	这按钮将会开始萨丽寻宝记 LV 11-15
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	1）圈一圈：|完成《小伙伴手册》第十一页| 《我最想购买的物品》
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.让幼儿将自己的作品在班级分享，解释为什么要购买该物品|2.请幼儿带《小伙伴手册》回家，完成第十二页《我和小伙伴的幻彩新家》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	《小伙伴手册》|涂一涂 画一画：|第十二页《我和小伙伴的幻彩新家》
+part_7_picture	
+part_7_button	
+part_7_button_description	

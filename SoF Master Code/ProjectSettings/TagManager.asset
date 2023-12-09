@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - kodJunction
+  - End
+  - Start
+  - Ground
+  - Editables
+  - MisPlace
+  - StartPoint
+  - Avatar
+  - OwnPlayerFood
+  - FriendPlayerFood
+  - ToBeDestroyedFood
+  - kodCrossJunction
+  - Collectible
+  - Tutorial
+  - Tutorial_End
+  - Maze_Tile
+  - PlonkBlock
+  - PlonkFoundation
+  - PlonkPickup
+  - RenderCamera
+  - Game5Jewel
+  - PropFish
+  - DecompMachine
+  - ElectricBoxGridCell
+  - WirelessReceiver
+  - ElectricBoxButton
+  - PowEnemy
+  - AINavigationNode
+  - Button
+  - StageLists
+  - Pearl
+  - MarkerNotFoundErrorTag
+  - Icon
+  - UITemplate
+  - UIRoot
+  - UIIgnore
+  - Shield
+  - PowFriend
+  - InteractableButton
+  - Friend
+  - Enemy
+  - FriendBase
+  - EnemyBase
+  - SpeechBubble
+  - VoiceTransmitter
+  - Props
+  - Scene
+  - AvatarParent
+  - CrabGameController
+  - MiscItemButton
+  - pearlindicator
+  - Slot
+  - Pics
+  - PearlyGuideBallWayPoints
+  - PearlyLevelGenerator
+  - DestroyPlatform
+  - GeneratePlatform
+  - FvTEnemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Markers
+  - Editables
+  - HouseWalls
+  - Avatar
+  - StartPoint
+  - Ground
+  - RenderScreen
+  - AINavigationNode
+  - Building
+  - Backdrop
+  - Tangram Pieces
+  - Tangram Overlay
+  - FvT Unit
+  - FvT Projectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI Layer
+    uniqueID: 2832262113
+    locked: 0
+  - name: Crab
+    uniqueID: 2634325113
+    locked: 0

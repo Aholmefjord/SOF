@@ -1,0 +1,64 @@
+{
+"Dialogue":[
+			{
+				"text":"Hello kids!",
+				"audio":"Doodle_1_forgotPassword",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"I have a mission for you, but haha... I have accidentally locked my notes in my briefcase",
+				"audio":"Doodle_1_forgotPassword_2",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"it requires a pattern passcode to unlock it. can you help me figure it out?",
+				"audio":"Doodle_1_forgotPassword_3",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{
+				"text":"But it's really really important! \n Please? Please please?",
+				"audio":"Doodle_2_reallyimportant",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{
+				"text":"Yay! Thank you!",
+				"audio":"Doodle_4_yaythankyou",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"Okay... \n We need to match the missing piece that fits the pattern",
+				"audio":"Doodle_5_iqTutorial",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"First, we study the pattern from the above images!",
+				"audio":"Doodle_5_iqTutorial_2",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"Then, pick the correct option from below",
+				"audio":"Doodle_5_iqTutorial_3",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"Great job kids! You're a life saver!",
+				"audio":"Doodle_6_onwiththeshow",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"Now, on with the show!",
+				"audio":"Doodle_6_onwiththeshow_2",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+	]
+}

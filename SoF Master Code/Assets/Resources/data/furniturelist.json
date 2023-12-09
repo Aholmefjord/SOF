@@ -1,0 +1,12 @@
+[
+{"Id":1,"Name":"ChalkBoard","Price":"1000","Category":"LivingRoom" },
+{"Id":2,"Name":"CoffeeTable","Price":"500","Category":"LivingRoom" },
+{"Id":3,"Name":"Cupboard","Price":"5000","Category":"LivingRoom" },
+{"Id":4,"Name":"Fridge","Price":"2500","Category":"Kitchen" },
+{"Id":5,"Name":"Globe","Price":"500","Category":"BedRoom" },
+{"Id":6,"Name":"LongSofa","Price":"3000","Category":"LivingRoom" },
+{"Id":7,"Name":"ToiletBowl","Price":"1000","Category":"Toilet" },
+{"Id":8,"Name":"WoodenShelf","Price":"2000","Category":"LivingRoom" },
+{"Id":9,"Name":"DoubleBed","Price":"1000","Category":"BedRoom" }
+{"Id":23,"Name":"Modern_bath","Price":"2500","Category":"Kitchen" },
+]

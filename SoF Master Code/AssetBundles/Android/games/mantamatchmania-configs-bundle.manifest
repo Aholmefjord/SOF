@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2256680331
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8caded480fca8bddecc559727f8cf8fa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Autumn/Tangram/Configs/matchManiaDesign.json
+- Assets/App/Autumn/Tangram/Configs/level_2.json
+- Assets/App/Autumn/Tangram/Configs/pieceData.txt
+- Assets/App/Autumn/Tangram/Configs/pieces.json
+- Assets/App/Autumn/Tangram/Configs/puzzles.json
+- Assets/App/Autumn/Tangram/Configs/all_levels.json
+- Assets/App/Autumn/Tangram/Configs/level_0.json
+- Assets/App/Autumn/Tangram/Configs/result.txt
+- Assets/App/Autumn/Tangram/Configs/level_3.json
+- Assets/App/Autumn/Tangram/Configs/level_1.json
+- Assets/App/Autumn/Tangram/Configs/level_template.json
+- Assets/App/Autumn/Tangram/Configs/solution piece count result.txt
+Dependencies: []

@@ -1,0 +1,49 @@
+{
+"Dialogue":[
+			{
+				"text":"Welcome to SoF",
+				"audio":"Sally_1_iwetmybed_1",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Is 'iwetmybed' your password?",
+				"audio":"Sally_1_iwetmybed_2",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Are you sure?",
+				"audio":"Sally_2_AreUSure_4",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Ahhh.... Since everyone knows it, it is not safe.",
+				"audio":"Sally_3_changepassword_3_1",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Please change your password.",
+				"audio":"Sally_3_changepassword_3_2",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Please key in a new password.",
+				"audio":"Sally_4_keynewpass_3",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Please repeat your password again.",
+				"audio":"Sally_5_repeatpass_4",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Your password does not match \n Please try again",
+				"audio":"Sally_6_tryagain_4",
+				"Speaker":"Sally",
+			},
+			{
+				"text":"Password has been changed!",
+				"audio":"SFX_acceptnewpass_01",
+				"Speaker":"Sally",
+			},
+	]
+}

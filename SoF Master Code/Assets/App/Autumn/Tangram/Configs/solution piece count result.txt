@@ -1,0 +1,72 @@
+Solution piece count, counting single piece:
+Solution piece: 4 Count: 11
+Solution piece: 5 Count: 37
+Solution piece: 6 Count: 51
+Solution piece: 7 Count: 12
+Solution piece: 8 Count: 2
+Solution piece: 9 Count: 1
+Solution piece: 12 Count: 1
+
+Solution piece count, ignoring single piece:
+Solution piece: 2 Count: 1
+Solution piece: 3 Count: 6
+Solution piece: 4 Count: 20
+Solution piece: 5 Count: 48
+Solution piece: 6 Count: 28
+Solution piece: 7 Count: 10
+Solution piece: 8 Count: 1
+Solution piece: 11 Count: 1
+
+Puzzle that has more than 1 single dot:
+Puzzle ID: 42 Single Dot Count: 2
+Puzzle ID: 52 Single Dot Count: 3
+Puzzle ID: 53 Single Dot Count: 2
+Puzzle ID: 54 Single Dot Count: 2
+Puzzle ID: 69 Single Dot Count: 2
+Puzzle ID: 73 Single Dot Count: 2
+Puzzle ID: 78 Single Dot Count: 2
+Puzzle ID: 94 Single Dot Count: 2
+Puzzle ID: 101 Single Dot Count: 2
+
+Puzzle that only has 1 single dot:
+Puzzle ID: 0
+Puzzle ID: 1
+Puzzle ID: 4
+Puzzle ID: 6
+Puzzle ID: 7
+Puzzle ID: 14
+Puzzle ID: 20
+Puzzle ID: 21
+Puzzle ID: 24
+Puzzle ID: 26
+Puzzle ID: 27
+Puzzle ID: 29
+Puzzle ID: 30
+Puzzle ID: 34
+Puzzle ID: 36
+Puzzle ID: 38
+Puzzle ID: 39
+Puzzle ID: 44
+Puzzle ID: 46
+Puzzle ID: 48
+Puzzle ID: 49
+Puzzle ID: 51
+Puzzle ID: 55
+Puzzle ID: 59
+Puzzle ID: 65
+Puzzle ID: 72
+Puzzle ID: 74
+Puzzle ID: 80
+Puzzle ID: 90
+Puzzle ID: 92
+Puzzle ID: 93
+Puzzle ID: 95
+Puzzle ID: 98
+Puzzle ID: 100
+Puzzle ID: 104
+Puzzle ID: 105
+Puzzle ID: 107
+Puzzle ID: 110
+Puzzle ID: 112
+Puzzle ID: 114
+

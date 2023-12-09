@@ -1,0 +1,88 @@
+{
+"Dialogue":[
+			{//0
+				"text":"Hello there! My name is Miss Puffin! Nice to meet you!",
+				"audio":"MsPuf_1_hellothere",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//1
+				"text":"I am looking for Pearls from the Clam Clans, they said they are willing to share their pearls if I can find them!",
+				"audio":"MsPuf_2_clamclans_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//2
+				"text":"I wish to make a pearl necklace, as it is my sisters birthday!",
+				"audio":"MsPuf_3_necklace_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//3
+				"text":"But I am having a hard time finding one, this place is like a maze!",
+				"audio":"MsPuf_4_maze_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//4
+				"text":"Oh dear oh dear....",
+				"audio":"MsPuf_5_ohdear_02",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//5
+				"text":"Will you help me, Please?",
+				"audio":"MsPuf_6_helpplease_02",
+				"dialogType":1,
+				"Speaker":"Miss Puffin",
+			},
+			{//6
+				"text":"We can explore the area while we help her.",
+				"audio":"Sally_explorearea_01",
+				"dialogType":1,
+				"Speaker":"Sally",
+			},
+			{//7
+				"text":"Perfect! you three are such darlings!",
+				"audio":"MsPuf_7_perfect_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//8
+				"text":"Oh! Thank you thank you! You people are so helpful!",
+				"audio":"MsPuf_8_thankyou_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//9
+				"text":"Now, I must be off to make my sister her birthday necklace! Ciaociao!",
+				"audio":"MsPuf_9_mspffciaociao_01",
+				"dialogType":0,
+				"Speaker":"Miss Puffin",
+			},
+			{//10
+				"text":"*staring*",
+				"audio":"SFX_buddy_attention",
+				"dialogType":0,
+				"Speaker":"Buddy",
+			},
+			{//11
+				"text":"!!??!!",
+				"audio":"SFX_buddy_attention",
+				"dialogType":0,
+				"Speaker":"Buddy",
+			},
+			{//12
+				"text":"YOU GOT AN EGG!",
+				"audio":"",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//13
+				"text":"Let's bring it back to the ship!",
+				"audio":"Sally_bringback2ship_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			]
+}

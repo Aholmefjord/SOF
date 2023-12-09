@@ -1,0 +1,64 @@
+{
+"Dialogue":[
+			{
+				"text":"你好孩子们！",
+				"audio":"Doodle_1_forgotPassword",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"我为你们准备了一个任务，但是哈哈...\n 我不小心把我的笔记锁在了我的公文包里了",
+				"audio":"Doodle_1_forgotPassword_2",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"解锁这个公文包需要一个图案密码。\n 你可以帮我搞定它吗？",
+				"audio":"Doodle_1_forgotPassword_3",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{
+				"text":"但是这个真的真的非常重要！\n 求你啦？求你啦？",
+				"audio":"Doodle_2_reallyimportant",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{
+				"text":"好耶！太谢谢你了！",
+				"audio":"Doodle_4_yaythankyou",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"好... \n 我们需要让失踪的图案和这个图案相匹配",
+				"audio":"Doodle_5_iqTutorial",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"首先我们要思考一下上面的这些图案！",
+				"audio":"Doodle_5_iqTutorial_2",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"然后从下方挑选出一个正确的选项",
+				"audio":"Doodle_5_iqTutorial_3",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"干得好，孩子们！你们真是我的救星！",
+				"audio":"Doodle_6_onwiththeshow",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{
+				"text":"现在，让我们把表演继续下去！",
+				"audio":"Doodle_6_onwiththeshow_2",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+	]
+}

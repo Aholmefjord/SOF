@@ -1,0 +1,128 @@
+{
+"Dialogue":[
+			{//0
+				"text":"Oh No! Our ship has sunk into the deep sea!",
+				"audio":"Doodle_1_brief_sunk",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{//1
+				"text":"Even though everyone is safe,\n we have lost some REALLY important eggs!",
+				"audio":"Doodle_1_brief_losteggs",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{//2
+				"text":"So, we need YOUR help to retrieve them!",
+				"audio":"Doodle_1_brief_yourhelp",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{//3
+				"text":"This is your Buddy! He will guide you through any difficulty along your journey.",
+				"audio":"Doodle_2_thisisbuddy",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{//4
+				"text":"Choose your favorite type of buddy!",
+				"audio":"Doodle_3_choosebuddy",
+				"Speaker":"Doodle",
+				"dialogType":0,
+			},
+			{//5
+				"text":"What will you name your Buddy?",
+				"audio":"Doodle_4_buddyname",
+				"Speaker":"Doodle",
+				"dialogType":-1,
+			},
+			{//6
+				"text":"Is this correct?",
+				"audio":"",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{//7
+				"text":"....",
+				"audio":"",
+				"dialogType":0,
+			},
+			{//8
+				"text":"Alright! Now that you have your buddy with you, Are you ready to move on your mission?",
+				"audio":"Doodle_5_readyMission",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{//9
+				"text":"Come on! It'll be a real fun adventure.",
+				"audio":"Doodle_6_comeonAd",
+				"Speaker":"Doodle",
+				"dialogType":1,
+			},
+			{//10
+				"text":"....",
+				"audio":"",
+				"dialogType":0,
+			},
+			{//11
+				"text":"This is Sally the Submarine, she will take you to the sunken ship.",
+				"audio":"Doodle_7_IntroSally",
+				"Speaker":"Doodle",
+				"dialogType":0,				
+			},
+			{//12
+				"text":"Please Buckle Up",
+				"audio":"Sally_1_buckleup_03",
+				"Speaker":"Sally",
+				"dialogType":0,				
+			},
+			{//13
+				"text":"??!!",
+				"audio":"SFX_buddy_attention",
+				"Speaker":"Buddy",
+				"dialogType":0,				
+			},
+			{//14
+				"text":"Hahaha, yes I talk.",
+				"audio":"Sally_2_italk_04",
+				"Speaker":"Sally",
+				"dialogType":0,							
+			},
+			{//15
+				"text":"*impressed sounds*",
+				"audio":"SFX_buddy_garble",
+				"Speaker":"Buddy",
+				"dialogType":0,				
+			},
+			{//16
+				"text":"I believe we are near the accident site. Look at all the debris around us!",
+				"audio":"Sally_4_lookDebris_03",
+				"Speaker":"Sally",
+				"dialogType":0,				
+			},
+			{//17
+				"text":"Danger! Danger! My propellors are stuck!",
+				"audio":"Sally_5_Danger_03",
+				"Speaker":"Sally",
+				"dialogType":0,				
+			},
+			{//18
+				"text":"Hold on Tight!",
+				"audio":"Sally_6_holdontight_02",
+				"Speaker":"Sally",
+				"dialogType":0,				
+			},
+			{//19
+				"text":"*crashes*",
+				"audio":"crash_audio",
+				"Speaker":"",
+				"dialogType":0,				
+			},
+			{//20
+				"text":"The crash has broken my propellors. Let us explore the area and see what we can find to fix it.",
+				"audio":"Sally_9_brokenexplore_1",
+				"Speaker":"Sally",
+				"dialogType":0,				
+			},
+	]
+}

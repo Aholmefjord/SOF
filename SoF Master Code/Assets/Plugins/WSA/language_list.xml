@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<English text_location="Language/Text/text_english" style_location="Language/Style/style_english" image_location="Language/Image/image_english" cinematic_script_location="Cinematics/Scripts/"/>
+	<Chinese text_location="Language/Text/text_chinese" style_location="Language/Style/style_chinese" image_location="Language/Image/image_chinese" cinematic_script_location="Cinematics/ScriptsCN/"/>
+	<TraditionalChinese text_location="Language/Text/text_chinese" style_location="Language/Style/style_traditional_chinese" image_location="Language/Image/image_traditional_chinese" cinematic_script_location="Cinematics/ScriptsCN/"/>
+	<JP text_location="Language/Text/text_japanese" style_location="Language/Style/style_japanese" image_location="Language/Image/image_english" cinematic_script_location="Cinematics/Scripts/"/>
+</document>

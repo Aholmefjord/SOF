@@ -1,0 +1,70 @@
+total_parts	7
+lesson_name	小伙伴的日程表和个性
+lesson_description	1.引导幼儿树立理财目标，培养幼儿提前规划和理财的意识|2.游戏目标：|萨丽历险记：第11-15关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	彩色笔，角色卡片|《小伙伴手册》
+part_1_description_2_header	教学目标
+part_1_description_2	1.建立幼儿和自己创建的小伙伴的感情联结|2.教会幼儿为自己的小伙伴创建一个日程表|3.游戏目标：|萨丽寻宝记：第16-20关
+part_1_description_3_header	教学提示
+part_1_description_3	1.幼儿在不应用任何计算思维技巧的状况下尝试为小伙伴赋予个性|2.当他们将小伙伴的个性分解到不同的部分时，锻炼了分层思维能力，这将在未来的模块中介绍|3.幼儿们可以分成每4人一组来进行相互介绍
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	猜一猜:|这是谁的小伙伴?|教师拿出角色卡片，让幼儿回忆该角色的名字，回忆是谁的小伙伴
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	gotoscene
+part_3_target	teacher
+part_3_scene_name	buddyselection
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.在小伙伴的家，教师向幼儿展示教师自己的小伙伴的个性|- 年龄|- 性别|- 最喜欢的食物|- 兴趣爱好|- 音乐|- 运动项目|展示如何在《小伙伴手册》上选择小伙伴的个性（教师需要提前完成《小伙伴手册》第 十二页）||2.教师为自己的小伙伴设计合适的日程安排例子 （教师需要提前完成《小伙伴手册》第十一页《迷宫时间》）
+part_3_picture	
+part_3_button	buddyCreation
+part_3_button_description	这按钮将会开始选择小伙伴
+part_4	game
+part_4_target	student
+part_4_game_name	pearly
+part_4_game_start_level	16
+part_4_game_end_level	20
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	游戏：完成萨丽寻宝记游戏第16-20关
+part_4_picture	
+part_4_button	pearlyCN
+part_4_button_description	这按钮将会开始萨丽寻宝记 LV 16-20
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	1.幼儿拿出各自的《小伙伴手册》并翻到第十三页《迷宫时间》|2.询问幼儿在地图上各个区域小伙伴可以做什么活动，请帮助小伙伴们完成任务|3. 《小伙伴手册》第十四页：用彩色笔涂涂画画，选择小伙伴的个性特征
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.回顾今天的学习内容|2.幼儿轮流上台展示自己小伙伴的个性和日程表|3.请幼儿带《小伙伴手册》回家，完成第十五页上填写小伙伴的一日活动 《我的小伙伴精彩的周末》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	和爸爸妈妈一起，在《小伙伴手册》第十五页上填写小伙伴的一日活动 《我的小伙伴精彩的周末》
+part_7_picture	
+part_7_button	
+part_7_button_description	

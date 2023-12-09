@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2641303254
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 167e1e39f1d45949c9f057d23fcac01e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/App/Features/Games/PearlyWhirly/pearly_stage_selected.unity
+- Assets/App/Features/Games/PearlyWhirly/pearly.unity
+- Assets/App/Features/Games/PearlyWhirly/Pearly Player Win Screen.unity
+- Assets/App/Features/Games/PearlyWhirly/pearly_main_screen.unity
+Dependencies:
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/infinitecrabbros-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/standard-assets-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-fonts-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/games-shared-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-gui-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-audio-sfx-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/tumbletrouble-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/mantamatchmania-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/pearly-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/games-tutorial-bundle

@@ -1,0 +1,58 @@
+{
+"Dialogue":[
+			{//0
+				"text":"呃.... 我想你的小伙伴应该是饿了",
+				"audio":"Sally_1_ithinkbuddyhungry_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//1
+				"text":"点击你的小伙伴查看它的饥饿度。",
+				"audio":"Sally_2_taponbuddy_01",
+				"dialogType":2,
+				"Speaker":"Sally",
+			},
+			{//2
+				"text":"哦天啊, 它真的是饿坏了",
+				"audio":"Sally_3_itsureishungry_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//3
+				"text":"是时候该喂喂它了！",
+				"audio":"Sally_4_time2feed_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//4
+				"text":"你注意到那个看起来很美味的图标了吗？",
+				"audio":"Sally_5_deliciousiconn_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//5
+				"text":"点击它然后开始喂吧！",
+				"audio":"Sally_6_tapfeed_01",
+				"dialogType":2,
+				"Speaker":"Sally",
+			},
+			{//6
+				"text":"你的小伙伴看起来很满足。\n 它跟你在一起一定很开心",
+				"audio":"Sally_7_satisfiedhappy_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//7
+				"text":"记住时不时的就要去喂喂你的小伙伴",
+				"audio":"Sally_8_feedbuddy_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			{//8
+				"text":"你一定要照顾好你的小伙伴！",
+				"audio":"Sally_9_takecareofbuddy_01",
+				"dialogType":0,
+				"Speaker":"Sally",
+			},
+			]
+}

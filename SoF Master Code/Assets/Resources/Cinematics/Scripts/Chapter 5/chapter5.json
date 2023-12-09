@@ -1,0 +1,112 @@
+{
+"Dialogue":[
+				{//0
+					"text":"Let's go guys! They should be somewhere around here.",
+					"audio":"Sally_1_letsgoguys_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//1
+					"text":"It seems that we have walked into a dead end.",
+					"audio":"Sally_1_deadend_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"Halt! Who goes there!",
+					"audio":"ICB_1_Halt",
+					"dialogType":0,
+					"Speaker":"?",
+				},
+				{//3
+					"text":"We are the Infinite Crab Brothers. What are you three doing in these waters",
+					"audio":"ICB_2_wetheicbt",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//5
+					"text":"We are looking for our lost ship. It had sunk with all our cargo in it.",
+					"audio":"Sally_1_lostship_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"Manta told us he had gotten an egg from you, so we were wondering where you have gotten it from.",
+					"audio":"Sally_2_mantaegg_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"Oh, so you're friends with Manta?!",
+					"audio":"ICB_4_friendswithmanta",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//8
+					"text":"*Agrees happily*",
+					"audio":"SFX_buddy_happy_01",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//9
+					"text":"Wait, how do we know that we can trust you?",
+					"audio":"ICB_5_howtotrust",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//10
+					"text":"*scratches*",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				}
+				{//11
+					"text":"BUT A TEST!",
+					"audio":"ICB_6_butatest",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//12
+					"text":"Yes! A test!",
+					"audio":"ICB_6_yesatest",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//13
+					"text":"Only through a test can we tell if you're worthy. Then maybe! Just maybe! We might know something.",
+					"audio":"ICB_7_maybewelikeyou",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//14
+					"text":"Do you think we should do this test?",
+					"audio":"Sally_4_dothistestl_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//15
+					"text":"But we need to know where they got the egg from!",
+					"audio":"Sally_5_needtoknow_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//16
+					"text":"BROS!",
+					"audio":"ICB_8_bros",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//17
+					"text":"GET THE ROCK!",
+					"audio":"ICB_8_ttherock",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//18
+					"text":"Let's Start!",
+					"audio":"ICB_9_letstart",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+			],
+}

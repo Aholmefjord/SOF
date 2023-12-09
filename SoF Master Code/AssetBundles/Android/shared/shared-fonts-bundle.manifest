@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1247996731
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44a70c7e1833185b799b32fe52be9583
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 007be97d342d89736165b403eb38efa7
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Common/Fonts/PORKYS.TTF
+- Assets/App/Common/Fonts/CaviarDreams_BoldItalic.ttf
+- Assets/App/Common/Fonts/CaviarDreams.ttf
+- Assets/App/Common/Fonts/Vinegar Stroke.ttf
+- Assets/App/Common/Fonts/Animated.ttf
+- Assets/App/Common/Fonts/Dolce Vita Heavy Bold.ttf
+- Assets/App/Common/Fonts/STHeitiSC-Light.ttf
+- Assets/App/Common/Fonts/take_off_good_luck_new_kids.ttf
+- Assets/App/Common/Fonts/CaviarDreams_Bold.ttf
+- Assets/App/Common/Fonts/ant_maru.ttf
+- Assets/App/Common/Fonts/DISTROB.ttf
+- Assets/App/Common/Fonts/yuzupopam_A_M_Light.ttf
+- Assets/App/Common/Fonts/CaviarDreams_Italic.ttf
+- Assets/App/Common/Fonts/yuzupopam_A_M_ExtraLight.ttf
+- Assets/App/Common/Fonts/GeosansLight-Oblique.ttf
+- Assets/App/Common/Fonts/Dolce Vita.ttf
+- Assets/App/Common/Fonts/Dolce Vita Light.ttf
+- Assets/App/Common/Fonts/Cone.ttf
+- Assets/App/Common/Fonts/GeosansLight.ttf
+- Assets/App/Common/Fonts/yuzupopam_A_M_Bold.ttf
+- Assets/App/Common/Fonts/yuzupopam_M_Regular.ttf
+- Assets/App/Common/Fonts/PoplarStd.otf
+Dependencies: []

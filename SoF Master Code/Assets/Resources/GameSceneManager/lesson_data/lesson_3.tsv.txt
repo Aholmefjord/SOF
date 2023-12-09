@@ -1,0 +1,78 @@
+total_parts	8
+lesson_name	创造小伙伴
+lesson_description	1.幼儿将在海洋历险记中创造属于自己的虚拟游戏小伙伴|2.小伙伴将在游戏中协助幼儿学习计算思维技巧
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，角色卡片一套，双面胶一卷，椅子两把
+part_1_description_2_header	教学目标
+part_1_description_2	1.幼儿将在海洋历险记中创造属于自己的虚拟游戏小伙伴|2.小伙伴将在游戏中协助幼儿学习计算思维技巧
+part_1_description_3_header	教学提示
+part_1_description_3	1.创造小伙伴可以帮助幼儿们与小伙伴建立感情联结，有利于他们更好地融入游戏这让幼儿们在快乐学习中最大化他们的学习潜力|2.幼儿们会想出一个固定的小伙伴名字，如果他们喜欢的名字已经被占用，协助他们进行头脑风暴想出小伙伴的名字|3.如果他们认为幼儿小伙伴的名字不合适，教师可以帮助其更改小伙伴的名字
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	讨论：幼儿最喜欢的卡通角色
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_multiple_activities	start
+part_3_target	teacher
+part_3_name	示范
+part_3_video_name	Doodle Episode 4
+part_3_video_type	doodle
+part_3_video_path	4
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.视频播放：兜兜视频第四集|2.让幼儿们对他们的小伙伴的名字提出建议|小伙伴的名字可以跟孩子们喜欢的东西相关：|a)食物 |b)名字 |c)人物 |d)玩具 |e)颜色 ||3.创建一个教师喜欢的角色，并做取名示范，解释为什么取这个名字"
+part_3_picture	
+part_3_button	button_playvideo
+part_3_button_description	这按钮将会开始兜兜第四集
+part_4	gotoscene
+part_4_multiple_activities	end
+part_4_name	小白陪你快乐学
+part_4_target	teacher
+part_4_scene_name	buddyselection
+part_4_picture	
+part_4_button	
+part_4_button_description	这按钮将会开始选择小伙伴
+part_5	gotoscene
+part_5_name	小白陪你快乐学
+part_5_target	student
+part_5_scene_name	buddyselection
+part_5_description_count	1
+part_5_description_1_header	小白陪你快乐学（时长 = 15分钟）
+part_5_description_1	1.指导幼儿打开海洋历险记程序并且在小伙伴创建窗口选择一个小伙伴|2.在教师的帮助下，幼儿给自己的小伙伴取名|3.幼儿轮流上台介绍自己的小伙伴和名字，解释为什么选择该小伙伴和名字
+part_5_button	button_playvideo
+part_5_button_description	这按钮将会开始选择小伙伴
+part_6	manual
+part_6_name	活动与游戏
+part_6_description_count	1
+part_6_description_1_header	活动与游戏（时长 = 15分钟）
+part_6_description_1	游戏：鸵鸟游戏|1：随意拿出四张角色卡片，让幼儿们回忆角色的名字|2：请两位幼儿上台，|彼此面对面坐着，每人背上贴着一张角色卡片|3：幼儿一直把手背好，假装自己是鸵鸟，伸长脖子看对方背后闪卡上的内容，说出角色的名字即获胜||邀请不同的幼儿，重复游戏
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	分享与回顾（时长 = 10分钟）
+part_7_description_1	1. 回顾今天的学习内容|2. 请幼儿将《小伙伴手册》带回家，完成《小伙伴手册》上第一页内容：画画涂涂《我的小伙伴》
+part_7_picture	
+part_7_button	
+part_7_button_description	
+part_8	manual
+part_8_name	分享与反思
+part_8_description_count	1
+part_8_description_1_header	活动延伸（时长 = 60分钟）
+part_8_description_1	幼儿回家完成《小伙伴手册》上第一页内容《我的小伙伴》
+part_8_picture	
+part_8_button	
+part_8_button_description	

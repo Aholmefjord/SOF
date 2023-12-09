@@ -1,0 +1,64 @@
+{
+"Dialogue":[
+				{//0
+					"text":"海底巨怪被吵醒了！",
+					"audio":"Sally_1_krakenweak_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//1
+					"text":"如果我们再攻击一次的话，\n 这一次这将会是我们逃跑的唯一机会",
+					"audio":"Sally_2_chasetoflee_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"瞄准...",
+					"audio":"Sally_3_aim_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//3
+					"text":"开火！",
+					"audio":"Sally_4_Fire_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"哦不！我好像不能启动武器。\n 自动扳机被阻塞了！",
+					"audio":"Sally_5_cantactivate_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"哦不！海底巨怪来了！\n 它要抓到我们了！！",
+					"audio":"Sally_5_krakencaughus_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"这就是武器不能运行的原因！\n 我们需要先挣脱它！",
+					"audio":"Sally_5_breakfree_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"嘿小伙伴！！你在做什么？！那里很危险！",
+					"audio":"Sally_7_whatareyoudoing",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//8
+					"text":"快点！抓紧！快回来！",
+					"audio":"Sally_7_getbackin",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"？？！！？？",
+					"audio":"SFX_buddy_attention",
+					"dialogType":-1,
+					"Speaker":"Buddy",
+				},
+			],
+}

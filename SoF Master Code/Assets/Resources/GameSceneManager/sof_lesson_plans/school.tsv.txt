@@ -1,0 +1,28 @@
+school_name 	kidsglobal hangzhou
+lesson_plan	lesson_plan
+sof_lesson_plan	sof_lesson_plan
+total_terms	4
+term_1_start	1
+term_1_end	17
+term_1_topic_count	6
+term_1_topic_1_count	4
+term_1_topic_1_name	数位素养
+term_1_topic_2_count	4
+term_1_topic_2_name	流程建设
+term_1_topic_3_count	4
+term_1_topic_3_name	模式识别
+term_1_topic_4_count	2
+term_1_topic_4_name	分层思维 
+term_1_topic_5_count	2
+term_1_topic_5_name	抽象化思维
+term_1_topic_6_count	1
+term_1_topic_6_name	Storybook Demo
+term_2_start	17
+term_2_end	32
+term_2_topic_count	1
+term_2_topic_1_count	1
+term_2_topic_1_name	Storybook Demo
+term_3_start	33
+term_3_end	48
+term_4_start	49
+term_4_end	64

@@ -1,0 +1,14 @@
+total_parts	3
+lesson_name	Storybook Demo
+lesson_description	The storybook is in page 2.
+part_1	manual
+part_1_name	filler
+part_2	storybook
+part_2_name	Storybook
+part_2_chapter_start	1
+part_2_chapter_end	7
+part_2_description_count	1
+part_2_description_1_header	活动延伸（时长 = 60分钟）
+part_2_description_1	完成《小伙伴手册》第八页内容《我和小伙伴们的合影》
+part_3	manual
+part_3_name	filler

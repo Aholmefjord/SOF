@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 4218735962
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44cf337de89995edba29ec060825dd9a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36c33a819640bead83b84b1645a12e6d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/06.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/18.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/10.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/09.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/15.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/19.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/14.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/08.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/01.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/05.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/04.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/17.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/16.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/07.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/13.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/11.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/12.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/03.jpg
+- Assets/App/Features/InGame ImageDisplay/Chapters/Chapter 6/02.jpg
+Dependencies: []

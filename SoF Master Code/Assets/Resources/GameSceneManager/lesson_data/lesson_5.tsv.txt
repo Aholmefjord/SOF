@@ -1,0 +1,90 @@
+total_parts	9
+lesson_name	流程建设介绍
+lesson_description	1.引导幼儿学习第一个计算思维技能：流程建设|兜兜将在视频中介绍流程建设，并举出流程建设在实际生活中的一些小例子|2.让幼儿能简单描述流程建设在生活中的一个实例|3.引导幼儿参加智商小测试
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，超轻粘土（黑色，白色，粉红，玫红，蓝色，黄色，绿色，红色，橙色），粘土汉堡（教师提前制作）
+part_1_description_2_header	教学目标
+part_1_description_2	1.引导幼儿学习第一个计算思维技能：流程建设|兜兜将在视频中介绍流程建设，并举出流程建设在实际生活中的一些小例子|2.让幼儿能简单描述流程建设在生活中的一个实例|3.引导幼儿参加智商小测试
+part_1_description_3_header	教学提示
+part_1_description_3	1.教师可以提前制作一个粘土汉堡模型|2.流程建设是一个强调按步骤思考和解决问题的过程 |3.幼儿们需理解他们可以将流程建设应用在生活中的方方面面
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.讨论：海洋馆里的动物。|2.制作：|a）导入：海底历险记SoF的故事很精彩，我们可以见到不同的海底动物。教师很喜欢海底的粉红小丑鱼，我们一起用流程建设的方式做一条小鱼。|b）（流程建设）一步一步地制作粉红小丑鱼：||找到粘土（粉色，黄色，蓝色，黑色，白色及玫红色）-将玫红色搓圆压扁（鱼儿的身子）-搓三个粉色小球-做成鱼嘴和鱼尾-搓两个蓝色小球-做成腹鳍和背鳍-搓一个黑色小球和一个白色小球-做成眼睛-搓六个粉色小球-做成腮帮子和鱼鳞-完成
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_multiple_activities	start
+part_3_video_name	Doodle Episode 3
+part_3_video_type	doodle
+part_3_video_path	3
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.视频播放：兜兜视频第三集|2.提问：|a）从视频里面学到了什么？|b）正确穿鞋子的方法是什么？|c）讨论流程建设，举出流程建设的例子|流程建设：按照步骤思考，一步一步实现目标|如：制作食物（超市买菜-洗菜-切菜-炒菜-上菜）|   上学的过程（从A点，你家到B点 幼儿园）讨论更多的实例||3.流程建设实例操作：如何在小白里面找到有趣的IQ测试小游戏开机-打开SoF-密码登陆-作业表-IQ测试2-完成"
+part_3_picture	
+part_3_button	button_playvideo
+part_3_button_description	这按钮将会开始兜兜第三集
+part_4	iqtest
+part_4_target	teacher
+part_4_name	示范(2)
+part_4_multiple_activities	end
+part_4_test_number	2
+part_4_description_0	0
+part_4_picture	
+part_4_button	iqtest
+part_4_button_description	这按钮将会开始IQ测试
+part_5	iqtest
+part_5_name	小白陪你快乐学
+part_5_multiple_activities	start
+part_5_test_number	1
+part_5_description_count	1
+part_5_description_1_header	小白陪你快乐学（时长 = 15分钟）
+part_5_description_1	1.复习开机，密码登陆||2.幼儿参加IQ测试||3.幼儿再次观看兜兜视频第3集
+part_5_picture	
+part_5_button	iqtest
+part_5_button_description	这按钮将会开始IQ测试
+part_6	video
+part_6_name	小白陪你快乐学(2)
+part_6_multiple_activities	end
+part_6_video_name	Doodle Episode 3
+part_6_video_type	doodle
+part_6_video_path	3
+part_6_description_0	0
+part_6_picture	
+part_6_button	button_playvideo
+part_6_button_description	这按钮将会开始兜兜第三集
+part_7	manual
+part_7_name	活动与游戏
+part_7_description_count	1
+part_7_description_1_header	活动与游戏（时长 = 15分钟）
+part_7_description_1	粘土迷你汉堡|1）分发制作面包的橙色粘土，幼儿制作面包，并把面包分成2块|2）分发制作火腿片的粉色粘土，幼儿制作火腿片|3）分发制作蔬菜和番茄的绿色及红色粘土，制作蔬菜和番茄|4）引导幼儿用流程建设完成整个迷你汉堡的制作
+part_7_picture	
+part_7_button	
+part_7_button_description	
+part_8	manual
+part_8_name	分享与反思
+part_8_description_count	1
+part_8_description_1_header	分享与回顾（时长 = 10分钟）
+part_8_description_1	1.回顾今天的学习内容|2.我们要制作汉堡要做什么样的流程建设？|“先……再……然后……最后……”
+part_8_picture	
+part_8_button	
+part_8_button_description	
+part_9	manual
+part_9_name	活动延伸
+part_9_description_count	1
+part_9_description_1_header	活动延伸（时长 = 60分钟）
+part_9_description_1	将自己制作的迷你汉堡带回家，向爸爸妈妈介绍怎么样一步一步完成迷你汉堡的制作
+part_9_picture	
+part_9_button	
+part_9_button_description	

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unity3d.player" xmlns:tools="http://schemas.android.com/tools" android:installLocation="preferExternal" android:versionCode="1" android:versionName="1.0" xmlns:amazon="http://schemas.amazon.com/apk/res/android">
+
+  <supports-screens android:smallScreens="true"
+                    android:normalScreens="true"
+                    android:largeScreens="true"
+                    android:xlargeScreens="true"
+                    android:anyDensity="true" />
+
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.VIBRATE" />
+  <!-- Restore Scheduled Notifications On Reboot -->
+  <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <!-- Firebase Cloud Messaging -->
+  <permission android:name="com.juleszone.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+  <uses-permission android:name="com.juleszone.permission.C2D_MESSAGE" />
+  <!-- start AWS permission -->
+  <permission android:name="com.amazonaws.unity.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+  <uses-permission android:name="com.amazonaws.unity.permission.C2D_MESSAGE" />
+  <!-- stop AWS permission -->
+
+  <application android:theme="@style/UnityThemeSelector"
+               android:icon="@drawable/app_icon"
+               android:label="@string/app_name"
+               android:debuggable="true">
+    <activity android:name="com.unity3d.player.UnityPlayerActivity" android:label="@string/app_name">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+      <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+      <!-- AWS S3 added -->
+      <meta-data android:name="unityplayer.ForwardNativeEventsToDalvik" android:value="false" />
+    </activity>
+    
+    <!-- UTNotifications common -->
+    <receiver android:name="universal.tools.notifications.AlarmBroadcastReceiver" />
+    <service android:name="universal.tools.notifications.NotificationIntentService" android:exported="true" />
+    <!-- Restore Scheduled Notifications On Reboot -->
+    <receiver android:name="universal.tools.notifications.ScheduledNotificationsRestorer">
+      <intent-filter>
+        <action android:name="android.intent.action.BOOT_COMPLETED" />
+      </intent-filter>
+    </receiver>
+    <!-- Firebase Cloud Messaging -->
+    <receiver android:name="com.google.android.gms.gcm.GcmReceiver" android:permission="com.google.android.c2dm.permission.SEND" android:exported="true">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+      </intent-filter>
+    </receiver>
+    <!-- start AWS receiver-->
+    <receiver android:name="com.amazonaws.unity.GCMBroadcastReceiver"
+              android:permission="com.google.android.c2dm.permission.SEND" >
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+        <category android:name="com.amazonaws.unity" />
+      </intent-filter>
+    </receiver>
+    <!-- stop AWS receiver -->
+    <service android:name="universal.tools.notifications.GcmIntentService" android:exported="false">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+      </intent-filter>
+    </service>
+    <service android:name="universal.tools.notifications.GcmInstanceIDListenerService" android:exported="false">
+      <intent-filter>
+        <action android:name="com.google.android.gms.iid.InstanceID" />
+      </intent-filter>
+    </service>
+    <!-- AWS -->
+    <service android:name="com.amazonaws.unity.GCMIntentService" />
+  </application>
+</manifest>

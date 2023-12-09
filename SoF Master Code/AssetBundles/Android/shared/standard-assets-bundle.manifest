@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 478607942
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2900c37a5c6fa29b209bde34aa90305
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5107f1b37200771c9ce3b52d57c26830
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b8d1d9cb7f35a842aa6ce7db09146e2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 119
+  Script: {instanceID: 0}
+Assets:
+- Assets/Standard Assets/Effects/Projectors/Textures/Light.psd
+- Assets/Standard Assets/Effects/Projectors/Guidelines.txt
+- Assets/Standard Assets/Effects/ImageEffects/Textures/VignetteMask.png
+- Assets/Standard Assets/Effects/Projectors/Prefabs/GridProjector.prefab
+- Assets/Standard Assets/Effects/Projectors/Textures/Falloff.psd
+- Assets/Standard Assets/Effects/Projectors/Materials/ShadowProjector.mat
+- Assets/Standard Assets/Effects/Projectors/Textures/Grid.psd
+- Assets/Standard Assets/Effects/Projectors/Prefabs/BlobShadowProjector.prefab
+- Assets/Standard Assets/Effects/Projectors/Textures/Shadow.psd
+- Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader
+- Assets/Standard Assets/Effects/Projectors/Prefabs/BlobLightProjector.prefab
+- Assets/Standard Assets/Effects/Projectors/Materials/LightProjector.mat
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader
+- Assets/Standard Assets/Effects/Projectors/Materials/GridProjector.mat
+- Assets/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader
+- Assets/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader
+Dependencies: []

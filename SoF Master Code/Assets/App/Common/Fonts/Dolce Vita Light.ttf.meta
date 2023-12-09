@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 48782c7c58dbdd94ca8389111c83401d
+timeCreated: 1476844639
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dolce Vita Light
+  fontNames:
+  - Dolce Vita Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

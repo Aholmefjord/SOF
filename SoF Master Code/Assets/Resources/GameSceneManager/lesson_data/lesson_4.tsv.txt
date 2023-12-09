@@ -1,0 +1,65 @@
+total_parts	7
+lesson_name	开心拍拍乐
+lesson_description	学习如何使用小白的自拍功能，激发幼儿感受美，丰富审美经验，体验自拍和创造的快乐
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，幼儿自带的拍照装饰物（如：墨镜，帽子等）
+part_1_description_2_header	教学目标
+part_1_description_2	学习如何使用小白的自拍功能，激发幼儿感受美，丰富审美经验，体验自拍和创造的快乐
+part_1_description_3_header	教学提示
+part_1_description_3	1.如果条件允许，可以允许幼儿到室外练习拍照|2.如果光线太暗，照片可能模糊不清
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.提问：|a)拍过照吗？会给别人拍照吗？|b)照相的时候喜欢摆什么造型？||2.互动：邀请幼儿上台展示照相时候最喜欢摆的造型
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	camera
+part_3_target	teacher
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.教师教会幼儿如何找到拍摄的按钮，示范如何和自己的小伙伴自拍|（流程建设）自拍秘诀：|找好角度-确定光线-原地不动-保持最好的造型-咔嚓咔嚓|2.教师示范如何查找已经拍摄的照片|3.教师示范如何删除不喜欢的照片
+part_3_picture	
+part_3_button	selfie
+part_3_button_description	这按钮将会开始自拍
+part_4	manual
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	小白陪你快乐学（时长 = 15分钟）
+part_4_description_1	1.幼儿打开小白，找到拍摄按钮|2.幼儿自由自拍|3.幼儿查看已经拍摄的照片，删除不喜欢的照片|4.鼓励幼儿邀请班上的好朋友一起来和自己的小伙伴拍照
+part_4_picture	
+part_4_button	
+part_4_button_description	
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	游戏一 ：照相馆|三个幼儿一组，让大家想象自己是在照相馆里，幼儿A扮演摄影师，幼儿B扮演化妆师（给顾客戴上帽子，墨镜等），幼儿C扮演顾客给顾客和他的小伙伴拍一张完美的照片（允许幼儿拍摄多张照片）|游戏二：音乐T台咔嚓咔嚓|教师播放音乐，幼儿一个一个轮流走出来，音乐中断时，幼儿迅速与同伴做出一个造型，教师拿着照相机“咔嚓、咔嚓”现场照相|表演可进行2～3遍，让幼儿充分体验照相的快乐
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.回顾学习内容，请幼儿展示自己最喜欢的一张照片，解释原因|2.请幼儿带《小伙伴手册》回家，完成第八页内容《我和小伙伴们的合影》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	完成《小伙伴手册》第八页内容《我和小伙伴们的合影》
+part_7_picture	
+part_7_button	
+part_7_button_description	

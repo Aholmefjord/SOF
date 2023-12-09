@@ -1,0 +1,72 @@
+total_parts	7
+lesson_name	疯狂匹配（游戏）
+lesson_description	1.通过疯狂匹配游戏，进一步强化训练分层思维和流程建设 |2.幼儿更加明确所有的物体和问题都可以拆分成小物体和小问题|3.游戏目标：疯狂匹配：第10关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，角色卡片，《小伙伴手册》，故事书（第三卷）《大福先生的旧货商店》
+part_1_description_2_header	教学目标
+part_1_description_2	1.通过疯狂匹配游戏，进一步强化训练分层思维和流程建设 |2.幼儿更加明确所有的物体和问题都可以拆分成小物体和小问题|3.游戏目标：疯狂匹配：第10关
+part_1_description_3_header	教学提示
+part_1_description_3	1.疯狂匹配游戏是为了锻炼幼儿的计算机思维能力而设计的，这种能力的培养贯穿整个课程|2.通过找出与板块形状相匹配的小块，幼儿将能锻炼他们分解问题和抽象问题的技巧
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.出示兜兜角色卡片，询问幼儿运用分层思维方式，可以把兜兜的头部|分为几个部分？（《小伙伴手册》第10页）|2.复习分层思维训练|拆分长单词|- 电视机（电-视-机）|- 冲锋枪（冲-锋-枪）|- 消防车（消-防-车）|- 粉红猪小妹（粉-红-猪-小-妹）|强调分层思维：把复杂的物体和问题拆分成小物体和小问题
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	game
+part_3_target	teacher
+part_3_game_name	manta
+part_3_game_start_level	31
+part_3_game_end_level	40
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1）打开海洋历险记，开始疯狂匹配游戏|2）示范如何在游戏中利用分层思维获得更好的成绩|理解在右侧的碎块可以被分解后组成起来有时候会有右侧的大碎块不能放入左侧图形的情况|左侧的奇异板块可以被分解成更小的形状，从而可以很明显地知道用右侧哪一个碎块来拼全图形|3）示范为何应用流程建设能够帮助我们得到更高的分数（逐步求解法）|首先，快速查看右侧的拼图碎片，并排除不能使用的碎片|第二，观察左侧的奇异板块并快速将大图形分解成一个个小部分|当第一和第二步完成后，幼儿可以尝试将最大的碎片放到应在的位置上|将其余碎片放入适合的地方
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始疯狂匹配 LV 31-40
+part_4	game
+part_4_target	student
+part_4_game_name	manta
+part_4_game_start_level	31
+part_4_game_end_level	40
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	1.每位幼儿自取小白（轻拿轻放）|2.比一比：看谁先打开海洋历险记，找到疯狂匹配游戏|3.将幼儿两两分组并打开海洋历险记应用程序-疯狂匹配（完成至第31-40关）| 幼儿开始游戏，教师进入辅导状态，幼儿在无法完成自己阶段的情况下，允许同伴帮助
+part_4_picture	
+part_4_button	pearly
+part_4_button_description	这按钮将会开始疯狂匹配 LV 31-40
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	《小伙伴手册》第二十四页《找出正确的图片》和第二十五页《找不同》
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.回顾学习内容|2.幼儿解释他们是如何使用计算思技能来得到高分数的，鼓励幼儿与同学们分享经验|3.请幼儿展示《小伙伴手册》的完成情况
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	《种豆芽》|教师可以指导幼儿在生活中把复杂的事情拆分成一件一件的小事情，比如：在教室里豆芽看起来似乎是一件复杂的事情，教师和幼儿可以按照分层思维，将复杂的问题简单化，顺利种出可爱的小豆芽
+part_7_picture	
+part_7_button	
+part_7_button_description	

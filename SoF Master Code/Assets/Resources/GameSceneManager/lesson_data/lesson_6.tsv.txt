@@ -1,0 +1,72 @@
+total_parts	7
+lesson_name	萨丽寻宝记  (游戏)
+lesson_description	1.了解第一个流程建设游戏|2.强化流程建设的定义（按照步骤思考）|3.游戏目标：|萨丽寻宝记：前10关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，音乐《摆臂》及《健康歌》，椅子三把，故事书（第二卷）《美丽豚女士》
+part_1_description_2_header	教学目标
+part_1_description_2	1.了解第一个流程建设游戏|2.强化流程建设的定义（按照步骤思考）|3.游戏目标：|萨丽寻宝记：前10关
+part_1_description_3_header	教学提示
+part_1_description_3	1.幼儿将会明白按顺序思考对于有条理执行命令的重要性在这个游戏中，给予错误的指导将会误导游戏中的人物|2.如果很多幼儿没办法完成关卡，教师应适当调整教学节奏并帮助幼儿完成游戏 
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	韵律歌曲：《摆臂》|我伸出右手去 我收回右手来 我伸出右手摆一摆 右手收回来 我伸出左手去 我收回左手来 我伸出左手摆一摆 左手收回来 我伸出双手去 我收回双手来 我伸出双手摆一摆 双手收回来 …… 帮助幼儿判断左右，同时摆臂的过程也是流程建设的过程
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	game
+part_3_target	teacher
+part_3_game_name	pearly
+part_3_game_start_level	1
+part_3_game_end_level	5
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.登陆并且演示萨丽寻宝记的步骤，完成前五关|2.解释：|幼儿应理解:|- 游戏界面|- 左/右按键|- 整列删除键|- 执行键|- 游戏的目的|- 收集所有珍珠|3.提问：|询问幼儿有没有不清楚的地方
+part_3_picture	
+part_3_button	pearlyCN
+part_3_button_description	这按钮将会开始萨丽寻宝记 LV 1-5
+part_4	game
+part_4_target	student
+part_4_game_name	pearly
+part_4_game_start_level	1
+part_4_game_end_level	10
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	1.复习开机，密码登陆|2.打开萨丽寻宝记游戏并开始教学关卡如果孩子们的水平无法完成，允许他们之间互帮互助教师旁观察，若发现孩子们有困难给予必要帮助|3. 指导幼儿完成萨丽寻宝记的前十关|4. 在课堂最后，让幼儿们解释如何将流程建|设应用到完成游戏中
+part_4_picture	
+part_4_button	pearlyCN
+part_4_button_description	这按钮将会开始萨丽寻宝记 LV 1-10
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	游戏一 左右好朋友|让幼儿说出身上一左一右的好朋友，如：左脚右脚  左手右手 左肩右肩 左腿右腿……||游戏二 海底红绿灯||教师扮演海底交警，幼儿扮演海底正在开潜艇的海洋动物,幼儿说“咕噜咕噜”，一边“吐泡泡”一边开潜艇：|师：直行，红灯停，左转，直行，绿灯行，右转...||可以设置障碍（椅子）
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.回顾今天的学习内容|2.《健康歌》|教师唱歌，给出系列指令：左三圈 右三圈 脖子扭扭 屁股扭扭 |特别提醒：全部指令念完后再邀请小朋友完成（流程建设的过程），不要一边给指令一边做动作|全部集体跳-邀请两位幼儿跳-幼儿独立完成系列动作||3.请幼儿带《小伙伴手册》回家，完成第九页和第十页的海底小迷宫游戏，帮助潜水艇萨丽找到珍珠！
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	完成《小伙伴手册》第九页和第十页的海底小迷宫游戏，帮助潜水艇萨丽找到珍珠！
+part_7_picture	
+part_7_button	
+part_7_button_description	

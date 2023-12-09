@@ -1,0 +1,16 @@
+{
+"Dialogue":[
+				{//0
+					"text":"Welcome back. Great job on retrieving the cargo. I'm sorry to hear about buddy. If there's anything I can do.... let me know",
+					"audio":"Doodle_1",
+					"dialogType":0,
+					"Speaker":"Doodle",
+				},
+				{//1
+					"text":"*cough cough*",
+					"audio":"SFX_buddy_coughing",
+					"dialogType":2,
+					"Speaker":"Buddy",
+				},
+			],
+}

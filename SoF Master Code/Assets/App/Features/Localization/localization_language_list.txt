@@ -1,0 +1,36 @@
+{
+  "languageList":[
+    {
+      "label":"English",
+      "text_location":"text_english",
+      "style_location":"style_english",
+      "image_location":"image_english",
+      "cinematic_script_location":"Cinematics/Scripts/",
+	  "enabled" : true
+    },
+    {
+      "label":"Chinese",
+      "text_location":"text_chinese",
+      "style_location":"style_chinese",
+      "image_location":"image_chinese",
+      "cinematic_script_location":"Cinematics/ScriptsCN/",
+	  "enabled" : true
+    },
+    {
+      "label":"TraditionalChinese",
+      "text_location":"text_chinese",
+      "style_location":"style_traditional_chinese",
+      "image_location":"image_traditional_chinese",
+      "cinematic_script_location":"Cinematics/ScriptsCN/",
+	  "enabled" : true
+    },
+    {
+      "label":"Japanese",
+      "text_location":"text_japanese",
+      "style_location":"style_japanese",
+      "image_location":"image_japanese",
+      "cinematic_script_location":"Cinematics/Scripts/",
+	  "enabled" : false
+    }
+  ]
+}

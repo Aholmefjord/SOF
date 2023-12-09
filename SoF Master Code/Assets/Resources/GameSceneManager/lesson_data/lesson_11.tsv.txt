@@ -1,0 +1,84 @@
+total_parts	8
+lesson_name	水生动物宝宝的家
+lesson_description	1.通过水生动物的种类和其栖息地的对应关系，强化幼儿的模式识别能力|2.游戏目标：咔哧咔哧游戏：给小伙伴喂食五次|萨丽历险记游戏：第26-30关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，《小伙伴手册》，彩色笔（每人一支，不限颜色）
+part_1_description_2_header	教学目标
+part_1_description_2	1.通过水生动物的种类和其栖息地的对应关系，强化幼儿的模式识别能力|2.游戏目标：咔哧咔哧游戏：给小伙伴喂食五次|萨丽历险记游戏：第26-30关
+part_1_description_3_header	教学提示
+part_1_description_3	随着幼儿了解更多的鱼类和它们的栖息地，他们可以应用模式识别思维并对它们的栖息地做出更精确的假设
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	提问：|1.看过《海底总动员》吗？|2.喜欢海底的什么动物？
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_video_name	Doodle Episode 10
+part_3_video_type	doodle
+part_3_video_path	10
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1）教室大屏幕上观看兜兜视频第10集|2）提问：|视频里面有什么水生动物宝宝？
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始兜兜第十集
+part_4	game
+part_4_target	student
+part_4_game_name	chomp
+part_4_game_start_level	1
+part_4_game_end_level	10
+part_4_multiple_activities	start
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	小白陪你快乐学（时长 = 15分钟）
+part_4_description_1	1.比一比：看谁先打开海洋历险记，找到并观看兜兜视频第10集|2.再次观看视频，观看后询问幼儿：|样子吓人的蝰鱼的家在哪里？（深海）|沙泡蟹，海龟的家在哪里？（海滩）||3.复习：|幼儿打开咔哧咔哧游戏，给小伙伴喂食五次|打开萨丽历险记游戏，完成第26-30关
+part_4_picture	
+part_4_button	chomp
+part_4_button_description	这按钮将会开始咔哧咔哧 LV 1-10
+part_5	game
+part_5_target	student
+part_5_game_name	pearly
+part_5_game_start_level	26
+part_5_game_end_level	30
+part_5_multiple_activities	end
+part_5_name	小白陪你快乐学
+part_5_description_count	0
+part_5_picture	
+part_5_button	doodle
+part_5_button_description	这按钮将会开始萨丽寻宝记 LV 26-30
+part_6	manual
+part_6_name	活动与游戏
+part_6_description_count	1
+part_6_description_1_header	活动与游戏（时长 = 15分钟）
+part_6_description_1	连线游戏：找找我的家|幼儿翻到《小伙伴手册》第二十页 《请帮我找到我的家》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	分享与回顾（时长 = 10分钟）
+part_7_description_1	1.回顾学习内容|2.请幼儿上台展示自己的连线作品
+part_7_picture	
+part_7_button	
+part_7_button_description	
+part_8	manual
+part_8_name	分享与反思
+part_8_description_count	1
+part_8_description_1_header	活动延伸（时长 = 60分钟）
+part_8_description_1	请幼儿思考，怎么保护水生动物？||（如：去海边玩耍时，不要乱扔垃圾，让海滩干净整洁，给水生动物宝宝一个干净的家）
+part_8_picture	
+part_8_button	
+part_8_button_description	

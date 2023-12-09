@@ -1,0 +1,673 @@
+ManifestFileVersion: 0
+CRC: 3617693034
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4856d829afe94bfae0253eb5ec5ed38b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 350acfee8f1e7f0acb75b02dd89be390
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L5 - midcrabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L2 - Waters.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/gotocutscene3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L6 - freight.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L6 - kraken tentacle
+  3.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/L1 - whaleshark1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/7.12 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/L3 - manta
+  junkshop.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.3/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_4.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/L1 - whaleshark4.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/crash_anim_anim.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_18.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_6.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L7 - Egg box.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L2 - enemyfishback.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L7 - fgship.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.14/7.14 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.6/L2 - Ship.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 1/6_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/7.12 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.3/L2 - Doodle.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/6.5 base.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_9.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_20.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/finish.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L7 - leftfgrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L8 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/go_to_infinite_crab.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/7.5 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/0.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/credits.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.3/L1 - Light blue
+  1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/7.13 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Transitions/Transition.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_17.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/L1 - kraken.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L9 - Rocks3.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.2/5.2 ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_3.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/4.3 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/egg feedback.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_sad.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/L3 - sallycaught.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/icb/icb_suspicious.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Chpt_4_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/L2 - tentacles.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L2 - longbgrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/L3 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L6 - light.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L3 - Mid debris.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/confirm_question_password.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L1 - bgcrabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.6/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chpt_1_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_18.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/exittransition.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L5 - critters5.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L1 - farbackground.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L5 - snappers.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/L2 - perching rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/manta_hide.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L6 - midrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/forgotPassword_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/L1 - whaleshark2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L7 - rocks4.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/5.4 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L3 - standing wood.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/SallyEnter.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/L4 - krakenhead.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/LeaveBuddy.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/4.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter3/3.2/3.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L4 - manta shop.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/L4 - Decoration2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/manta_neautral.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/L2 - weapon.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L7 - Sally Submarine.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Doodle2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/6.1 base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/L2 - fgtentacle.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/L5 - Sally the Submarine.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/L2 - Clouds.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L10 - Rope.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/L5 - fgrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L6 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L3 - Thunder.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_2/7_2_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chpt_1_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L7 - Sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/FadeDialogIn.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/change_password.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/FadeDialogOut.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.3/1.3 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_scared.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/2.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/icb/icb_holdingbucket.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_17.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/L1 - sally closeup.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L3 - critters3.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Scene1.controller
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L14 - Rain2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L4 - back rocks
+  2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/ParentObject.controller
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/manta/manta_sad.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L3 - ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L7 - fg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L1 - cliffs.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L2 - Sea surface.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.9/7.9 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.1/7.1 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/L6 - ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuff_Happy.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L8 - FG debris.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_16.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/L5 - leadcrab.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L5 - Small egg.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/icb/icb_neutral.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/5.1 base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.1/L3 - egg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L3 - longground.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/4.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/MsPuff_Happy.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L4 - backcrabs2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 1/Main Camera.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L6 - fish3.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L6 - Rocks2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/IQTestCinematic.controller
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Dialogue/0_nextScene.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/L5 - shockwave.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/chpt2_16.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L2 - farbg2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_exit.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/2.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chpt_2_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/L2 - hammereffect.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L4 - egg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L5 - mgstuff.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.14/L1 - buddyleg1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chpt_2_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L9 - fg fishes.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/7.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/buddyHomeUISet.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L2 - bgwood.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/1.5 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L8 - Main egg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/BlackSky.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L5 - fish2.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_happy.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/manta_sad.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/null.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.9/L1 - tentacles.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/icb_neautral.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L5 - sallydrone.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/7.3 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L1 - rocks1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/L3 - tentacles2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/Base - Sky.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/chpt_13_end.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/pet1_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/1.4 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L1 - farbg1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.6/1.6 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 1/to_tumble_trouble.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/chapter3_home_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L8 - rocks5.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/7.3 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/alright_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/iq_tutorial_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/chpt2_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L8 - foreground
+  stall.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/L3 - egg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/5.5 base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/verify_password.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/puffin_neutral.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/L1 - tentaclemid.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chpt_1_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/Chapter 5 - BG.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/manta/manta_happy.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L2 - rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_5.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/customer crab.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_default.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L6 - Sally bubbles.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/egganimation.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/chapter_1_force.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/icb/icb_happy.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L12 - Lifeboat3.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/L2 - pedestal.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L7 - Wave4.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/Buddy.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L2 - waters.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/L4 - henchcrabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/pet1_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L7 - enemyfishfront.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/Pet_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L1 - ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuffinDisappear.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_15.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/cinematics_go_to_pearly.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/Scene_finish.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_16.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.9/7.9 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L1 - rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L3 - BG rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L8 - sailfish.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L4 - Ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/8 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L5 - corner stall.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/MsPuff_Angry.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_15.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Doodle3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L4 - eyes1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/forgotPassword_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.3/L2 - light rays.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/end.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/iq_tutorial_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/L4 - clawback.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Scene1.controller
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.8/L1 - tentacle1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L4 - backsandyrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Manta.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/chapter3_home_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L6 - crabbies.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.6/L1 - sparkle.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.1/7.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/FinishSignup.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/1.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_2/7_2_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuff_sad.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/fadeOut.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/puffin_firstscene.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.3/6.3 -Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_19.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/EnterBuddy.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/crash_anim.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L7 - midground fishes.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_15.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_talking.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/7.10 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.3 - 5.35/5.35 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L4 - childshadow.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_7.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.2/L5 - fg plants.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L1 - bgstuff.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/iq_tutorial_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/7.6 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/chpt2_15.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L4 - Wave1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L7 - fgdumboright.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.2/L3 - crabwall.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L8 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/7.11 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L4 - pufferfish.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L10 - Sally drone.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L11 - Wave5.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/L3 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L5 - mid rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/Gradient BG.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_0.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/L4 - clawfront.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_laugh.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L0 - floor.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L5 - Wave2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/L2 - ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L8 - Lifeboat1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L8 - Sally grumble
+  2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Doodle4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/L2 - oceansurface.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L5 - Big debris.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/L1 - tentacle1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Chpt_4_mantaleaving.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Scene2.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/L4 - buddy.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.2/5.2 Base.jpg
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/L3 - buddy.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/L2 - tentacle2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/L6 - fgtentacles.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L3 - backcrabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/manta_concerned.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_21.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/icb_angry.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L4 - critters4.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_8.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.1/L2 - bottom rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/puffin/puffin_firstscene.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_2/7_2_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 1/6_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuff_BringsEggs.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/chapter3_home_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L6 - midcrab3.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/iq_tutorial_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L8 - sallysweats.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/5.5 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L6 - critters6.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/6.4 base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L6 - midcrabs2.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/TextDialog/textgradient.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L7 - dolphins.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.9/L2 - buddy.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/chapter3_home_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.8/L2 - weapon.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/puffin/puffin_angry.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/cinematics_return_buddy_home.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/ICB.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/L3 - weaponfire.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Buddy_Home.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L1 - field.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L3 - back rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L9 - light.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L9 - Front bubbles.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/L4 - sallysweats.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/chapter3_home_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/6.5 - Cinematics
+  - without egg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L2 - critters2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L3 - kraken tentacle
+  1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.2/5.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.1/L1 - waters.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L6 - midground stall.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Doodle1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuff_neautral.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L7 - Wave3.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/6.2 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/8---Cinematics-mockup.gif
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/6.5 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L9 - Wave4.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L3 - grass.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuff_angry.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 1/6_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_2/7_2_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L4 - Stuff in the
+  back.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/puffin/puffin_happy.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chpt_1_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/icb_holding.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L2 - Clouds.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L2 - ground.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L10 - brokenrocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.8/L3 - tentacles2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/forgotPassword_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/alright_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/L0 - bgtentacle.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.3/ttbg.jpg
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/Main Camera Cinematic.controller
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L6 - Ship.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/manta_happy.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Chpt_8_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/forgotPassword_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L10 - Lifeboat2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L4 - kraken tentacle
+  2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.8/7.8 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/puffin/puffin_sadl.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/5.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L2 - rocks2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/L1 - tentacle1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter8/L1 - whaleshark3.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/manta/manta_concerned.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/L5 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.6/L2 - window.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/manta/manta_neutral.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/chpt3_2_end.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/SallyLeave.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L9 - friendfishes.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/None.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/password_not_match.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/negate_question_password.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.2/L4 - midrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/enter_password.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L9 - eyes2.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/7.5 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Transitions/Transition
+  2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L4.5 - Back bubbles.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.12/L1 - water effects.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L4 - fish1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/warning_anim.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.6/L3 - Bubbles.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L2 - background.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/7.5 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_15.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.2/7.2 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Dialogue/0.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/7.7 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/IQ2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/exit_transition_scene.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L6 - Wood plank.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/L6 - buddy.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/L3 - neighbouring
+  stall.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L5 - pedestal.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chpt_2_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/puffin/puffin_goodbye.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L9 - light rays.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/Chpt_2_pearlywhirly.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/pet2_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/L3 - flying crabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L5 - Rocks1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_16.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/L6 - Doodle.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L7 - Wave3 - splash.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.3/L3 - rocks3.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L8 - light.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Chpt_8_0.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.7/7.7 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_0.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L4 - fog.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L3 - tentacle.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/start.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/buddyshadow.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/MsPuffNone.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L2 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Doodle/Doodlepose_angry.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chpt_1_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.1/6.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_15.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/L7 - topcrabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/6.3 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L1 - waters.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter8/Doodle5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/MsPuff_Neautral.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/3_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L5 - rocks2.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Scene2.controller
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/MsPuff_Sad.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/password_successful.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/chpt2_17.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chapter_1_part_3/buddy_home_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_10.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/L4 - manta.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_9.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L6 - fglongrock.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/begin_chpt_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Puffin.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/pet_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter3/3.2/misspuffinholdingegg.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/L1 - water effects.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_2/Ending.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L8 - fgdumboleft.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.1/L13 - Rain1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/L5 - enemyfish.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/gototako.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/7.10 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.2/L7 - foreground.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Chpt_4_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chpt_2_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.1/L7 - fgcrabs.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/alright_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.5/L3 - whaleshark.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_6.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/ICB_BG.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.4/L1 - critters1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Chpt_4_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.3 - 5.35/5.3 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/pet_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/iq_tutorial_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/7.11 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/1.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.1/customer fishes.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/BuddyCreation/pet_2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Part 2/6_part2_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/7.4 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_2/Chpt_52_12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/BuddyHome/dialogPopup.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.4/L3 - Decoration1.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_18.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_7.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Login/not_safe.anim
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/icb/icb_angry.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/L7 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.11/L3 - working weapon.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_11.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.6/L5 - krakenhead.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech_prt_2/4_part2_8.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_1.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.4/5.4 base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_17.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.4/7.4 - base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/L2 - tentacles.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter4/4.2- 4.3/L1 - bg stalls.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.10/7.10 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_12.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter3/Chpt_3_part_2/5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/L2 - bgrocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/Chpt_5_1/chpt5_02.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_2/7_2_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/Buddys Home.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/IQTest/fadeIn.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/chpt2_14.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.6/6.6 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/warning_anim_anim.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter3/3.1 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter4/Speech/4_5.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter5/icb_suspicious.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter5/5.5/L1 - far bg rocks.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.13/7.13 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.5/L6 - fgcritters.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter6/6.2/6.2 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.1/L4 - sally.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.8/7.8 - Cinematics.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter7/7.14/7.14 - Base.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.2/L3 - Small debris.png
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/puffin/puffin_neutral.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/Chpt_7_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter7/part_1/7_13.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter1/Chapter/Chpt_1_3.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Chpt_6_4.anim
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter2/Chapter_2_2/2.anim
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter1/1.5/L4 - Debris.png
+- Assets/App/Features/NewCutscene/Cinematics/Animations/Chapter6/Canvas.controller
+- Assets/App/Features/NewCutscene/Cinematics/Sprites/Credits/Credits_1.png
+- Assets/App/Features/NewCutscene/Cinematics/Visuals/Chapter2/2.1/L8 - Sally grumble
+  1.png
+Dependencies: []

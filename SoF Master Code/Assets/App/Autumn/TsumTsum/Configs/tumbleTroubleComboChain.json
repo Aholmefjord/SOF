@@ -1,0 +1,44 @@
+{"comboChain":[
+	{
+	"comboChain":	3,
+	"comboChainBonusMin":300,
+	"comboChainBonusMax":500,
+	},
+	
+	{
+	"comboChain":	4,
+	"comboChainBonusMin":500,
+	"comboChainBonusMax":750,
+	},
+	
+	{
+	"comboChain":	5,
+	"comboChainBonusMin":750,
+	"comboChainBonusMax":1000,
+	},
+	
+	{
+	"comboChain":	6,
+	"comboChainBonusMin":1000,
+	"comboChainBonusMax":1500,
+	},
+	
+	{
+	"comboChain":	7,
+	"comboChainBonusMin":2000,
+	"comboChainBonusMax":3000,
+	},
+	
+	{
+	"comboChain":	8,
+	"comboChainBonusMin":4000,
+	"comboChainBonusMax":5000,
+	},
+	
+	{
+	"comboChain":	9,
+	"comboChainBonusMin":6000,
+	"comboChainBonusMax":8000,
+	},
+]
+}

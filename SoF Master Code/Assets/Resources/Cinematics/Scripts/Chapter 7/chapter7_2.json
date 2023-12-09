@@ -1,0 +1,64 @@
+{
+"Dialogue":[
+				{//0
+					"text":"The Kraken has been weakened!",
+					"audio":"Sally_1_krakenweak_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//1
+					"text":"If we just hit it one more time, it will be our only chance to flee.",
+					"audio":"Sally_2_chasetoflee_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"AIM...",
+					"audio":"Sally_3_aim_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//3
+					"text":"FIRE!",
+					"audio":"Sally_4_Fire_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"Oh no! I can't seem to activate it. The automatic trigger is jammed!",
+					"audio":"Sally_5_cantactivate_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"Oh no! It's the Kraken! It has caught us!!",
+					"audio":"Sally_5_krakencaughus_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"That's why it's not working! We need to break free!",
+					"audio":"Sally_5_breakfree_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"Hey Buddy!! What are you doing?! It is dangerous out there!",
+					"audio":"Sally_7_whatareyoudoing",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//8
+					"text":"C'mon! Hurry! Get back in!",
+					"audio":"Sally_7_getbackin",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"??!!??",
+					"audio":"SFX_buddy_attention",
+					"dialogType":-1,
+					"Speaker":"Buddy",
+				},
+			],
+}

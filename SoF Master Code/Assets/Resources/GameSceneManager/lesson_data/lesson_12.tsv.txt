@@ -1,0 +1,70 @@
+total_parts	7
+lesson_name	美化你的小伙伴之家
+lesson_description	1.引导幼儿观察小伙伴的家，丰富幼儿的审美经验，通过购买道具美化小伙伴之家|2.游戏目标：疯狂匹配游戏：第31-35 关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	幼儿自带卧室的照片，《小伙伴手册》，家具sticker贴纸套装
+part_1_description_2_header	教学目标
+part_1_description_2	1.引导幼儿观察小伙伴的家，丰富幼儿的审美经验，通过购买道具美化小伙伴之家|2.游戏目标：疯狂匹配游戏：第31-35 关
+part_1_description_3_header	教学提示
+part_1_description_3	幼儿将理解计算思维可以应用于他们生活中的方方面面
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	介绍卧室：|邀请幼儿介绍自己的卧室，并为自己的卧室命名||句型：|我的房间里面有……|我喜欢这样的设计，因为……|我不喜欢这样的设计|教室引导幼儿利用分层思维思考，卧室（床，衣柜，梳妆台，镜子，玩具）
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	gotoscene
+part_3_target	teacher
+part_3_scene_name	buddyhome
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1）教师在教室的大屏幕上展示小伙伴的家邀请幼儿说出家里有什么|2）教师示范购买物品五件，用于装饰房间|3）五件物品摆放好之后，请幼儿说出喜欢的物品
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始小伙伴的家
+part_4	game
+part_4_target	student
+part_4_game_name	manta
+part_4_game_start_level	31
+part_4_game_end_level	35
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	1.比一比：看谁先打开海洋历险记，并且给小伙伴的新家购买两件物品|2.复习游戏疯狂匹配，完成第31-35关
+part_4_picture	
+part_4_button	manta
+part_4_button_description	这按钮将会开始疯狂匹配 LV 31-35
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	游戏一  兜兜的新卧室（sticker贴纸游戏）||       配合《小伙伴手册》第二十一页完成|游戏二 你来描述我来猜 |邀请幼儿上台悄悄告诉教师自己想要给房间里面买的东西，幼儿说东西的用途，颜色，请其他小朋友猜该物品|如：它是用放置书的，是棕色的（书架）|幼儿也可以自由发挥
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.回顾今天的学习内容|2.幼儿轮流上台分享展示兜兜的新卧室（《小伙伴手册》）
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	鼓励幼儿美化了小伙伴之家，请幼儿回家装饰自己的家
+part_7_picture	
+part_7_button	
+part_7_button_description	

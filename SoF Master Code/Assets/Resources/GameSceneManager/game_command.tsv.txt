@@ -1,0 +1,6 @@
+pearly	pearly_main_screen
+manta	Tangram Main Menu
+chomp	game3
+tumble	TsumTsum Main Screen
+crab	crab_main_screen
+tako	tako_level_select

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<Animation name="alert">
+		<animate frame="8" parts="eyes" expression="happy"/>
+		<animate frame="9" parts="eyes" expression="neutral"/>
+		<animate frame="11" parts="mouth" expression="open"/>
+		<animate frame="45" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="breathing">
+		<animate frame="5" parts="eyes" expression="neutral"/>
+		<animate frame="5" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="clapping">
+		<animate frame="10" parts="eyes" expression="happy"/>
+		<animate frame="44" parts="eyes" expression="neutral"/>
+		<animate frame="5" parts="mouth" expression="laugh"/>
+		<animate frame="60" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="eating">
+		<animate frame="10" parts="eyes" expression="happy"/>
+		<animate frame="56" parts="eyes" expression="neutral"/>
+		<animate frame="0" parts="mouth" expression="open"/>
+		<animate frame="4" loop="true" loop_frame="4" parts="mouth" expression="chew1"/>
+		<animate frame="6" loop="true" loop_frame="4" parts="mouth" expression="chew2"/>
+	</Animation>
+	<Animation name="run">
+		<animate frame="5" parts="eyes" expression="neutral"/>
+		<animate frame="5" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="love">
+		<animate frame="14" parts="eyes" expression="happy"/>
+		<animate frame="38" parts="eyes" expression="neutral"/>
+		<animate frame="56" parts="eyes" expression="happy"/>
+		<animate frame="57" parts="eyes" expression="neutral"/>
+		<animate frame="62" parts="eyes" expression="happy"/>
+		<animate frame="64" parts="eyes" expression="neutral"/>
+		<animate frame="87" parts="eyes" expression="squint"/>
+		<animate frame="114" parts="eyes" expression="neutral"/>
+		<animate frame="16" parts="mouth" expression="laugh"/>
+		<animate frame="53" parts="mouth" expression="neutral"/>
+		<animate frame="75" parts="mouth" expression="laugh"/>
+		<animate frame="133" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="highfive">
+		<animate frame="7" parts="eyes" expression="squint"/>
+		<animate frame="11" parts="eyes" expression="neutral"/>
+		<animate frame="24" parts="eyes" expression="happy"/>
+		<animate frame="40" parts="eyes" expression="neutral"/>
+		<animate frame="12" parts="mouth" expression="laugh"/>
+		<animate frame="24" parts="mouth" expression="neutral"/>
+		<animate frame="25" parts="mouth" expression="smirk"/>
+		<animate frame="45" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="looking_around_idle">
+		<animate frame="30" parts="eyes" expression="close"/>
+		<animate frame="34" parts="eyes" expression="neutral"/>
+		<animate frame="149" parts="eyes" expression="close"/>
+		<animate frame="150" parts="eyes" expression="neutral"/>
+		<animate frame="38" parts="mouth" expression="sian"/>
+		<animate frame="157" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="looking_around_on_the_ground">
+		<animate frame="32" parts="eyes" expression="close"/>
+		<animate frame="34" parts="eyes" expression="neutral"/>
+		<animate frame="77" parts="eyes" expression="close"/>
+		<animate frame="79" parts="eyes" expression="neutral"/>
+		<animate frame="15" parts="mouth" expression="disgust"/>
+		<animate frame="34" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="lying_on_the_floor">
+		<animate frame="0" parts="eyes" expression="spiral"/>
+		<animate frame="254" parts="eyes" expression="neutral"/>
+		<animate frame="0" parts="mouth" expression="squiggly"/>
+		<animate frame="254" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="picking_up">
+		<animate frame="30" parts="eyes" expression="happy"/>
+		<animate frame="34" parts="eyes" expression="neutral"/>
+		<animate frame="37" parts="mouth" expression="laugh"/>
+		<animate frame="61" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="presenting">
+		<animate frame="11" parts="eyes" expression="squint"/>
+		<animate frame="17" parts="eyes" expression="neutral"/>
+		<animate frame="57" parts="eyes" expression="happy"/>
+		<animate frame="60" parts="eyes" expression="neutral"/>
+		<animate frame="19" parts="mouth" expression="open"/>
+		<animate frame="57" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="punching">
+		<animate frame="9" parts="eyes" expression="close"/>
+		<animate frame="12" parts="eyes" expression="neutral"/>
+		<animate frame="13" parts="eyes" expression="angry"/>
+		<animate frame="53" parts="eyes" expression="neutral"/>
+		<animate frame="70" parts="eyes" expression="close"/>
+		<animate frame="73" parts="eyes" expression="neutral"/>
+		<animate frame="20" parts="mouth" expression="smirk"/>
+		<animate frame="54" parts="mouth" expression="neutral"/>
+		<animate frame="55" parts="mouth" expression="open"/>
+		<animate frame="66" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="receiving">
+		<animate frame="22" parts="eyes" expression="happy"/>
+		<animate frame="30" parts="eyes" expression="neutral"/>
+		<animate frame="20" parts="mouth" expression="laugh"/>
+		<animate frame="49" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="selfie">
+		<animate frame="31" parts="eyes" expression="happy"/>
+		<animate frame="33" parts="eyes" expression="neutral"/>
+		<animate frame="94" parts="eyes" expression="happy"/>
+		<animate frame="97" parts="eyes" expression="neutral"/>
+		<animate frame="38" parts="mouth" expression="laugh"/>
+		<animate frame="95" parts="mouth" expression="neutral"/>
+	</Animation>
+	<Animation name="sit_idle">
+		<animate frame="107" parts="eyes" expression="close"/>
+		<animate frame="108" parts="eyes" expression="neutral"/>
+	</Animation>
+	<Animation name="sit_to_standing">
+		<animate frame="68" parts="eyes" expression="close"/>
+		<animate frame="79" parts="eyes" expression="neutral"/>
+	</Animation>
+	<Animation name="waving">
+		<animate frame="0" parts="mouth" expression="laugh"/>
+		<animate frame="20" parts="mouth" expression="neutral"/>
+	</Animation>
+</document>

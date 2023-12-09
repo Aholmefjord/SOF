@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3549904387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7b321cafec63d0b378984b4ac62e920a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/App/Features/Games/ChompChomp/Scenes/game3.unity
+- Assets/App/Features/Games/ChompChomp/Scenes/Chomp_Level.unity
+- Assets/App/Features/Games/ChompChomp/Scenes/chompReloadProxy.unity
+Dependencies:
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-fonts-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/games-shared-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-gui-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-audio-sfx-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/buddy-bundles
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/mantamatchmania-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/pearly-bundle
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/games/games-tutorial-bundle

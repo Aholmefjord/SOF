@@ -1,0 +1,125 @@
+lesson_1	video
+lesson_1_name	Doodle Episode 1
+lesson_1_description	1
+lesson_1_cmd	L1_P3
+lesson_2	video
+lesson_2_name	Doodle Episode 2
+lesson_2_description	2
+lesson_2_cmd	L2_P3
+lesson_3	video
+lesson_3_name	Doodle Episode 4
+lesson_3_description	4
+lesson_3_cmd	L3_P3
+lesson_4	video
+lesson_4_name	Doodle Episode 3
+lesson_4_description	3
+lesson_4_cmd	L5_P3
+lesson_5	video
+lesson_5_name	Doodle Episode 3
+lesson_5_description	3
+lesson_5_cmd	L5_P6
+lesson_6	game
+lesson_6_name	pearly
+lesson_6_description	Lv 1 - 5
+lesson_6_cmd	L6_P3
+lesson_7	game
+lesson_7_name	pearly
+lesson_7_description	Lv 1 - 10
+lesson_7_cmd	L6_P4
+lesson_8	game
+lesson_8_name	pearly
+lesson_8_description	Lv 11 - 15
+lesson_8_cmd	L7_P4
+lesson_9	game
+lesson_9_name	pearly
+lesson_9_description	Lv 16 - 20
+lesson_9_cmd	L8_P4
+lesson_10	video
+lesson_10_name	Doodle Episode 8
+lesson_10_description	8
+lesson_10_cmd	L9_P3
+lesson_11	video
+lesson_11_name	Doodle Episode 9
+lesson_11_description	9
+lesson_11_cmd	L9_P4
+lesson_12	game
+lesson_12_name	pearly
+lesson_12_description	Lv 21 - 25
+lesson_12_cmd	L9_P5
+lesson_13	game
+lesson_13_name	chomp
+lesson_13_description	Lv 1 - 5
+lesson_13_cmd	L10_P3
+lesson_14	game
+lesson_14_name	chomp
+lesson_14_description	Lv 1 - 5
+lesson_14_cmd	L10_P4
+lesson_15	video
+lesson_15_name	Doodle Episode 10
+lesson_15_description	10
+lesson_15_cmd	L11_P3
+lesson_16	game
+lesson_16_name	chomp
+lesson_16_description	Lv 1 - 10
+lesson_16_cmd	L11_P4
+lesson_17	game
+lesson_17_name	pearly
+lesson_17_description	Lv 26 - 30
+lesson_17_cmd	L11_P5
+lesson_18	game
+lesson_18_name	manta
+lesson_18_description	Lv 31 - 35
+lesson_18_cmd	L12_P4
+lesson_19	video
+lesson_19_name	Doodle Episode 5
+lesson_19_description	5
+lesson_19_cmd	L13_P3
+lesson_20	game
+lesson_20_name	pearly
+lesson_20_description	Lv 36 - 40
+lesson_20_cmd	L13_P4
+lesson_21	game
+lesson_21_name	manta
+lesson_21_description	Lv 31 - 40
+lesson_21_cmd	L14_P3
+lesson_22	game
+lesson_22_name	manta
+lesson_22_description	Lv 31 - 40
+lesson_22_cmd	L14_P4
+lesson_23	video
+lesson_23_name	Doodle Episode 11
+lesson_23_description	11
+lesson_23_cmd	L15_P3
+lesson_24	game
+lesson_24_name	crab
+lesson_24_description	Lv 1 - 5
+lesson_24_cmd	L15_P4
+lesson_25	game
+lesson_25_name	pearly
+lesson_25_description	Lv 41 - 45
+lesson_25_cmd	L15_P5
+lesson_26	game
+lesson_26_name	crab
+lesson_26_description	Lv 1 - 5
+lesson_26_cmd	L16_P3
+lesson_27	game
+lesson_27_name	chomp
+lesson_27_description	Lv 1 - 5
+lesson_27_cmd	L16_P4
+lesson_28	game
+lesson_28_name	pearly
+lesson_28_description	Lv 46 - 50
+lesson_28_cmd	L16_P5
+lesson_29	game
+lesson_29_name	crab
+lesson_29_description	Lv 1 - 5
+lesson_29_cmd	L16_P6
+lesson_30	game
+lesson_30_name	chomp
+lesson_30_description	Lv 1 - 5
+lesson_30_cmd	L16_P7
+lesson_31	game
+lesson_31_name	pearly
+lesson_31_description	Lv 46 - 50
+lesson_31_cmd	L16_P8
+total_lesson	31

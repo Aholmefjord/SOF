@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2955691681
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab1965ae314045ac4c52b7c0ef79f585
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1033bf7ddfd4c6d43e7a6382c0a0a61a
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/Games/FishVsTako/Configs/fvt_game_data.tsv.txt
+- Assets/App/Features/Games/FishVsTako/Configs/fvt_level.json
+Dependencies: []

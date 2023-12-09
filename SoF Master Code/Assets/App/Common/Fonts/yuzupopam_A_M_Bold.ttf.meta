@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 366988ded4c0ece40b7aea026ec66c70
+timeCreated: 1503938919
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yuzu Pop A [M] Bold
+  fontNames:
+  - Yuzu Pop A [M] Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

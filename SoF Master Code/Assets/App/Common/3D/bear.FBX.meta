@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 5b08bf85d35dc36418ca4ab7bbc477c6
+timeCreated: 1453363971
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Biped
+    100004: Biped Footsteps
+    100006: Biped Head
+    100008: Biped HeadNub
+    100010: Biped L Calf
+    100012: Biped L Clavicle
+    100014: Biped L Ear
+    100016: Biped L EarNub
+    100018: Biped L Finger0
+    100020: Biped L Finger0Nub
+    100022: Biped L Finger1
+    100024: Biped L Finger1Nub
+    100026: Biped L Foot
+    100028: Biped L Forearm
+    100030: Biped L ForeTwist
+    100032: Biped L Hand
+    100034: Biped L Thigh
+    100036: Biped L Toe0
+    100038: Biped L Toe0Nub
+    100040: Biped L UpperArm
+    100042: Biped LCalfTwist
+    100044: Biped LThighTwist
+    100046: Biped LUpArmTwist
+    100048: Biped Neck
+    100050: Biped Pelvis
+    100052: Biped R Calf
+    100054: Biped R Clavicle
+    100056: Biped R Ear
+    100058: Biped R EarNub
+    100060: Biped R Finger0
+    100062: Biped R Finger0Nub
+    100064: Biped R Finger1
+    100066: Biped R Finger1Nub
+    100068: Biped R Foot
+    100070: Biped R Forearm
+    100072: Biped R ForeTwist
+    100074: Biped R Hand
+    100076: Biped R Thigh
+    100078: Biped R Toe0
+    100080: Biped R Toe0Nub
+    100082: Biped R UpperArm
+    100084: Biped RCalfTwist
+    100086: Biped RThighTwist
+    100088: Biped RUpArmTwist
+    100090: Biped Spine
+    100092: Biped Spine1
+    100094: Biped Tail
+    100096: Biped TailNub
+    100098: Mesh_Bear_Head
+    100100: Mesh_Bear_Tail
+    100102: Mesh_BodyType01
+    100104: Plane001
+    100106: Rig_HipPivot
+    100108: Rig_Master
+    400000: //RootNode
+    400002: Biped
+    400004: Biped Footsteps
+    400006: Biped Head
+    400008: Biped HeadNub
+    400010: Biped L Calf
+    400012: Biped L Clavicle
+    400014: Biped L Ear
+    400016: Biped L EarNub
+    400018: Biped L Finger0
+    400020: Biped L Finger0Nub
+    400022: Biped L Finger1
+    400024: Biped L Finger1Nub
+    400026: Biped L Foot
+    400028: Biped L Forearm
+    400030: Biped L ForeTwist
+    400032: Biped L Hand
+    400034: Biped L Thigh
+    400036: Biped L Toe0
+    400038: Biped L Toe0Nub
+    400040: Biped L UpperArm
+    400042: Biped LCalfTwist
+    400044: Biped LThighTwist
+    400046: Biped LUpArmTwist
+    400048: Biped Neck
+    400050: Biped Pelvis
+    400052: Biped R Calf
+    400054: Biped R Clavicle
+    400056: Biped R Ear
+    400058: Biped R EarNub
+    400060: Biped R Finger0
+    400062: Biped R Finger0Nub
+    400064: Biped R Finger1
+    400066: Biped R Finger1Nub
+    400068: Biped R Foot
+    400070: Biped R Forearm
+    400072: Biped R ForeTwist
+    400074: Biped R Hand
+    400076: Biped R Thigh
+    400078: Biped R Toe0
+    400080: Biped R Toe0Nub
+    400082: Biped R UpperArm
+    400084: Biped RCalfTwist
+    400086: Biped RThighTwist
+    400088: Biped RUpArmTwist
+    400090: Biped Spine
+    400092: Biped Spine1
+    400094: Biped Tail
+    400096: Biped TailNub
+    400098: Mesh_Bear_Head
+    400100: Mesh_Bear_Tail
+    400102: Mesh_BodyType01
+    400104: Plane001
+    400106: Rig_HipPivot
+    400108: Rig_Master
+    2300000: Plane001
+    3300000: Plane001
+    4300000: Mesh_Bear_Tail
+    4300002: Mesh_Bear_Head
+    4300004: Mesh_BodyType01
+    4300006: Plane001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Mesh_Bear_Head
+    13700002: Mesh_Bear_Tail
+    13700004: Mesh_BodyType01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

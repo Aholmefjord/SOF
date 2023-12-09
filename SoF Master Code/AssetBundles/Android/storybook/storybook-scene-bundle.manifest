@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 255457523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec463486edede45f29bde9ddb58cb644
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/App/Features/InGame ImageDisplay/InGame ImageDisplay.unity
+Dependencies:
+- C:/Users/Administrator/Documents/school_of_fish/AssetBundles/Android/shared/shared-gui-bundle

@@ -1,0 +1,8905 @@
+[
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 1,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 0,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s47,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s49,
+          position: [ 0, 7 ]
+        },
+        {
+          name: s43,
+          position: [ 0, 1 ]
+        },
+        {
+          name: s39,
+          position: [ 8, 4 ]
+        },
+        {
+          name: s33,
+          position: [ 6, 2 ]
+        },
+        {
+          name: s19,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s13,
+          position: [ 7, 9 ]
+        },
+        {
+          name: s11,
+          position: [ 5, 9 ]
+        },
+        {
+          name: s5,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s1,
+          position: [ 3, 9 ]
+        },
+        {
+          name: s12,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s16,
+          position: [ 0, 9 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    timer: 30
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 1,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s1,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s47,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s45,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s29,
+          position: [ 8, 6 ]
+        },
+        {
+          name: s11,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 2 ]
+        },
+        {
+          name: s13,
+          position: [ 4, 1 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 2,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s19,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s7,
+          position: [ 8, 4 ]
+        },
+        {
+          name: s39,
+          position: [ 7, 8 ]
+        },
+        {
+          name: s2,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s21,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s13,
+          position: [ 4, 2 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 3,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s30,
+          position: [ 1, 8 ]
+        },
+        {
+          name: s26,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s17,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s18,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s3,
+          position: [ 7, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 4,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s23,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s1,
+          position: [ 7, 3 ]
+        },
+        {
+          name: s15,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s5,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s16,
+          position: [ 4, 5 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 5,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 3,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s28,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s43,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s34,
+          position: [ 1, 3 ]
+        },
+        {
+          name: s11,
+          position: [ 8, 5 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s8,
+          position: [ 7, 8 ]
+        },
+        {
+          name: s2,
+          position: [ 5, 1 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 6,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s12,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s3,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s6,
+          position: [ 8, 7 ]
+        },
+        {
+          name: s16,
+          position: [ 3, 8 ]
+        },
+        {
+          name: s11,
+          position: [ 7, 4 ]
+        },
+        {
+          name: s37,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 7,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s49,
+          position: [ 1, 4 ]
+        },
+        {
+          name: s16,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s14,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s1,
+          position: [ 7, 3 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 8,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s48,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s42,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s16,
+          position: [ 7, 3 ]
+        },
+        {
+          name: s5,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s7,
+          position: [ 2, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 9,
+          position: [ 1, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s20,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s10,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s6,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s7,
+          position: [ 7, 6 ]
+        },
+        {
+          name: s3,
+          position: [ 6, 3 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 10,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s35,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s21,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s29,
+          position: [ 7, 5 ]
+        },
+        {
+          name: s8,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s3,
+          position: [ 4, 5 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 11,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s40,
+          position: [ 4, 7 ]
+        },
+        {
+          name: s49,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s16,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s11,
+          position: [ 1, 4 ]
+        },
+        {
+          name: s5,
+          position: [ 7, 7 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 12,
+          position: [ 1, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s38,
+          position: [ 1, 8 ]
+        },
+        {
+          name: s37,
+          position: [ 5, 6 ]
+        },
+        {
+          name: s45,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s10,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s2,
+          position: [ 7, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 4, 1 ]
+        },
+        {
+          name: s6,
+          position: [ 8, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 13,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s22,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s15,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s11,
+          position: [ 7, 4 ]
+        },
+        {
+          name: s16,
+          position: [ 6, 7 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 14,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s42,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s4,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s45,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s39,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 4 ]
+        },
+        {
+          name: s2,
+          position: [ 4, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 15,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s31,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s8,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s13,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s11,
+          position: [ 7, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 16,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s26,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s17,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s13,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s16,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s9,
+          position: [ 6, 3 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 17,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s36,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s13,
+          position: [ 3, 2 ]
+        },
+        {
+          name: s14,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s5,
+          position: [ 3, 4 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 18,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s26,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s17,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s16,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s7,
+          position: [ 3, 8 ]
+        },
+        {
+          name: s22,
+          position: [ 1, 7 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 19,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s43,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s13,
+          position: [ 3, 1 ]
+        },
+        {
+          name: s3,
+          position: [ 3, 4 ]
+        },
+        {
+          name: s29,
+          position: [ 7, 6 ]
+        },
+        {
+          name: s6,
+          position: [ 5, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s48,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s8,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s14,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s4,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s39,
+          position: [ 7, 6 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 21,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s49,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s14,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s16,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 4 ]
+        },
+        {
+          name: s1,
+          position: [ 8, 3 ]
+        },
+        {
+          name: s33,
+          position: [ 4, 6 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 22,
+          position: [ 1, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s9,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s13,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s2,
+          position: [ 7, 2 ]
+        },
+        {
+          name: s50,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 6 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 23,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s24,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s18,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s3,
+          position: [ 7, 4 ]
+        },
+        {
+          name: s5,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s10,
+          position: [ 2, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 24,
+          position: [ 1, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s1,
+          position: [ 7, 4 ]
+        },
+        {
+          name: s5,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s14,
+          position: [ 4, 7 ]
+        },
+        {
+          name: s22,
+          position: [ 1, 8 ]
+        },
+        {
+          name: s21,
+          position: [ 3, 4 ]
+        },
+        {
+          name: s11,
+          position: [ 1, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 25,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s9,
+          position: [ 6, 3 ]
+        },
+        {
+          name: s8,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s27,
+          position: [ 1, 4 ]
+        },
+        {
+          name: s17,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s4,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s2,
+          position: [ 7, 5 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 26,
+          position: [ 1, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s10,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s15,
+          position: [ 1, 2 ]
+        },
+        {
+          name: s14,
+          position: [ 5, 4 ]
+        },
+        {
+          name: s16,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s1,
+          position: [ 3, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 27,
+          position: [ 2, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 3,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s10,
+          position: [ 4, 7 ]
+        },
+        {
+          name: s6,
+          position: [ 6, 4 ]
+        },
+        {
+          name: s39,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s8,
+          position: [ 1, 7 ]
+        },
+        {
+          name: s11,
+          position: [ 8, 6 ]
+        },
+        {
+          name: s1,
+          position: [ 1, 3 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 28,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s27,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s17,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s2,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s13,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s7,
+          position: [ 3, 3 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 29,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 1,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s33,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s16,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s5,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s3,
+          position: [ 2, 3 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 30,
+          position: [ 1, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s12,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s14,
+          position: [ 5, 4 ]
+        },
+        {
+          name: s3,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s6,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 1, 3 ]
+        },
+        {
+          name: s11,
+          position: [ 1, 8 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 31,
+          position: [ 2, 5 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s10,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s39,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s13,
+          position: [ 2, 5 ]
+        },
+        {
+          name: s2,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s6,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s11,
+          position: [ 7, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    blueprint: {
+      pieces: [
+        {
+          name: 32,
+          position: [ 1, 6 ]
+        }
+      ],
+      size: {
+        'x': 8,
+        'y': 8
+      }
+    },
+    difficulty: 2,
+    fish: 1,
+    inventory: {
+      pieces: [
+        {
+          name: s12,
+          position: [ 4, 4 ]
+        },
+        {
+          name: s17,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s7,
+          position: [ 1, 6 ]
+        },
+        {
+          name: s39,
+          position: [ 1, 3 ]
+        },
+        {
+          name: s8,
+          position: [ 3, 7 ]
+        },
+        {
+          name: s2,
+          position: [ 8, 4 ]
+        }
+      ],
+      size: {
+        'x': 10,
+        'y': 10
+      }
+    },
+    magic: null,
+    timer: 45
+  },
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 0,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 31,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s43, position:[ 1, 3 ]}, 
+	  {name:s39, position:[ 1, 8 ]}, 
+	  {name:s3, position:[ 7, 5 ]}, 
+	  {name:s13, position:[ 6, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 31,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s11, position:[ 1, 8 ]}, 
+	  {name:s14, position:[ 2, 4 ]}, 
+	  {name:s39, position:[ 7, 3 ]}, 
+	  {name:s4, position:[ 4, 7 ]}, 
+	  {name:s1, position:[ 1, 1 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 28,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+       pieces:[ 
+	   {name:s14, position:[ 0, 6 ]}, 
+	   {name:s4, position:[ 6, 1 ]}, 
+	   {name:s13, position:[ 2, 8 ]}, 
+	   {name:s12, position:[ 6, 6 ]}, 
+	   {name:s8, position:[ 2, 3 ]} 
+	   ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 1,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s45, position:[ 4, 3 ]}, 
+	  {name:s13, position:[ 2, 5 ]}, 
+	  {name:s6, position:[ 8, 7 ]}, 
+	  {name:s1, position:[ 7, 1 ]}, 
+	  {name:s18, position:[ 1, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 2,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s16,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s7,
+          position: [ 1, 3 ]
+        },
+        {
+          name: s8,
+          position: [ 1, 8 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 1 ]
+        },
+        {
+          name: s2,
+          position: [ 9, 7 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 2,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s18,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s14,
+          position: [ 0, 4 ]
+        },
+        {
+          name: s1,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 5, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 3,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s28,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s8,
+          position: [ 8, 9 ]
+        },
+        {
+          name: s4,
+          position: [ 4, 9 ]
+        },
+        {
+          name: s3,
+          position: [ 0, 1 ]
+        },
+        {
+          name: s7,
+          position: [ 8, 4 ]
+        },
+        {
+          name: s2,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 2, 7 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 3,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s18,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s18,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s11,
+          position: [ 3, 6 ]
+        },
+        {
+          name: s2,
+          position: [ 3, 0 ]
+        },
+        {
+          name: s9,
+          position: [ 2, 8 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 4,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+pieces:
+[ 
+	{name:s10, position:[ 1, 5 ]}, 
+	{name:s2, position:[ 5, 2 ]}, 
+	{name:s9, position:[ 6, 6 ]}, 
+	{name:s5, position:[ 5, 8 ]} 
+]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 4,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s47,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s8,
+          position: [ 0, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 9, 6 ]
+        },
+        {
+          name: s1,
+          position: [ 7, 0 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 5,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s24,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s3,
+          position: [ 4, 7 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 1 ]
+        },
+        {
+          name: s3,
+          position: [ 1, 9 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 5,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+	  {name:s14, position:[ 4, 5 ]}, 
+	  {name:s16, position:[ 1, 2 ]}, 
+	  {name:s1, position:[ 5, 8 ]}, 
+	  {name:s4, position:[ 7, 1 ]},
+	  {name:s33, position:[ 0, 8 ]}
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 6,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s47,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s16,
+          position: [ 8, 7 ]
+        },
+        {
+          name: s5,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s2,
+          position: [ 8, 1 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 6,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s5,
+          position: [ 0, 6 ]
+        },
+        {
+          name: s23,
+          position: [ 0, 5 ]
+        },
+        {
+          name: s5,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 0, 8 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 7,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s33,
+          position: [ 5, 6 ]
+        },
+        {
+          name: s8,
+          position: [ 3, 4 ]
+        },
+        {
+          name: s2,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s16,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s7,
+          position: [ 8, 2 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 7,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s8, position:[ 5, 4 ]}, 
+	  {name:s9, position:[ 4, 8 ]}, 
+	  {name:s40, position:[ 2, 3 ]}, 
+	  {name:s1, position:[ 1, 4 ]}, 
+	  {name:s6, position:[ 8, 5 ]}, 
+	  {name:s7, position:[ 2, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 8,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s7,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s20,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s29,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s3,
+          position: [ 8, 1 ]
+        },
+        {
+          name: s1,
+          position: [ 3, 0 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 8,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s16,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 1 ]
+        },
+        {
+          name: s40,
+          position: [ 2, 6 ]
+        },
+        {
+          name: s3,
+          position: [ 7, 3 ]
+        },
+        {
+          name: s4,
+          position: [ 3, 7 ]
+        },
+        {
+          name: s2,
+          position: [ 1, 8 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 9,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s44,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s1,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s16,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s5,
+          position: [ 2, 8 ]
+        },
+        {
+          name: s5,
+          position: [ 1, 1 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 9,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s24,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 1 ]
+        },
+        {
+          name: s8,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 7, 6 ]
+        },
+        {
+          name: s1,
+          position: [ 1, 8 ]
+        },
+        {
+          name: s1,
+          position: [ 8, 1 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 10,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s17,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 1 ]
+        },
+        {
+          name: s21,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 7, 5 ]
+        },
+        {
+          name: s1,
+          position: [ 5, 5 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 10,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s23,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s8,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s5,
+          position: [ 2, 5 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 11,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s33,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s12,
+          position: [ 0, 5 ]
+        },
+        {
+          name: s2,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 3, 6 ]
+        },
+        {
+          name: s4,
+          position: [ 3, 1 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 1 ]
+        },
+        {
+          name: s1,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s5,
+          position: [ 8, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 11,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s33, position:[ 5, 3 ]}, 
+	  {name:s14, position:[ 6, 5 ]}, 
+	  {name:s6, position:[ 4, 7 ]}, 
+	  {name:s18, position:[ 1, 2 ]}, 
+	  {name:s9, position:[ 2, 6 ]}, 
+	  {name:s3, position:[ 6, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 12,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s32, position:[ 3, 8 ]}, 
+	  {name:s7, position:[ 8, 8 ]}, 
+	  {name:s19, position:[ 5, 5 ]}, 
+	  {name:s5, position:[ 3, 1 ]}, 
+	  {name:s3, position:[ 1, 5 ]}, 
+	  {name:s11, position:[ 1, 3 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 12,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s40, position:[ 6, 5 ]}, 
+	  {name:s45, position:[ 1, 8 ]}, 
+	  {name:s16, position:[ 4, 2 ]}, 
+	  {name:s9, position:[ 1, 2 ]}, 
+	  {name:s3, position:[ 4, 5 ]}, 
+	  {name:s7, position:[ 6, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 13,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s50,
+          position: [ 1, 8 ]
+        },
+        {
+          name: s15,
+          position: [ 3, 7 ]
+        },
+        {
+          name: s9,
+          position: [ 0, 4 ]
+        },
+        {
+          name: s3,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s3,
+          position: [ 3, 0 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 6 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 13,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s39, position:[ 1, 4 ]}, 
+	  {name:s6, position:[ 4, 2 ]}, 
+	  {name:s22, position:[ 7, 8 ]}, 
+	  {name:s4, position:[ 5, 1 ]}, 
+	  {name:s8, position:[ 4, 5 ]}, 
+	  {name:s15, position:[ 1, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 14,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s47, position:[ 3, 3 ]}, 
+	  {name:s21, position:[ 1, 4 ]}, 
+	  {name:s5, position:[ 7, 4 ]}, 
+	  {name:s17, position:[ 5, 8 ]}, 
+	  {name:s4, position:[ 3, 6 ]}, 
+	  {name:s2, position:[ 7, 1 ]}, 
+	  {name:s27, position:[ 0, 9 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 14,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s8, position:[ 6, 8 ]}, 
+	  {name:s9, position:[ 5, 3 ]}, 
+	  {name:s45, position:[ 6, 6 ]}, 
+	  {name:s7, position:[ 2, 6 ]}, 
+	  {name:s18, position:[ 1, 3 ]}, 
+	  {name:s6, position:[ 1, 6 ]}, 
+	  {name:s32, position:[ 3, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 15,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s17, position:[ 1, 2 ]}, 
+	  {name:s7, position:[ 3, 8 ]}, 
+	  {name:s9, position:[ 5, 8 ]}, 
+	  {name:s4, position:[ 6, 1 ]}, 
+	  {name:s16, position:[ 7, 4 ]}, 
+	  {name:s3, position:[ 8, 7 ]}, 
+	  {name:s35, position:[ 1, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 15,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s14,
+          position: [ 6, 7 ]
+        },
+        {
+          name: s16,
+          position: [ 3, 6 ]
+        },
+        {
+          name: s31,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s3,
+          position: [ 3, 0 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 16,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s45, position:[ 7, 7 ]}, 
+	  {name:s8, position:[ 1, 7 ]}, 
+	  {name:s16, position:[ 3, 2 ]}, 
+	  {name:s17, position:[ 0, 4 ]}, 
+	  {name:s11, position:[ 6, 3 ]}, 
+	  {name:s1, position:[ 5, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 30,
+    difficulty: 1,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 16,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s26, position:[ 5, 3 ]}, 
+	  {name:s9, position:[ 1, 2 ]}, 
+	  {name:s13, position:[ 0, 8 ]}, 
+	  {name:s11, position:[ 7, 6 ]}, 
+	  {name:s6, position:[ 4, 7 ]}, 
+	  {name:s8, position:[ 1, 5 ]}, 
+	  {name:s2, position:[ 3, 2 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 17,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s36, position:[ 5, 5 ]}, 
+	  {name:s14, position:[ 5, 7 ]}, 
+	  {name:s5, position:[ 1, 1 ]}, 
+	  {name:s11, position:[ 8, 3 ]}, 
+	  {name:s4, position:[ 1, 3 ]}, 
+	  {name:s24, position:[ 1, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 17,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s14,
+          position: [ 2, 5 ]
+        },
+        {
+          name: s15,
+          position: [ 3, 8 ]
+        },
+        {
+          name: s4,
+          position: [ 7, 3 ]
+        },
+        {
+          name: s6,
+          position: [ 7, 5 ]
+        },
+        {
+          name: s3,
+          position: [ 8, 4 ]
+        },
+        {
+          name: s2,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s5,
+          position: [ 3, 6 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 18,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s18,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s1,
+          position: [ 5, 7 ]
+        },
+        {
+          name: s22,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s16,
+          position: [ 2, 5 ]
+        },
+        {
+          name: s2,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 7, 2 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 18,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s25, position:[ 6, 7 ]}, 
+	  {name:s5, position:[ 6, 1 ]}, 
+	  {name:s14, position:[ 1, 4 ]}, 
+	  {name:s3, position:[ 5, 3 ]}, 
+	  {name:s16, position:[ 1, 2 ]}, 
+	  {name:s13, position:[ 2, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 19,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s50,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s29,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 6 ]
+        },
+        {
+          name: s6,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s2,
+          position: [ 8, 3 ]
+        },
+        {
+          name: s3,
+          position: [ 6, 3 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 19,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s49,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s8,
+          position: [ 5, 8 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 0, 4 ]
+        },
+        {
+          name: s5,
+          position: [ 0, 1 ]
+        },
+        {
+          name: s6,
+          position: [ 2, 7 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s18,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s13,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s17,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 6, 6 ]
+        },
+        {
+          name: s4,
+          position: [ 0, 3 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s26,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s16,
+          position: [ 3, 6 ]
+        },
+        {
+          name: s9,
+          position: [ 7, 7 ]
+        },
+        {
+          name: s1,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s5,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s3,
+          position: [ 9, 1 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 21,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s33,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s29,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s16,
+          position: [ 1, 4 ]
+        },
+        {
+          name: s2,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s6,
+          position: [ 0, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 21,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s8, position:[ 6, 7 ]}, 
+	  {name:s9, position:[ 1, 4 ]}, 
+	  {name:s17, position:[ 1, 8 ]}, 
+	  {name:s45, position:[ 7, 5 ]}, 
+	  {name:s7, position:[ 3, 2 ]}, 
+	  {name:s34, position:[ 3, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 22,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s50, position:[ 2, 7 ]}, 
+	  {name:s14, position:[ 5, 4 ]}, 
+	  {name:s3, position:[ 4, 2 ]}, 
+	  {name:s5, position:[ 1, 2 ]}, 
+	  {name:s7, position:[ 6, 2 ]}, 
+	  {name:s16, position:[ 7, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 22,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s6,
+          position: [ 4, 1 ]
+        },
+        {
+          name: s37,
+          position: [ 4, 7 ]
+        },
+        {
+          name: s11,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s1,
+          position: [ 1, 5 ]
+        },
+        {
+          name: s1,
+          position: [ 5, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 7, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 23,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s13, position:[ 1, 8 ]}, 
+	  {name:s5, position:[ 1, 1 ]}, 
+	  {name:s45, position:[ 3, 6 ]}, 
+	  {name:s13, position:[ 6, 8 ]}, 
+	  {name:s6, position:[ 6, 3 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 23,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s5,
+          position: [ 2, 2 ]
+        },
+        {
+          name: s24,
+          position: [ 4, 6 ]
+        },
+        {
+          name: s7,
+          position: [ 5, 1 ]
+        },
+        {
+          name: s7,
+          position: [ 1, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 8, 4 ]
+        },
+        {
+          name: s2,
+          position: [ 1, 7 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 24,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s4,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s15,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s18,
+          position: [ 0, 1 ]
+        },
+        {
+          name: s11,
+          position: [ 8, 2 ]
+        },
+        {
+          name: s5,
+          position: [ 4, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 24,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s31,
+          position: [ 3, 6 ]
+        },
+        {
+          name: s13,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s4,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s3,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s7,
+          position: [ 7, 5 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 25,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s8,
+          position: [ 2, 5 ]
+        },
+        {
+          name: s36,
+          position: [ 4, 4 ]
+        },
+        {
+          name: s16,
+          position: [ 7, 3 ]
+        },
+        {
+          name: s5,
+          position: [ 4, 1 ]
+        },
+        {
+          name: s3,
+          position: [ 6, 5 ]
+        },
+        {
+          name: s4,
+          position: [ 2, 2 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 25,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s31, position:[ 3, 6 ]}, 
+	  {name:s18, position:[ 4, 2 ]}, 
+	  {name:s6, position:[ 7, 5 ]}, 
+	  {name:s5, position:[ 7, 2 ]}, 
+	  {name:s21, position:[ 1, 8 ]}, 
+	  {name:s33, position:[ 1, 3 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 26,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s28, position:[ 5, 8 ]}, 
+	  {name:s4, position:[ 7, 4 ]}, 
+	  {name:s10, position:[ 1, 7 ]}, 
+	  {name:s8, position:[ 1, 4 ]}, 
+	  {name:s3, position:[ 2, 2 ]}, 
+	  {name:s32, position:[ 4, 3 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 26,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s40, position:[ 3, 7 ]}, 
+	  {name:s10, position:[ 6, 2 ]}, 
+	  {name:s39, position:[ 2, 3 ]}, 
+	  {name:s2, position:[ 1, 8 ]}, 
+	  {name:s13, position:[ 0, 4 ]}, 
+	  {name:s38, position:[ 6, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 27,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s10, position:[ 6, 3 ]}, 
+	  {name:s9, position:[ 1, 5 ]}, 
+	  {name:s2, position:[ 3, 6 ]}, 
+	  {name:s8, position:[ 3, 2 ]}, 
+	  {name:s16, position:[ 5, 6 ]}, 
+	  {name:s7, position:[ 1, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 2,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 27,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s10, position:[ 6, 3 ]}, 
+	  {name:s39, position:[ 4, 7 ]}, 
+	  {name:s8, position:[ 7, 7 ]}, 
+	  {name:s6, position:[ 3, 4 ]}, 
+	  {name:s7, position:[ 1, 3 ]}, 
+	  {name:s5, position:[ 1, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 28,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s20,
+          position: [ 6, 2 ]
+        },
+        {
+          name: s10,
+          position: [ 6, 6 ]
+        },
+        {
+          name: s13,
+          position: [ 3, 4 ]
+        },
+        {
+          name: s3,
+          position: [ 8, 3 ]
+        },
+        {
+          name: s4,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s3,
+          position: [ 2, 2 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 28,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s47, position:[ 5, 3 ]}, 
+	  {name:s13, position:[ 6, 5 ]}, 
+	  {name:s12, position:[ 3, 8 ]}, 
+	  {name:s4, position:[ 3, 1 ]},
+	  {name:s1, position:[ 2, 5 ]}, 
+	  {name:s2, position:[ 2, 3 ]}
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 29,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s45, position:[ 7, 7 ]}, 
+	  {name:s14, position:[ 3, 8 ]}, 
+	  {name:s5, position:[ 2, 1 ]}, 
+	  {name:s7, position:[ 3, 5 ]}, 
+	  {name:s3, position:[ 1, 5 ]}, 
+	  {name:s33, position:[ 5, 3 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 29,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s1,
+          position: [ 3, 1 ]
+        },
+        {
+          name: s4,
+          position: [ 1, 3 ]
+        },
+        {
+          name: s5,
+          position: [ 3, 2 ]
+        },
+        {
+          name: s44,
+          position: [ 1, 6 ]
+        },
+        {
+          name: s2,
+          position: [ 8, 1 ]
+        },
+        {
+          name: s6,
+          position: [ 5, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 30,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s39, position:[ 1, 3 ]}, 
+	  {name:s6, position:[ 6, 6 ]}, 
+	  {name:s14, position:[ 6, 2 ]}, 
+	  {name:s8, position:[ 3, 5 ]}, 
+	  {name:s4, position:[ 3, 7 ]}, 
+	  {name:s1, position:[ 1, 5 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 30,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s39,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s17,
+          position: [ 7, 5 ]
+        },
+        {
+          name: s1,
+          position: [ 4, 3 ]
+        },
+        {
+          name: s5,
+          position: [ 8, 6 ]
+        },
+        {
+          name: s3,
+          position: [ 6, 2 ]
+        },
+        {
+          name: s6,
+          position: [ 9, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 4, 6 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 31,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s13,
+          position: [ 4, 5 ]
+        },
+        {
+          name: s17,
+          position: [ 0, 6 ]
+        },
+        {
+          name: s15,
+          position: [ 3, 3 ]
+        },
+        {
+          name: s3,
+          position: [ 0, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 1, 1 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 31,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s39, position:[ 6, 8 ]}, 
+	  {name:s18, position:[ 2, 7 ]}, 
+	  {name:s6, position:[ 1, 5 ]}, 
+	  {name:s13, position:[ 2, 2 ]}, 
+	  {name:s25, position:[ 6, 4 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 32,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s48, position:[ 4, 3 ]}, 
+	  {name:s3, position:[ 2, 4 ]}, 
+	  {name:s9, position:[ 1, 7 ]}, 
+	  {name:s6, position:[ 1, 3 ]}, 
+	  {name:s4, position:[ 6, 5 ]}, 
+	  {name:s47, position:[ 4, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 32,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s42,
+          position: [ 3, 5 ]
+        },
+        {
+          name: s8,
+          position: [ 5, 3 ]
+        },
+        {
+          name: s6,
+          position: [ 2, 3 ]
+        },
+        {
+          name: s6,
+          position: [ 8, 3 ]
+        },
+        {
+          name: s1,
+          position: [ 3, 2 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 33,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s50, position:[ 2, 5 ]}, 
+	  {name:s8, position:[ 4, 2 ]}, 
+	  {name:s18, position:[ 6, 4 ]}, 
+	  {name:s4, position:[ 4, 7 ]}, 
+	  {name:s5, position:[ 7, 7 ]}, 
+	  {name:s2, position:[ 2, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 33,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s41, position:[ 3, 4 ]}, 
+	  {name:s7, position:[ 1, 3 ]}, 
+	  {name:s1, position:[ 8, 2 ]}, 
+	  {name:s11, position:[ 8, 6 ]}, 
+	  {name:s13, position:[ 4, 6 ]}, 
+	  {name:s5, position:[ 1, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 34,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s15,
+          position: [ 6, 4 ]
+        },
+        {
+          name: s5,
+          position: [ 5, 1 ]
+        },
+        {
+          name: s22,
+          position: [ 2, 4 ]
+        },
+        {
+          name: s5,
+          position: [ 4, 0 ]
+        },
+        {
+          name: s6,
+          position: [ 2, 7 ]
+        },
+        {
+          name: s39,
+          position: [ 4, 8 ]
+        },
+        {
+          name: s3,
+          position: [ 0, 2 ]
+        },
+        {
+          name: s1,
+          position: [ 3, 0 ]
+        },
+        {
+          name: s1,
+          position: [ 8, 3 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 34,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s38, position:[ 7, 6 ]}, 
+	  {name:s3, position:[ 1, 5 ]}, 
+	  {name:s9, position:[ 1, 3 ]}, 
+	  {name:s15, position:[ 4, 1 ]}, 
+	  {name:s16, position:[ 1, 8 ]}, 
+	  {name:s6, position:[ 3, 4 ]}, 
+	  {name:s33, position:[ 4, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 35,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s42, position:[ 2, 3 ]}, 
+	  {name:s45, position:[ 7, 7 ]}, 
+	  {name:s9, position:[ 3, 6 ]}, 
+	  {name:s8, position:[ 1, 7 ]}, 
+	  {name:s2, position:[ 5, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 35,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s1, position:[ 4, 6 ]}, 
+	  {name:s19, position:[ 6, 7 ]}, 
+	  {name:s7, position:[ 8, 3 ]}, 
+	  {name:s39, position:[ 1, 8 ]}, 
+	  {name:s16, position:[ 4, 3 ]}, 
+	  {name:s9, position:[ 1, 4 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 36,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s18, position:[ 6, 2 ]}, 
+	  {name:s15, position:[ 3, 4 ]}, 
+	  {name:s20, position:[ 1, 7 ]}, 
+	  {name:s7, position:[ 1, 3 ]}, 
+	  {name:s1, position:[ 3, 2 ]}, 
+	  {name:s45, position:[ 7, 8 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 36,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s47, position:[ 1, 5 ]}, 
+	  {name:s13, position:[ 1, 2 ]}, 
+	  {name:s42, position:[ 5, 3 ]}, 
+	  {name:s3, position:[ 7, 6 ]}, 
+	  {name:s5, position:[ 2, 7 ]}
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 37,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s31, position:[ 6, 7 ]}, 
+	  {name:s2, position:[ 1, 4 ]}, 
+	  {name:s20, position:[ 4, 3 ]}, 
+	  {name:s8, position:[ 1, 2 ]}, 
+	  {name:s4, position:[ 3, 6 ]}, 
+	  {name:s1, position:[ 1, 6 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 37,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s48,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s4,
+          position: [ 0, 6 ]
+        },
+        {
+          name: s9,
+          position: [ 6, 8 ]
+        },
+        {
+          name: s6,
+          position: [ 4, 4 ]
+        },
+        {
+          name: s6,
+          position: [ 0, 2 ]
+        },
+        {
+          name: s2,
+          position: [ 2, 1 ]
+        },
+        {
+          name: s11,
+          position: [ 3, 7 ]
+        },
+        {
+          name: s3,
+          position: [ 7, 4 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 38,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s44, position:[ 3, 6 ]}, 
+	  {name:s17, position:[ 1, 8 ]}, 
+	  {name:s10, position:[ 5, 3 ]}, 
+	  {name:s5, position:[ 7, 1 ]}, 
+	  {name:s3, position:[ 2, 2 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 38,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s22, position:[ 1, 3 ]}, 
+	  {name:s14, position:[ 1, 7 ]}, 
+	  {name:s15, position:[ 5, 6 ]}, 
+	  {name:s3, position:[ 3, 4 ]}, 
+	  {name:s9, position:[ 6, 2 ]}, 
+	  {name:s1, position:[ 5, 4 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 39,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s33, position:[ 5, 8 ]}, 
+	  {name:s4, position:[ 1, 5 ]}, 
+	  {name:s16, position:[ 7, 4 ]}, 
+	  {name:s10, position:[ 4, 2 ]}, 
+	  {name:s7, position:[ 1, 3 ]}, 
+	  {name:s3, position:[ 2, 7 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 39,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces: [
+        {
+          name: s14,
+          position: [ 4, 2 ]
+        },
+        {
+          name: s16,
+          position: [ 5, 5 ]
+        },
+        {
+          name: s36,
+          position: [ 3, 4 ]
+        },
+        {
+          name: s16,
+          position: [ 1, 9 ]
+        },
+        {
+          name: s3,
+          position: [ 7, 4 ]
+        },
+        {
+          name: s1,
+          position: [ 2, 7 ]
+        }
+      ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 40,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s35, position:[ 1, 7 ]}, 
+	  {name:s14, position:[ 6, 2 ]}, 
+	  {name:s2, position:[ 7, 8 ]}, 
+	  {name:s11, position:[ 6, 6 ]}, 
+	  {name:s13, position:[ 2, 2 ]} 
+	  ]
+    }
+  },
+
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 3,
+    blueprint: {
+      size: {
+        'x': 8,
+        'y': 8
+      },
+      pieces: [
+        {
+          name: 40,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: {
+      size: {
+        'x': 10,
+        'y': 10
+      },
+      pieces:[ 
+	  {name:s9, position:[ 7, 2 ]}, 
+	  {name:s6, position:[ 7, 8 ]}, 
+	  {name:s44, position:[ 5, 5 ]}, 
+	  {name:s9, position:[ 1, 7 ]}, 
+	  {name:s4, position:[ 2, 2 ]}, 
+	  {name:s1, position:[ 4, 6 ]} 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 4,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s8,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+			name:s8, position:[ 4, 5 ]
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 4,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s4,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+			name:s4, position:[ 4, 5 ]
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 4,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s13,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+			name:s4, position:[ 4, 5 ]
+		}, 
+		{
+			name:s2, position:[ 3, 7]
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 5,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s20,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s18, position:[ 2, 6 ], 
+		},
+		{
+		name:s1, position:[ 7, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 5,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s31,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s15, position:[ 2, 7 ], 
+		},
+		{
+		name:s16, position:[ 6, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 5,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s38,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s37, position:[ 6, 7 ], 
+		},
+		{
+		name:s4, position:[ 1, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 5,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s33,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s5, position:[ 2, 6 ], 
+		},
+		{
+		name:s16, position:[ 4, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 5,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s40,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s58, position:[ 2, 5 ], 
+		},
+		{
+		name:s6, position:[ 7, 7 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 6,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s43,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s3, position:[ 4, 5 ], 
+		},
+		{
+		name:s47, position:[ 1, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 6,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s41,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s22, position:[ 4, 6 ], 
+		},
+		{
+		name:s8, position:[ 1, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 6,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s42,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s5, position:[ 2, 6 ], 
+		},
+		{
+		name:s47, position:[ 1, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 6,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s44,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s7, position:[ 5, 6 ], 
+		},
+		{
+		name:s14, position:[ 1, 5 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 6,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s34,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s13, position:[ 2, 6 ], 
+		},
+		{
+		name:s58, position:[ 3, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 7,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 5,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s70, position:[ 2, 7 ], 
+		},
+		{
+		name:s50, position:[ 2, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 7,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s12,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s58, position:[ 2, 6 ], 
+		},
+		{
+		name:s7, position:[ 5, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 7,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 5,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s22, position:[ 3, 7 ], 
+		},
+		{
+		name:s2, position:[5, 7],
+		},
+		{
+		name:s17, position:[ 2, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 7,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s38,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s18, position:[ 1, 4 ], 
+		},
+		{
+		name:s80, position:[ 5, 5 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 7,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s32,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s2, position:[ 1, 6 ], 
+		},
+		{
+		name:s3, position:[ 3, 2 ], 
+		},
+		{
+		name:s12, position:[ 4, 6 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 8,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 4,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s1, position:[ 2, 6 ], 
+		},
+		{
+		name:s39, position:[4, 7],
+		},
+		{
+		name:s47, position:[ 2, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 8,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 2,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s16, position:[ 2, 7 ], 
+		},
+		{
+		name:s4, position:[5, 5],
+		},
+		{
+		name:s44, position:[ 2, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 8,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 1,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s13, position:[ 1, 7 ], 
+		},
+		{
+		name:s15, position:[3, 5],
+		},
+		{
+		name:s16, position:[ 2, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 8,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s28,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s58, position:[ 4, 6 ], 
+		},
+		{
+		name:s80, position:[2, 4],
+		},
+		{
+		name:s2, position:[ 5, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 8,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 5,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s58, position:[ 1, 7 ], 
+		},
+		{
+		name:s21, position:[2, 4],
+		},
+		{
+		name:s80, position:[ 6, 7 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 9,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 6,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s1, position:[ 1, 5 ], 
+		},
+		{
+		name:s16, position:[4, 7],
+		},
+		{
+		name:s32, position:[ 2, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 9,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s41,
+          position: [ 3, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s3, position:[ 1, 6 ], 
+		},
+		{
+		name:s58, position:[4, 7],
+		},
+		{
+		name:s10, position:[ 2, 3 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 9,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 33,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s18, position:[ 1, 7 ], 
+		},
+		{
+		name:s79, position:[6, 7],
+		},
+		{
+		name:5, position:[ 3, 4 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 9,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 22,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s21, position:[ 1, 7 ], 
+		},
+		{
+		name:s51, position:[4, 5],
+		},
+		{
+		name:s56, position:[ 2, 2 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 9,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: s30,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s80, position:[ 1, 6 ], 
+		},
+		{
+		name:s50, position:[3, 4],
+		},
+		{
+		name:s58, position:[ 4, 7 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 10,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 10,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s37, position:[ 2, 8 ], 
+		},
+		{
+		name:s15, position:[1, 3],
+		},
+		{
+		name:s69, position:[ 6, 5 ] 
+		}, 
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 10,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 38,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s13, position:[ 1, 7 ], 
+		},
+		{
+		name:s18, position:[4, 6],
+		},
+		{
+		name:s44, position:[ 1, 4 ] 
+		},
+		{
+		name:s15, position:[ 2, 2 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 10,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 9,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s16, position:[ 1, 7 ], 
+		},
+		{
+		name:s17, position:[1, 4],
+		},
+		{
+		name:s62, position:[ 4, 7 ] 
+		},
+		{
+		name:s6, position:[ 5, 3 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 10,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 15,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s16, position:[ 1, 7 ], 
+		},
+		{
+		name:s1, position:[2, 4],
+		},
+		{
+		name:s24, position:[ 4, 4 ] 
+		},
+		{
+		name:s18, position:[ 4, 7 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 10,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 30,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s15, position:[ 1, 7 ], 
+		},
+		{
+		name:s76, position:[0, 5],
+		},
+		{
+		name:s37, position:[ 4, 5 ] 
+		},
+		{
+		name:s6, position:[ 2, 2 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 11,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 31,
+          position: [ 3, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s13, position:[ 1, 7 ], 
+		},
+		{
+		name:s39, position:[1, 5],
+		},
+		{
+		name:s8, position:[ 5, 6 ] 
+		},
+		{
+		name:s16, position:[ 4, 3 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 11,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 7,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s64, position:[ 1, 7 ], 
+		},
+		{
+		name:s16, position:[5, 7],
+		},
+		{
+		name:s1, position:[ 1, 4 ] 
+		},
+		{
+		name:s2, position:[4,5]
+		}
+		{
+		name:s42, position:[ 3, 3 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 11,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s59, position:[ 2, 7 ], 
+		},
+		{
+		name:s45, position:[6, 7],
+		},
+		{
+		name:s25, position:[ 1, 4 ] 
+		},
+		{
+		name:s3, position:[ 7, 2 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 11,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 18,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s17, position:[ 1, 6 ], 
+		},
+		{
+		name:s6, position:[5, 7],
+		},
+		{
+		name:s16, position:[ 1, 3 ] 
+		},
+		{
+		name:s26, position:[ 4, 5 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 11,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 35,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s24, position:[ 1, 7 ], 
+		},
+		{
+		name:s5, position:[4, 7],
+		},
+		{
+		name:s44, position:[ 1, 3 ] 
+		},
+		{
+		name:s16, position:[ 5, 5 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 12,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 29,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s64, position:[ 1, 7 ], 
+		},
+		{
+		name:s63, position:[4, 7],
+		},
+		{
+		name:s45, position:[ 3, 5 ] 
+		},
+		{
+		name:s5, position:[ 4, 2 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 12,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 33,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s10, position:[ 1, 7 ], 
+		},
+		{
+		name:s16, position:[5, 8],
+		},
+		{
+		name:s34, position:[ 4, 6 ] 
+		},
+		{
+		name:s18, position:[ 1, 3 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 12,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 40,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s36, position:[ 1, 8 ], 
+		},
+		{
+		name:s14, position:[4, 6],
+		},
+		{
+		name:s6, position:[ 1, 4 ] 
+		},
+		{
+		name:s60, position:[ 3, 5 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 12,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 13,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s69, position:[ 2, 7 ], 
+		},
+		{
+		name:s64, position:[1, 3],
+		},
+		{
+		name:s12, position:[ 5, 4 ] 
+		},
+		{
+		name:s56, position:[ 4, 7 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 12,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 25,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s56, position:[ 1, 7 ], 
+		},
+		{
+		name:s6, position:[6, 8],
+		},
+		{
+		name:s50, position:[ 1, 4 ] 
+		},
+		{
+		name:s65, position:[ 6, 5 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 13,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 28,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s19, position:[ 0, 5 ], 
+		},
+		{
+		name:s40, position:[3, 7],
+		},
+		{
+		name:s64, position:[ 5, 7 ] 
+		},
+		{
+		name:s15, position:[ 2, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 13,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 12,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s55, position:[ 1, 7 ], 
+		},
+		{
+		name:s37, position:[4, 7],
+		},
+		{
+		name:s61, position:[ 1, 3 ] 
+		},
+		{
+		name:s66, position:[ 5, 3 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 13,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 21,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s52, position:[ 0, 5 ], 
+		},
+		{
+		name:s80, position:[3, 8],
+		},
+		{
+		name:s53, position:[ 5, 7 ] 
+		},
+		{
+		name:s48, position:[ 2, 3 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 13,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 17,
+          position: [ 3, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s69, position:[ 1, 7 ], 
+		},
+		{
+		name:s70, position:[3, 7],
+		},
+		{
+		name:s36, position:[ 4, 4 ] 
+		},
+		{
+		name:s4, position:[ 1, 2 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 13,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 39,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s57, position:[ 1, 8 ], 
+		},
+		{
+		name:s62, position:[0, 4],
+		},
+		{
+		name:s68, position:[ 5, 8 ] 
+		},
+		{
+		name:s21, position:[ 4, 4 ] 
+		},		
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 14,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 14,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s2, position:[ 0, 6 ], 
+		},
+		{
+		name:s5, position:[2, 7],
+		},
+		{
+		name:s56, position:[ 2, 5 ] 
+		},
+		{
+		name:s79, position:[ 0, 3 ] 
+		},
+		{
+		name:s47, position:[ 3, 3 ] 
+		},
+		{
+		name:s40, position:[ 5, 6 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 14,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 34,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s34, position:[ 1, 7 ], 
+		},
+		{
+		name:s55, position:[5, 8],
+		},
+		{
+		name:s79, position:[ 4, 5 ] 
+		},
+		{
+		name:s36, position:[ 0, 3 ] 
+		},
+		{
+		name:s14, position:[ 4, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 14,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 37,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s80, position:[ 3, 7 ], 
+		},
+		{
+		name:s55, position:[0, 7],
+		},
+		{
+		name:s65, position:[ 5, 7 ] 
+		},
+		{
+		name:s18, position:[ 1, 3 ] 
+		},
+		{
+		name:s71, position:[ 5, 3 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 14,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 26,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s74, position:[ 3, 7 ], 
+		},
+		{
+		name:s58, position:[1, 7],
+		},
+		{
+		name:s80, position:[ 3, 5 ] 
+		},
+		{
+		name:s64, position:[ 0, 4 ] 
+		},
+		{
+		name:s76, position:[ 4, 3 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 14,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 36,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s7, position:[ 1, 7 ], 
+		},
+		{
+		name:s79, position:[6, 7],
+		},
+		{
+		name:s63, position:[ 2, 5 ] 
+		},
+		{
+		name:s39, position:[ 1, 3 ] 
+		},
+		{
+		name:s73, position:[ 4, 3 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 15,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 11,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s73, position:[ 1, 7 ], 
+		},
+		{
+		name:s53, position:[5, 8],
+		},
+		{
+		name:s12, position:[ 1, 4 ] 
+		},
+		{
+		name:s14, position:[ 4, 4 ] 
+		},
+		{
+		name:s8, position:[ 4, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 15,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 7,
+          position: [ 2, 5]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s5, position:[ 1, 7 ], 
+		},
+		{
+		name:s74, position:[4, 7],
+		},
+		{
+		name:s13, position:[ 1, 5 ] 
+		},
+		{
+		name:s79, position:[ 1, 3 ] 
+		},
+		{
+		name:s63, position:[ 4, 4 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 15,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 21,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s64, position:[ 2, 7 ], 
+		},
+		{
+		name:s16, position:[1, 5],
+		},
+		{
+		name:s55, position:[ 5, 7 ] 
+		},
+		{
+		name:s75, position:[ 3, 3 ] 
+		},
+		{
+		name:s5, position:[ 1, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 15,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 38,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s55, position:[ 1, 8 ], 
+		},
+		{
+		name:s13, position:[1, 4],
+		},
+		{
+		name:s8, position:[ 5, 7 ] 
+		},
+		{
+		name:s56, position:[ 5, 4 ] 
+		},
+		{
+		name:s15, position:[ 1, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 15,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 33,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s14, position:[ 1, 7 ], 
+		},
+		{
+		name:s15, position:[4, 5],
+		},
+		{
+		name:s79, position:[ 1, 4 ] 
+		},
+		{
+		name:s36, position:[ 5, 3 ] 
+		},
+		{
+		name:s13, position:[ 1, 1 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 16,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 27,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s71, position:[ 1, 7 ], 
+		},
+		{
+		name:s53, position:[2, 4],
+		},
+		{
+		name:s58, position:[ 4, 5 ] 
+		},
+		{
+		name:s80, position:[ 6, 7 ] 
+		},
+		{
+		name:s64, position:[ 5, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 16,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 12,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s72, position:[ 2, 7 ], 
+		},
+		{
+		name:s16, position:[5, 7],
+		},
+		{
+		name:s52, position:[ 1, 4 ] 
+		},
+		{
+		name:s21, position:[ 5, 4 ] 
+		},
+		{
+		name:s6, position:[ 2, 2 ] 
+		},
+		{
+		name:s1, position:[ 6, 2 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 16,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 19,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s2, position:[ 1, 7 ], 
+		},
+		{
+		name:s81, position:[2, 7],
+		},
+		{
+		name:s79, position:[4,7]
+		},
+		{
+		name:s2, position:[ 7, 7 ] 
+		},
+		{
+		name:s10, position:[ 1, 3 ] 
+		},
+		{
+		name:s53, position:[ 5, 4 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 16,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 16,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s13, position:[ 1, 7 ], 
+		},
+		{
+		name:s16, position:[4, 6],
+		},
+		{
+		name:s80, position:[ 7, 7 ] 
+		},
+		{
+		name:s69, position:[ 1, 5 ] 
+		},
+		{
+		name:s58, position:[ 3, 2 ] 
+		},
+		{
+		name:s53, position:[ 6, 4 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 16,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 3,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s55, position:[ 1, 7 ], 
+		},
+		{
+		name:s2, position:[1, 4],
+		},
+		{
+		name:s13, position:[ 1, 2 ] 
+		},
+		{
+		name:s58, position:[ 5, 3 ] 
+		},
+		{
+		name:s80, position:[ 4, 6 ] 
+		},
+		{
+		name:s79, position:[ 6, 6 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 17,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 39,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s18, position:[ 1, 7 ], 
+		},
+		{
+		name:s71, position:[5, 7],
+		},
+		{
+		name:s16, position:[ 1, 4 ] 
+		},
+		{
+		name:s1, position:[ 2, 1 ] 
+		},
+		{
+		name:s4, position:[ 3, 2 ] 
+		},
+		{
+		name:s79, position:[ 5, 4 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 17,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 23,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s16, position:[ 1, 7 ], 
+		},
+		{
+		name:s76, position:[4, 7],
+		},
+		{
+		name:s58, position:[ 3, 4 ] 
+		},
+		{
+		name:s2, position:[ 1, 3 ] 
+		},
+		{
+		name:s80, position:[ 6, 4 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 17,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 34,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s13, position:[2,1]},
+		{name:s16, position:[3,4]},
+		{name:s53, position:[4,8]},
+		{name:s69, position:[6,5]},
+		{name:s72, position:[1,7]},
+		{name:s80, position:[1,4]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 17,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 15,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s71, position:[ 4, 5 ], 
+		},
+		{
+		name:s53, position:[2, 4],
+		},
+		{
+		name:s80, position:[ 1, 7 ] 
+		},
+		{
+		name:s8, position:[ 3, 7 ] 
+		},
+		{
+		name:s64, position:[ 5, 6 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 17,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{
+		name:s71, position:[ 1, 7 ], 
+		},
+		{
+		name:s13, position:[4, 6],
+		},
+		{
+		name:s5, position:[ 3, 4 ] 
+		},
+		{
+		name:s56, position:[ 1, 3 ] 
+		},
+		{
+		name:s54, position:[ 5, 3 ] 
+		},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 18,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 36,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s2, position:[6,8]},
+		{name:s16, position:[1,7]},
+		{name:s63, position:[4,3]},
+		{name:s73, position:[5,6]},
+		{name:s81, position:[1,4]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 18,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 25,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s1, position:[7,4]},
+		{name:s13, position:[2,7]},
+		{name:s17, position:[2,5]},
+		{name:s56, position:[4,3]},
+		{name:s62, position:[5,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 18,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 7,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s7, position:[6,5]},
+		{name:s56, position:[1,4]},
+		{name:s62, position:[4,3]},
+		{name:s64, position:[1,7]},
+		{name:s80, position:[4,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 18,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 18,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s1, position:[6,7]},
+		{name:s6, position:[4,7]},
+		{name:s53, position:[1,7]},
+		{name:s54, position:[4,5]},
+		{name:s58, position:[1,3]},
+		{name:s79, position:[5,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 18,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 3,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s7, position:[3,4]},
+		{name:s52, position:[1,6]},
+		{name:s56, position:[0,3]},
+		{name:s58, position:[5,3]},
+		{name:s72, position:[5,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 19,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 22,
+          position: [ 2, 4 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s52, position:[1,3]},
+		{name:s56, position:[4,5]},
+		{name:s77, position:[2,7]},
+		{name:s80, position:[7,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 19,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 14,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s5, position:[7,5]},
+		{name:s18, position:[5,3]},
+		{name:s39, position:[2,4]},
+		{name:s63, position:[1,6]},
+		{name:s78, position:[4,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 19,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 32,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s2, position:[4,4]},
+		{name:s5, position:[4,2]},
+		{name:s7, position:[6,5]},
+		{name:s8, position:[1,3]},
+		{name:s13, position:[4,7]},
+		{name:s56, position:[1,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 19,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 9,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s3, position:[5,7]},
+		{name:s4, position:[2,7]},
+		{name:s7, position:[1,5]},
+		{name:s8, position:[5,3]},
+		{name:s10, position:[3,5]},
+		{name:s13, position:[1,2]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 19,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 8,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s2, position:[7,8]},
+		{name:s4, position:[6,3]},
+		{name:s6, position:[1,6]},
+		{name:s13, position:[2,3]},
+		{name:s56, position:[4,7]},
+		{name:s58, position:[2,2]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 20,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s4, position:[4,5]},
+		{name:s63, position:[3,7]},
+		{name:s69, position:[2,5]},
+		{name:s77, position:[4,3]},
+		{name:s79, position:[6,5]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 20,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 35,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s3, position:[2,7]},
+		{name:s6, position:[4,7]},
+		{name:s52, position:[1,5]},
+		{name:s64, position:[6,7]},
+		{name:s70, position:[5,5]},
+		{name:s76, position:[1,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 20,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 12,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s4, position:[2,4]},
+		{name:s6, position:[4,6]},
+		{name:s13, position:[2,2]},
+		{name:s29, position:[6,6]},
+		{name:s80, position:[0,4]},
+		{name:s82, position:[1,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 20,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 34,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s15, position:[0,7]},
+		{name:s53, position:[2,4]},
+		{name:s55, position:[5,7]},
+		{name:s58, position:[4,5]},
+		{name:s69, position:[0,5]},
+		{name:s79, position:[5,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 20,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 11,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s1, position:[1,7]},
+		{name:s8, position:[0,3]},
+		{name:s12, position:[4,4]},
+		{name:s16, position:[5,7]},
+		{name:s57, position:[1,6]},
+		{name:s79, position:[1,2]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 21,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 37,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s6, position:[6,3]},
+		{name:s8, position:[5,6]},
+		{name:s10, position:[2,7]},
+		{name:s16, position:[3,4]},
+		{name:s39, position:[7,5]},
+		{name:s69, position:[1,6]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 21,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 40,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s2, position:[4,4]},
+		{name:s4, position:[6,7]},
+		{name:s7, position:[1,7]},
+		{name:s14, position:[5,5]},
+		{name:s56, position:[2,7]},
+		{name:s71, position:[2,4]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 21,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 16,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s7, position:[3,2]},
+		{name:s8, position:[4,5]},
+		{name:s13, position:[4,7]},
+		{name:s16, position:[1,4]},
+		{name:s68, position:[5,4]},
+		{name:s74, position:[1,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 21,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 35,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s5, position:[1,7]},
+		{name:s6, position:[4,2]},
+		{name:s14, position:[1,5]},
+		{name:s16, position:[1,3]},
+		{name:s39, position:[5,4]},
+		{name:s58, position:[4,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 21,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 36,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s1, position:[6,7]},
+		{name:s6, position:[5,6]},
+		{name:s10, position:[2,7]},
+		{name:s63, position:[0,5]},
+		{name:s63, position:[4,3]},
+		{name:s79, position:[1,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 22,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 15,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s1, position:[5,2]},
+		{name:s16, position:[2,7]},
+		{name:s72, position:[6,5]},
+		{name:s74, position:[2,4]},
+		{name:s77, position:[5,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 22,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 18,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s2, position:[5,7]},
+		{name:s6, position:[7,7]},
+		{name:s10, position:[4,5]},
+		{name:s8, position:[2,3]},
+		{name:s64, position:[2,7]},
+		{name:s76, position:[5,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 22,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 33,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s4, position:[6,7]},
+		{name:s9, position:[1,5]},
+		{name:s12, position:[4,6]},
+		{name:s13, position:[4,2]},
+		{name:s64, position:[2,7]},
+		{name:s79, position:[1,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 22,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 21,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s3, position:[3,2]},
+		{name:s7, position:[3,6]},
+		{name:s8, position:[1,3]},
+		{name:s55, position:[5,4]},
+		{name:s70, position:[5,7]},
+		{name:s80, position:[1,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 22,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 39,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s4, position:[0,3]},
+		{name:s6, position:[1,6]},
+		{name:s13, position:[2,8]},
+		{name:s16, position:[6,7]},
+		{name:s71, position:[5,4]},
+		{name:s81, position:[2,4]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 23,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 25,
+          position: [ 2, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s4, position:[4,2]},
+		{name:s7, position:[2,3]},
+		{name:s8, position:[3,5]},
+		{name:s63, position:[2,7]},
+		{name:s79, position:[6,7]},
+		{name:s80, position:[7,4]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 23,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 7,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s5, position:[6,8]},
+		{name:s7, position:[5,7]},
+		{name:s56, position:[1,7]},
+		{name:s67, position:[4,4]},
+		{name:s79, position:[1,3]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 23,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 14,
+          position: [ 1, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s1, position:[4,5]},
+		{name:s13, position:[5,2]},
+		{name:s14, position:[1,3]},
+		{name:s53, position:[6,6]},
+		{name:s64, position:[7,7]},
+		{name:s82, position:[1,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 23,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 34,
+          position: [ 1, 5 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s2, position:[8,5]},
+		{name:s3, position:[7,1]},
+		{name:s12, position:[3,4]},
+		{name:s15, position:[5,7]},
+		{name:s39, position:[0,4]},
+		{name:s64, position:[5,5]},
+		{name:s71, position:[2,7]},
+	  ]
+    }
+  },
+  
+  {
+    fish: 1,
+    timer: 45,
+    difficulty: 23,
+    blueprint: 
+	{
+      size: 
+	  {
+        'x': 8,
+        'y': 8
+      },
+      pieces: 
+	  [
+        {
+          name: 20,
+          position: [ 2, 6 ]
+        }
+      ]
+    },
+    inventory: 
+	{
+      size: 
+	  {
+        'x': 10,
+        'y': 10
+      },
+      pieces:
+	  [ 
+		{name:s74, position:[1,7]},
+		{name:s1, position:[1,5]},
+		{name:s7, position:[6,7]},
+		{name:s8, position:[1,3]},
+		{name:s80, position:[6,4]},
+		{name:s52, position:[3,5]},
+	  ]
+    }
+  },
+]

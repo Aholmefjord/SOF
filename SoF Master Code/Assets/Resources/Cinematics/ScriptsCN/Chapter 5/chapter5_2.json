@@ -1,0 +1,106 @@
+{
+"Dialogue":[
+				{//0
+					"text":"你们三个还真不赖，\n 毕竟不是所有人都能把我们一一区分得开！\n 看来你们很专心的在做这个测试！",
+					"audio":"ICB_1_Aintthatbad",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//1
+					"text":"告诉你们吧, 我们很喜欢你们三个人。\n 我们会帮助你们的！",
+					"audio":"ICB_2_welikehityouup",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//2
+					"text":"我们认为这个应该是你们的！",
+					"audio":"ICB_3_believethisyours",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//3
+					"text":"*高兴*",
+					"audio":"SFX_buddy_happy_02",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//4
+					"text":"是蛋！能问一下你们是在哪里找到的吗？",
+					"audio":"Sally_1_eggwhere_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"我们是在一个大船里找到的它们！",
+					"audio":"ICB_4_foundbigboat",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//6
+					"text":"一个大船？！",
+					"audio":"Sally_2_abigboat_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"是的，一个很大的船。\n 它沉入了礁石另一面的深海之中",
+					"audio":"ICB_5_yesbigboatdeepocean",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//8
+					"text":"那一定就是巨船！我们终于找到了正轨！",
+					"audio":"Sally_2_thatgoliath_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//9
+					"text":"先等等。你们不会是要去那里吧？那里非常危险！",
+					"audio":"ICB_7_notgoingthere",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//10
+					"text":"我们一定要去, 我们要取回剩下的蛋",
+					"audio":"Sally_3_needtheeggs_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//11
+					"text":"嗯..... 既然你们一定要坚持那就去吧",
+					"audio":"ICB_8_ifyouinsist",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//12
+					"text":"*惊讶*",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//13
+					"text":"这是什么？",
+					"audio":"Sally_4_whatisit_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//14
+					"text":"你不会想知道的... \n 只要与悬崖边缘保持距离就好，否则你会后悔的！",
+					"audio":"ICB_10_juststayaway",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//15
+					"text":"我们记住这一点的，谢谢你啦",
+					"audio":"Sally_5_keepinmind_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//16
+					"text":"*挥手告别*",
+					"audio":"SFX_buddy_garble",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+			],
+}

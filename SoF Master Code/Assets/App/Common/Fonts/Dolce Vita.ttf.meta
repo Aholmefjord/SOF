@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e59a77faa5b8b524cb3a74e86e518a08
+timeCreated: 1476844641
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dolce Vita
+  fontNames:
+  - Dolce Vita
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

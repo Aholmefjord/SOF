@@ -1,0 +1,672 @@
+[
+	{
+	"difficulty":"easy",
+
+	"formation":0,
+
+	"pattern":[[1,1],[1,9],[1,1],[1,1],[1,9],[1,1]],
+
+	"solution":[[1,9],[1,7],[1,3],[1,1]],
+
+	"comment" : "pattern 0"
+	},
+
+	{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,1],[1,9],[1,1],[1,1],[1,9],[1,1]],
+	"solution":[[1,9],[1,7],[1,3],[1,1]],
+
+	"comment" : "pattern 1"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,7],[2,8],[2,7],[2,8],[2,7],[2,8]],
+	"solution":[[2,7],[2,8],[2,3],[2,4]],
+
+	"comment" : "pattern 2"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,4],[3,1],[3,2],[3,4],[3,1],[3,2]],
+	"solution":[[3,5],[3,6],[3,2],[3,1]],
+
+	"comment" : "pattern 3"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,7],[4,1],[4,3],[4,3],[4,1],[4,7]],
+	"solution":[[4,7],[4,1],[4,3],[4,9]],
+
+	"comment" : "pattern 4"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,9],[1,1],[1,5],[1,9],[1,1],[1,5]],
+	"solution":[[1,3],[1,5],[1,9],[1,1]],
+
+	"comment" : "pattern 5"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,2],[2,5],[2,4],[2,2],[2,5],[2,4]],
+	"solution":[[2,5],[2,2],[2,4],[2,7]],
+
+	"comment" : "pattern 6"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,6],[3,5],[3,8],[3,6],[3,5],[3,8]],
+	"solution":[[3,8],[3,6],[3,3],[3,5]],
+
+	"comment" : "pattern 7"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,5],[4,9],[4,5],[4,5],[4,9],[4,5]],
+	"solution":[[4,1],[4,5],[4,9],[4,6]],
+
+	"comment" : "pattern 8"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,7],[1,8],[1,9],[1,7],[1,8],[1,9]],
+	"solution":[[1,1],[1,8],[1,7],[1,9]],
+
+	"comment" : "pattern 9"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,3],[2,6],[2,3],[2,3],[2,6],[2,3]],
+	"solution":[[2,6],[2,4],[2,3],[2,7]],
+
+	"comment" : "pattern 10"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,5],[3,9],[3,5],[3,1],[3,5],[3,1]],
+	"solution":[[3,1],[3,7],[3,9],[3,3]],
+
+	"comment" : "pattern 11"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,5],[4,5],[4,4],[4,2],[4,5],[4,5]],
+	"solution":[[4,5],[4,2],[4,6],[4,4]],
+
+	"comment" : "pattern 12"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,3],[1,1],[1,7],[1,7],[1,9],[1,3]],
+	"solution":[[1,1],[1,3],[1,9],[1,7]],
+
+	"comment" : "pattern 13"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,5],[2,4],[2,2],[2,4],[2,2],[2,5]],
+	"solution":[[2,1],[2,4],[2,2],[2,5]],
+
+	"comment" : "pattern 14"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,3],[3,7],[3,3],[3,7],[3,3],[3,7]],
+	"solution":[[3,3],[3,7],[3,9],[3,1]],
+
+	"comment" : "pattern 15"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,1],[4,2],[4,3],[4,1],[4,2],[4,3]],
+	"solution":[[4,9],[4,4],[4,3],[4,8]],
+
+	"comment" : "pattern 16"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,1],[1,2],[1,3],[1,3],[1,2],[1,1]],
+	"solution":[[1,1],[1,3],[1,4],[1,7]],
+
+	"comment" : "pattern 17"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,4],[2,2],[2,4],[2,4],[2,2],[2,4]],
+	"solution":[[2,8],[2,6],[2,4],[2,2]],
+
+	"comment" : "pattern 18"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,5],[3,4],[3,1],[3,5],[3,6],[3,9]],
+	"solution":[[3,4],[3,1],[3,6],[3,9]],
+
+	"comment" : "pattern 19"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,6],[4,9],[4,8],[4,6],[4,9],[4,8]],
+	"solution":[[4,1],[4,8],[4,6],[4,6]],
+
+	"comment" : "pattern 20"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,8],[1,8],[1,3],[1,3],[1,8],[1,8]],
+	"solution":[[1,6],[1,7],[1,3],[1,8]],
+
+	"comment" : "pattern 21"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,3],[2,9],[2,4],[2,4],[2,3],[2,9]],
+	"solution":[[2,9],[2,4],[2,3],[2,7]],
+
+	"comment" : "pattern 22"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,5],[3,9],[3,7],[3,9],[3,7],[3,5]],
+	"solution":[[3,1],[3,7],[3,5],[3,9]],
+
+	"comment" : "pattern 23"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,7],[4,9],[4,5],[4,3],[4,1],[4,5]],
+	"solution":[[4,3],[4,5],[4,7],[4,1]],
+
+	"comment" : "pattern 24"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,6],[1,9],[1,2],[1,4],[1,1],[1,8]],
+	"solution":[[1,2],[1,1],[1,4],[1,8]],
+
+	"comment" : "pattern 25"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,5],[2,6],[2,8],[2,4],[2,2],[2,5]],
+	"solution":[[2,6],[2,7],[2,5],[2,4]],
+
+	"comment" : "pattern 26"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[3,5],[3,9],[3,5],[3,7],[3,5],[3,3]],
+	"solution":[[3,3],[3,5],[3,7],[3,9]],
+
+	"comment" : "pattern 27"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[4,6],[4,9],[4,8],[4,9],[4,1],[4,9]],
+	"solution":[[4,6],[4,1],[4,9],[4,8]],
+
+	"comment" : "pattern 28"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[1,2],[1,8],[1,5],[1,5],[1,6],[1,4]],
+	"solution":[[1,6],[1,4],[1,5],[1,8]],
+
+	"comment" : "pattern 29"	},
+{	"difficulty":"easy",
+	"formation":0,
+	"pattern":[[2,1],[2,4],[2,7],[2,3],[2,2],[2,1]],
+	"solution":[[2,9],[2,4],[2,2],[2,1]],
+
+	"comment" : "pattern 30"	},{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,1],[1,5],[1,1],[1,5],[1,5],[1,1],[1,5],[1,1]],
+	"solution":[[1,5],[1,1],[1,9],[1,3]],
+
+	"comment" : "pattern 31"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,1],[2,5],[2,9],[2,9],[2,9],[2,9],[2,5],[2,1]],
+	"solution":[[2,5],[2,9],[2,1],[2,7]],
+
+	"comment" : "pattern 32"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,1],[3,2],[3,4],[3,1],[3,1],[3,2],[3,4],[3,1]],
+	"solution":[[3,2],[3,9],[3,4],[3,1]],
+
+	"comment" : "pattern 33"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,7],[4,1],[4,3],[4,1],[4,1],[4,7],[4,1],[4,3]],
+	"solution":[[4,3],[4,7],[4,1],[4,9]],
+
+	"comment" : "pattern 34"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,2],[1,6],[1,8],[1,4],[1,6],[1,8],[1,4],[1,2]],
+	"solution":[[1,6],[1,2],[1,4],[1,1]],
+
+	"comment" : "pattern 35"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,3],[2,4],[2,2],[2,7],[2,3],[2,6],[2,8],[2,7]],
+	"solution":[[2,8],[2,7],[2,3],[2,4]],
+
+	"comment" : "pattern 36"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,1],[3,2],[3,4],[3,1],[3,9],[3,8],[3,6],[3,9]],
+	"solution":[[3,1],[3,8],[3,9],[3,4]],
+
+	"comment" : "pattern 37"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,5],[4,4],[4,1],[4,2],[4,4],[4,1],[4,2],[4,5]],
+	"solution":[[4,6],[4,4],[4,2],[4,5]],
+
+	"comment" : "pattern 38"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,9],[1,9],[1,1],[1,2],[1,4],[1,1],[1,9],[1,9]],
+	"solution":[[1,9],[1,1],[1,7],[1,7]],
+
+	"comment" : "pattern 39"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,1],[2,4],[2,7],[2,9],[2,9],[2,6],[2,3],[2,1]],
+	"solution":[[2,1],[2,6],[2,9],[2,4]],
+
+	"comment" : "pattern 40"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,8],[3,4],[3,2],[3,4],[3,8],[3,6],[3,8],[3,4]],
+	"solution":[[3,2],[3,8],[3,6],[3,4]],
+
+	"comment" : "pattern 41"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,5],[4,1],[4,5],[4,9],[4,5],[4,9],[4,5],[4,1]],
+	"solution":[[4,9],[4,3],[4,1],[4,7]],
+
+	"comment" : "pattern 42"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,9],[1,1],[1,8],[1,7],[1,1],[1,9],[1,7],[1,8]],
+	"solution":[[1,4],[1,8],[1,2],[1,6]],
+
+	"comment" : "pattern 43"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,1],[2,5],[2,3],[2,7],[2,7],[2,1],[2,5],[2,3]],
+	"solution":[[2,6],[2,3],[2,2],[2,7]],
+
+	"comment" : "pattern 44"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,5],[3,1],[3,8],[3,6],[3,1],[3,8],[3,6],[3,5]],
+	"solution":[[3,8],[3,4],[3,5],[3,6]],
+
+	"comment" : "pattern 45"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,4],[4,6],[4,5],[4,6],[4,6],[4,4],[4,5],[4,4]],
+	"solution":[[4,8],[4,6],[4,2],[4,4]],
+
+	"comment" : "pattern 46"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,4],[1,6],[1,9],[1,7],[1,6],[1,4],[1,1],[1,3]],
+	"solution":[[1,3],[1,1],[1,6],[1,7]],
+
+	"comment" : "pattern 47"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,9],[2,4],[2,2],[2,1],[2,1],[2,6],[2,8],[2,9]],
+	"solution":[[2,7],[2,1],[2,9],[2,3]],
+
+	"comment" : "pattern 48"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,7],[3,4],[3,7],[3,8],[3,3],[3,6],[3,3],[3,2]],
+	"solution":[[3,3],[3,2],[3,7],[3,4]],
+
+	"comment" : "pattern 49"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,2],[4,9],[4,4],[4,7],[4,8],[4,1],[4,6],[4,3]],
+	"solution":[[4,3],[4,1],[4,7],[4,9]],
+
+	"comment" : "pattern 50"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,1],[2,6],[2,6],[1,1],[2,5],[1,7],[1,7],[2,5]],
+	"solution":[[2,8],[2,6],[2,5],[2,2]],
+
+	"comment" : "pattern 51"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,7],[4,9],[2,3],[4,2],[4,9],[2,7],[4,2],[2,3]],
+	"solution":[[2,3],[2,6],[2,2],[2,7]],
+
+	"comment" : "pattern 52"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,3],[3,1],[4,1],[3,7],[4,9],[3,4],[4,2],[3,9]],
+	"solution":[[3,7],[3,1],[3,9],[3,4]],
+
+	"comment" : "pattern 53"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,1],[2,1],[3,1],[4,1],[4,1],[1,1],[2,1],[3,1]],
+	"solution":[[3,1],[1,1],[2,1],[4,1]],
+
+	"comment" : "pattern 54"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,3],[3,1],[1,1],[3,7],[3,7],[1,9],[3,9],[1,3]],
+	"solution":[[3,3],[1,1],[1,3],[3,1]],
+
+	"comment" : "pattern 55"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,4],[1,5],[1,5],[3,4],[1,5],[3,4],[1,5],[3,4]],
+	"solution":[[1,4],[3,4],[1,5],[3,5]],
+
+	"comment" : "pattern 56"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,5],[2,6],[2,3],[2,7],[4,7],[4,5],[4,6],[4,3]],
+	"solution":[[4,3],[4,4],[4,7],[4,8]],
+
+	"comment" : "pattern 57"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,7],[4,5],[3,6],[4,3],[4,3],[3,5],[4,5],[3,7]],
+	"solution":[[3,6],[3,5],[3,7],[3,3]],
+
+	"comment" : "pattern 58"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,8],[3,9],[3,7],[1,9],[3,7],[1,9],[1,8],[3,9]],
+	"solution":[[3,8],[3,6],[3,4],[3,9]],
+
+	"comment" : "pattern 59"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,6],[3,7],[3,3],[2,8],[1,3],[2,8],[2,6],[1,7]],
+	"solution":[[1,3],[1,8],[1,7],[1,4]],
+
+	"comment" : "pattern 60"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,1],[2,1],[2,7],[2,5],[2,7],[2,5],[1,1],[2,1]],
+	"solution":[[1,3],[2,1],[2,7],[1,1]],
+
+	"comment" : "pattern 61"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,3],[3,7],[4,7],[4,3],[4,1],[3,1],[3,9],[4,9]],
+	"solution":[[3,3],[4,9],[3,7],[4,7]],
+
+	"comment" : "pattern 62"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[2,5],[2,5],[3,7],[3,7],[2,5],[4,3],[4,3],[2,5]],
+	"solution":[[4,3],[2,5],[3,7],[3,3]],
+
+	"comment" : "pattern 63"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,4],[4,4],[4,6],[4,6],[2,8],[2,2],[3,4],[3,6]],
+	"solution":[[2,2],[3,4],[3,6],[2,8]],
+
+	"comment" : "pattern 64"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,7],[3,2],[1,3],[3,8],[3,1],[1,4],[3,9],[1,6]],
+	"solution":[[1,1],[1,8],[3,1],[1,6]],
+
+	"comment" : "pattern 65"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,3],[2,1],[3,9],[2,3],[3,1],[3,4],[3,8],[3,9]],
+	"solution":[[3,9],[3,3],[3,7],[3,1]],
+
+	"comment" : "pattern 66"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[1,3],[1,6],[1,4],[1,5],[2,4],[2,5],[2,3],[2,6]],
+	"solution":[[2,7],[2,6],[2,2],[2,8]],
+
+	"comment" : "pattern 67"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[4,6],[4,8],[4,7],[4,3],[1,3],[1,6],[1,8],[1,7]],
+	"solution":[[1,7],[1,4],[1,3],[1,6]],
+
+	"comment" : "pattern 68"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,1],[2,2],[3,3],[3,2],[2,7],[2,4],[2,1],[2,4]],
+	"solution":[[2,2],[2,7],[2,4],[2,3]],
+
+	"comment" : "pattern 69"	},
+{	"difficulty":"intermediate",
+	"formation":1,
+	"pattern":[[3,1],[4,8],[4,4],[3,9],[3,9],[3,4],[3,8],[3,1]],
+	"solution":[[3,3],[3,1],[3,8],[3,4]],
+
+	"comment" : "pattern 70"	},{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,2],[3,2],[1,4],[4,4],[1,3],[4,7],[2,4],[3,2]],
+	"solution":[[3,4],[4,2],[3,2],[4,4]],
+
+	"comment" : "pattern 71"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,5],[2,5],[3,4],[4,2],[3,5],[1,4],[4,2],[2,5]],
+	"solution":[[2,4],[2,5],[2,2],[2,6]],
+
+	"comment" : "pattern 72"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,2],[4,4],[1,2],[1,4],[3,4],[2,2],[2,4],[3,2]],
+	"solution":[[3,2],[3,4],[3,6],[3,2]],
+
+	"comment" : "pattern 73"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,3],[1,3],[3,3],[2,6],[3,6],[2,6],[1,3],[4,6]],
+	"solution":[[4,6],[1,4],[4,3],[1,9]],
+
+	"comment" : "pattern 74"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,1],[3,1],[4,7],[1,4],[3,4],[4,7],[2,4],[1,7]],
+	"solution":[[1,3],[1,1],[1,7],[1,4]],
+
+	"comment" : "pattern 75"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[4,5],[1,5],[2,6],[3,9],[2,5],[1,6],[4,9],[1,9]],
+	"solution":[[2,9],[1,9],[4,9],[3,9]],
+
+	"comment" : "pattern 76"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,7],[3,1],[4,3],[1,7],[2,9],[3,9],[4,7],[1,3]],
+	"solution":[[1,6],[1,3],[1,4],[1,8]],
+
+	"comment" : "pattern 77"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,5],[3,6],[4,7],[1,2],[2,7],[1,2],[2,5],[4,6]],
+	"solution":[[4,2],[4,8],[4,4],[4,6]],
+
+	"comment" : "pattern 78"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[4,1],[3,4],[4,8],[2,4],[2,6],[4,6],[1,6],[4,1]],
+	"solution":[[4,1],[4,6],[4,8],[4,9]],
+
+	"comment" : "pattern 79"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,6],[4,9],[3,9],[1,6],[1,9],[2,9],[3,8],[4,6]],
+	"solution":[[2,6],[4,9],[4,6],[1,6]],
+
+	"comment" : "pattern 80"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,5],[4,6],[4,8],[1,5],[1,5],[3,5],[4,4],[4,2]],
+	"solution":[[4,2],[1,8],[4,4],[1,2]],
+
+	"comment" : "pattern 81"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,1],[1,5],[2,9],[4,5],[2,5],[4,9],[3,5],[1,1]],
+	"solution":[[2,9],[1,1],[1,9],[2,1]],
+
+	"comment" : "pattern 82"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,6],[3,7],[1,3],[4,8],[1,2],[4,3],[3,4],[2,3]],
+	"solution":[[2,4],[2,7],[2,6],[2,3]],
+
+	"comment" : "pattern 83"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,8],[1,6],[2,8],[4,5],[1,5],[3,4],[4,2],[1,4]],
+	"solution":[[2,6],[1,2],[2,4],[1,4]],
+
+	"comment" : "pattern 84"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[4,5],[4,7],[2,1],[3,2],[3,7],[4,1],[4,2],[2,5]],
+	"solution":[[2,5],[2,1],[2,7],[2,2]],
+
+	"comment" : "pattern 85"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,5],[2,4],[4,5],[3,4],[4,2],[3,5],[1,2],[2,5]],
+	"solution":[[2,2],[2,4],[2,5],[2,6]],
+
+	"comment" : "pattern 86"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,3],[2,1],[3,1],[3,3],[1,7],[1,9],[4,1],[4,7]],
+	"solution":[[4,7],[4,1],[4,3],[4,9]],
+
+	"comment" : "pattern 87"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,1],[3,1],[1,9],[2,9],[1,1],[4,1],[4,9],[3,9]],
+	"solution":[[3,1],[4,9],[1,1],[3,9]],
+
+	"comment" : "pattern 88"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,1],[4,2],[1,3],[2,2],[2,4],[1,7],[3,4],[4,1]],
+	"solution":[[2,8],[4,1],[1,3],[3,2]],
+
+	"comment" : "pattern 89"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,7],[4,6],[3,7],[1,6],[1,5],[2,2],[3,5],[4,2]],
+	"solution":[[4,2],[4,4],[2,4],[2,2]],
+
+	"comment" : "pattern 90"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,1],[4,2],[3,1],[1,2],[3,1],[1,4],[2,1],[4,4]],
+	"solution":[[4,8],[4,2],[4,4],[4,1]],
+
+	"comment" : "pattern 91"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,2],[3,6],[4,5],[3,5],[1,8],[2,4],[2,2],[3,4]],
+	"solution":[[3,4],[2,2],[1,4],[4,5]],
+
+	"comment" : "pattern 92"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,7],[4,1],[2,1],[2,3],[4,3],[2,4],[2,2],[3,1]],
+	"solution":[[2,1],[2,9],[3,7],[3,1]],
+
+	"comment" : "pattern 93"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,1],[1,9],[2,2],[4,2],[4,4],[3,1],[3,9],[2,4]],
+	"solution":[[2,4],[2,2],[4,4],[4,2]],
+
+	"comment" : "pattern 94"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[4,8],[1,8],[4,5],[3,2],[2,8],[4,8],[3,2],[1,5]],
+	"solution":[[1,8],[1,5],[2,8],[3,8]],
+
+	"comment" : "pattern 95"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,5],[4,4],[1,1],[2,2],[1,8],[4,5],[2,4],[4,1]],
+	"solution":[[4,1],[1,2],[1,1],[4,4]],
+
+	"comment" : "pattern 96"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,3],[2,7],[3,7],[4,3],[1,3],[1,3],[4,3],[2,7]],
+	"solution":[[1,3],[4,3],[2,7],[3,7]],
+
+	"comment" : "pattern 97"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,1],[3,8],[1,9],[1,8],[2,2],[2,3],[4,2],[4,7]],
+	"solution":[[4,2],[4,4],[4,6],[4,7]],
+
+	"comment" : "pattern 98"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,9],[1,9],[2,1],[3,9],[1,9],[2,1],[3,9],[1,9]],
+	"solution":[[1,9],[3,9],[2,1],[2,9]],
+
+	"comment" : "pattern 99"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,6],[3,4],[1,9],[3,3],[3,9],[2,4],[3,6],[2,3]],
+	"solution":[[2,5],[2,2],[2,3],[2,7]],
+
+	"comment" : "pattern 100"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,1],[2,4],[1,1],[4,2],[2,7],[4,2],[2,7],[1,4]],
+	"solution":[[1,8],[1,4],[1,1],[2,4]],
+
+	"comment" : "pattern 101"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[3,1],[4,9],[3,4],[4,4],[4,4],[3,4],[4,7],[3,3]],
+	"solution":[[3,9],[3,1],[3,3],[3,7]],
+
+	"comment" : "pattern 102"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,5],[2,7],[2,3],[1,5],[3,3],[4,5],[4,7],[3,3]],
+	"solution":[[3,3],[4,1],[3,7],[4,5]],
+
+	"comment" : "pattern 103"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,9],[3,3],[4,1],[3,7],[1,4],[3,1],[1,2],[2,9]],
+	"solution":[[1,3],[3,1],[4,7],[2,9]],
+
+	"comment" : "pattern 104"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,2],[4,4],[1,8],[1,6],[1,1],[3,1],[4,3],[2,7]],
+	"solution":[[1,6],[2,7],[1,7],[2,4]],
+
+	"comment" : "pattern 105"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[1,9],[2,9],[3,9],[4,9],[4,9],[1,8],[2,4],[3,7]],
+	"solution":[[3,7],[2,1],[1,3],[4,8]],
+
+	"comment" : "pattern 106"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,4],[1,4],[2,8],[1,9],[3,4],[4,2],[3,2],[4,2]],
+	"solution":[[3,9],[3,1],[4,4],[4,2]],
+
+	"comment" : "pattern 107"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,9],[3,4],[2,1],[3,2],[1,9],[1,2],[3,1],[3,4]],
+	"solution":[[3,4],[2,4],[1,4],[4,4]],
+
+	"comment" : "pattern 108"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[2,4],[1,6],[3,4],[3,6],[3,1],[4,3],[3,1],[1,3]],
+	"solution":[[2,4],[1,6],[1,3],[3,4]],
+
+	"comment" : "pattern 109"	},
+{	"difficulty":advance,
+	"formation":1,
+	"pattern":[[4,7],[4,1],[4,3],[4,9],[1,3],[4,9],[2,7],[3,1]],
+	"solution":[[3,4],[3,1],[3,9],[3,3]],
+
+	"comment" : "pattern 110"	},
+]

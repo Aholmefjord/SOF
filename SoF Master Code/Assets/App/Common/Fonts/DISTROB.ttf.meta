@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: da2eb4e8255fbb04f8b6dfd5a50c37b7
+timeCreated: 1482660976
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Distro
+  fontNames:
+  - Distro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 498e77e18e6302f44b5e88f85fc9103a, type: 3}
+  - {fileID: 12800000, guid: 2dbce703c4d56694dac760c70128afaf, type: 3}
+  - {fileID: 12800000, guid: e7c50e8ee40d3e74bb98a23924bcc2d2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

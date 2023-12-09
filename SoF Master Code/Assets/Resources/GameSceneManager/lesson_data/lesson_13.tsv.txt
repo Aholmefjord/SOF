@@ -1,0 +1,72 @@
+total_parts	7
+lesson_name	分层思维介绍 
+lesson_description	1.从分层思维的定义着手，培养幼儿分层思维的习惯，让幼儿理解所有的东西都可以被拆解|2.让幼儿理解分层思维可以运用到分解比较长的词汇中|3.让幼儿理解分层思维可以运用到游戏中|游戏目标：萨丽历险记：第36-40关
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，乐高小鳄鱼（教师根据图片提前组装），乐高各色组件，《小伙伴手册》，超轻粘土制作的水果沙拉一份
+part_1_description_2_header	教学目标
+part_1_description_2	1.从分层思维的定义着手，培养幼儿分层思维的习惯，让幼儿理解所有的东西都可以被拆解|2.让幼儿理解分层思维可以运用到分解比较长的词汇中|3.让幼儿理解分层思维可以运用到游戏中|游戏目标：萨丽历险记：第36-40关
+part_1_description_3_header	教学提示
+part_1_description_3	1.分层思维：将复杂的大问题拆解成小问题，把复杂的物体拆解成小物件|2.分层思维在处理复杂问题中起到重要的作用，高级别的分层更加复杂|3.通常，所有的物体和问题都可以分解成小部分|4.要使人成为真正有教养的人,必须具备三个品质：渊博的知识、 思维的习惯和高尚的情操知识不多就是愚昧；不习惯于思维,就是粗鲁或蠢笨；没有高尚的情操,就是卑俗     ——车尔尼雪夫斯基
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	教师展示乐高小鳄鱼（需要教师按照图片自己组装）|询问幼儿鳄鱼的身体由什么部位组成？|引出今天的主题：分层思维|带幼儿一起看看兜兜怎么拆分一件大玩具，如何把大玩具放入小箱子里面？
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	video
+part_3_target	teacher
+part_3_video_type	doodle
+part_3_video_name	Doodle Episode 5
+part_3_video_path	5
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1.拆分单词：从拆解学生熟悉的单词开始（例如）|- 巧克力（巧－克－力）|- 大象（大－象）教师可以举更多的单词为例||2.实物拆分：问学生能否找出教室里其他将物体可以被拆解成小部分的例子（例如）|- 水彩笔|- 水壶||3.视频播放：打开海洋历险记，播放兜兜视频第五集
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始兜兜第五集
+part_4	game
+part_4_target	student
+part_4_game_name	pearly
+part_4_game_start_level	36
+part_4_game_end_level	40
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	1.比一比：看谁先打开海洋历险记，找到兜兜视频第五集|2.再次观看视频，询问幼儿如何拆分如下物品（图见《小伙伴手册》）|-运动鞋（鞋带，鞋底，鞋面）|-火车（车厢，车窗，烟囱，轮子）|冰淇淋（蛋卷，冰淇淋球）||3.复习游戏萨丽历险记|完成第36-40关
+part_4_picture	
+part_4_button	pearly
+part_4_button_description	这按钮将会开始萨丽寻宝记 LV 36-40
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	1）水果沙拉（粘土制作）|询问幼儿水果沙拉可以拆分成什么小部件||2）乐高：拼 一拼  |幼儿领取乐高小零件，自由组装成喜欢的模型
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.让幼儿将自己的乐高作品在班级分享，大家一起利用分层思维来思考，如何拆分乐高模型（只讨论，不拆开）|-鳄鱼（嘴，尾巴，肚子......)||2.请幼儿将《小伙伴手册》带回家，完成《小伙伴手册》第二十二页和第二十三页：|a）想一想，狮子的头由什么组成呢？|b）《不一样》
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	完成《小伙伴手册》第二十二页和第二十三页：|1.想一想，狮子的头由什么组成呢？|2.《不一样》
+part_7_picture	
+part_7_button	
+part_7_button_description	

@@ -1,0 +1,55 @@
+{"animals":[
+{
+  "imageIndex": 0,
+  "funFact": "Alligators can't handle saltwater and prefer to live in big freshwater areas, such as rivers and swamps!"
+},
+{
+  "imageIndex": 1,
+  "funFact": "The axolotl is only native to two locations: Lake Xochimilco and Lake Chalco in Mexico."
+},
+{
+  "imageIndex": 2,
+  "funFact": " Bears can be found in a lot of places, but most of them prefer shaded areas like forests to sleep during the day."
+},
+{
+  "imageIndex": 3,
+  "funFact": "A camel's body is well adapted to deserts! Its thick hair protects it from the sun and its humps store food and water."
+},
+	{
+		"imageIndex": 4,
+		"funFact": "Cats are one of the most popular pets, because they are good friends and mice hunters!"
+	},
+	{
+  "imageIndex": 5,
+  "funFact": "Dogs make very good friends and are easy to train, making them one of the most popular pets."
+},
+{
+  "imageIndex": 6,
+  "funFact": "Frogs can't handle saltwater, and prefer to live in rivers and ponds. However, you can find some of them in trees and even deserts!"
+},
+{
+  "imageIndex": 7,
+  "funFact": "Goldfishes are cheap and easy to get, which make them very popular pets!"
+},
+{
+  "imageIndex": 8,
+  "funFact": "Penguins live in cold and moderate climates, and can be found in the antarctica and islands in the south."
+},
+	{
+		"imageIndex": 9,
+		"funFact": "Polar bears have thick layer of fat and fur to keep them warm, making them perfect Arctic animals!"
+	},
+	{
+  "imageIndex": 10,
+  "funFact": "Salmons are interesting, because even though they live mainly in freshwater, they can turn into a saltwater fish!"
+},
+	{
+		"imageIndex": 11,
+		"funFact": "Most sharks live in the ocean because they can't handle freshwater areas! They also feed on seabirds and fishes. "
+	},
+	{
+  "imageIndex": 12,
+  "funFact": "Squirrels prefer to live in forests and make their home in tree holes!"
+},
+]
+}

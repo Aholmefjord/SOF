@@ -1,0 +1,40 @@
+{
+"Dialogue":[
+				{//0
+					"text":"Alright! The ship is fixed, we can be on our way.",
+					"audio":"Sally_1_shipfixed_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//1
+					"text":"We are here! Let's go in.",
+					"audio":"Sally_2_letsgoin_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"These creatures are blocking the way... going to where the eggs are will be difficult.",
+					"audio":"Sally_3_blockingway_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//3
+					"text":"But hey! I have a gadget to help you clear them away.",
+					"audio":"Sally_4_havegadget_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"Shall we go in?",
+					"audio":"Sally_4_shallgoin_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"We have no choice but to try!",
+					"audio":"Sally_5_try_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+			],
+}

@@ -1,0 +1,215 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Cat",
+      "prefab": "avatar_cat",
+      "body": [
+        {
+          "id": 1,
+          "name": "Pink",
+          "prefab": "cat_mat_base"
+        },
+        {
+          "id": 2,
+          "name": "Calico",
+          "prefab": "cat_mat_calico"
+        },
+        {
+          "id": 3,
+          "name": "Stripes",
+          "prefab": "cat_mat_stripes"
+        },
+        {
+          "id": 4,
+          "name": "Cymric",
+          "prefab": "cat_mat_cymric"
+        },
+        {
+          "id": 5,
+          "name": "Siamese",
+          "prefab": "cat_mat_siamese"
+        },
+        {
+          "id": 6,
+          "name": "Electric",
+          "prefab": "cat_mat_electric"
+        }
+      ],
+	  "eye": [
+        {
+          "id": 1,
+          "name": "Default",
+          "prefab": "cat_tex_eye_default"
+        },
+       {
+          "id": 2,
+          "name": "Silly",
+          "prefab": "cat_tex_eye_silly_black"
+        },
+        {
+          "id": 3,
+          "name": "Glare",
+          "prefab": "cat_tex_eye_glare_black"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dog",
+      "prefab": "avatar_dog",
+      "body": [
+        {
+          "id": 201,
+          "name": "Corgi",
+          "prefab": "dog_mat_base"
+        },
+        {
+          "id": 202,
+          "name": "Bernese",
+          "prefab": "dog_mat_bernese"
+        },
+        {
+          "id": 203,
+          "name": "Furry",
+          "prefab": "dog_mat_furry"
+        },
+        {
+          "id": 204,
+          "name": "Dalmatian",
+          "prefab": "dog_mat_dalmatian"
+        },
+        {
+          "id": 205,
+          "name": "Husky",
+          "prefab": "dog_mat_husky"
+        },
+        {
+          "id": 206,
+          "name": "Hush",
+          "prefab": "dog_mat_hush"
+        }
+      ],
+	  "eye": [
+        {
+          "id": 201,
+          "name": "Default",
+          "prefab": "dog_tex_eye_default"
+        },
+        {
+          "id": 202,
+          "name": "Silly",
+          "prefab": "dog_tex_eye_silly_black"
+        },
+        {
+          "id": 203,
+          "name": "Glare",
+          "prefab": "dog_tex_eye_glare_black"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bear",
+      "prefab": "avatar_bear",
+      "body": [
+        {
+          "id": 301,
+          "name": "Teddy",
+          "prefab": "bear_mat_base"
+        },
+        {
+          "id": 302,
+          "name": "Heart",
+          "prefab": "bear_mat_heart"
+        },
+        {
+          "id": 303,
+          "name": "Moon",
+          "prefab": "bear_mat_moon"
+        },
+        {
+          "id": 304,
+          "name": "Red",
+          "prefab": "bear_mat_red"
+        },
+        {
+          "id": 305,
+          "name": "Blue",
+          "prefab": "bear_mat_blue"
+        }
+      ],
+	  "eye": [
+        {
+          "id": 301,
+          "name": "Default",
+          "prefab": "bear_tex_eye_default"
+        },
+        {
+          "id": 302,
+          "name": "Silly",
+          "prefab": "bear_tex_eye_silly_black"
+        },
+        {
+          "id": 303,
+          "name": "Glare",
+          "prefab": "bear_tex_eye_glare_black"
+        }
+      ]
+    },
+	    {
+      "id": 4,
+      "name": "Fox",
+      "prefab": "avatar_fox",
+      "body": [
+        {
+          "id": 401,
+          "name": "Red",
+          "prefab": "fox_mat_base"
+        },
+        {
+          "id": 402,
+          "name": "Striped",
+          "prefab": "fox_mat_stripped"
+        },
+        {
+          "id": 403,
+          "name": "Fire",
+          "prefab": "fox_mat_fire"
+        },
+        {
+          "id": 404,
+          "name": "Purple",
+          "prefab": "fox_mat_purple"
+        },
+        {
+          "id": 405,
+          "name": "Kitsune",
+          "prefab": "fox_mat_kitsune"
+        },
+        {
+          "id": 406,
+          "name": "Cape",
+          "prefab": "fox_mat_cape"
+        }
+      ],
+	  "eye": [
+        {
+          "id": 401,
+          "name": "Red",
+          "prefab": "bear_tex_eye_default"
+        },
+        {
+          "id": 402,
+          "name": "Stripped",
+          "prefab": "bear_tex_eye_silly_black"
+        },
+        {
+          "id": 403,
+          "name": "Fire",
+          "prefab": "bear_tex_eye_glare_black"
+        }
+      ]
+    }
+  ]
+}

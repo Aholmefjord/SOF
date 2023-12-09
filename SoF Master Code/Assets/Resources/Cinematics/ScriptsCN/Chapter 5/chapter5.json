@@ -1,0 +1,113 @@
+{
+"Dialogue":[
+				{//0
+					"text":"我们走伙计们！他们应该是在这附近了",
+					"audio":"Sally_1_letsgoguys_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//1
+					"text":"看来我们好像是走到死胡同了",
+					"audio":"Sally_1_deadend_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"停！是谁在那里！",
+					"audio":"ICB_1_Halt",
+					"dialogType":0,
+					"Speaker":"?",
+				},
+				{//3
+					"text":"我们就是多多蟹兄弟。\n 你们三个来这里做什么！",
+					"audio":"ICB_4_friendswithmanta",
+					"audio":"ICB_2_wetheicbt",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//5
+					"text":"我们在寻找我们丢失的船，\n 它带着我们所有的货物沉了下来",
+					"audio":"Sally_1_lostship_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//6
+					"text":"大福先生告诉我们他从你们那里得到了一个蛋，\n 于是我们想知道你们是在哪里发现的蛋",
+					"audio":"Sally_2_mantaegg_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//7
+					"text":"哦, 原来你们是大福先生的朋友？！",
+					"audio":"ICB_4_friendswithmanta",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//8
+					"text":"*快乐的点头*",
+					"audio":"SFX_buddy_happy_01",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				},
+				{//9
+					"text":"等一等, 我们怎么能知道你们是否值得信任？",
+					"audio":"ICB_5_howtotrust",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//10
+					"text":"*惊恐*",
+					"audio":"SFX_buddy_attention",
+					"dialogType":0,
+					"Speaker":"Buddy",
+				}
+				{//11
+					"text":"做一个测试！",
+					"audio":"ICB_6_butatest",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//12
+					"text":"是的！一个测试！",
+					"audio":"ICB_6_yesatest",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//13
+					"text":"只有通过了这个测试我们才能看出你们是否值得信任，\n 然后才有可能知道些什么。 只是可能！",
+					"audio":"ICB_7_maybewelikeyou",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//14
+					"text":"你认为我们应该做这个测试吗？",
+					"audio":"Sally_4_dothistestl_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//15
+					"text":"但我们真的需要知道在哪里才能找到那些蛋！",
+					"audio":"Sally_5_needtoknow_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//16
+					"text":"兄弟们！",
+					"audio":"ICB_8_bros",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//17
+					"text":"都快出来！",
+					"audio":"ICB_8_ttherock",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+				{//18
+					"text":"让我们开始吧！",
+					"audio":"ICB_9_letstart",
+					"dialogType":0,
+					"Speaker":"Infinite Crab Brothers",
+				},
+			],
+}

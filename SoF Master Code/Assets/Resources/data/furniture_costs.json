@@ -1,0 +1,14 @@
+[
+{"Name":"Bed_1","Coins":"500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Bed_2","Coins":"1500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Bed_3","Coins":"3000",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Shelf_1","Coins":"500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Shelf_2","Coins":"1500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Shelf_3","Coins":"3000",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Table_1","Coins":"500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Table_2","Coins":"1500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Table_3","Coins":"3000",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Carpet_1","Coins":"500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Carpet_2","Coins":"1500",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] },
+{"Name":"Carpet_3","Coins":"3000",Jewels:"5",Metal:"0",Diamond:"0",Fabric:"5","levelMultipliers":[{1.2,1.3,1.5}] }
+]

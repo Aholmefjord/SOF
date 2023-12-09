@@ -1,0 +1,40 @@
+{
+"Dialogue":[
+				{//0
+					"text":"好啦！船修好了，\n 我们能够继续前进了",
+					"audio":"Sally_1_shipfixed_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//1
+					"text":"我们到了！让我们进入吧",
+					"audio":"Sally_2_letsgoin_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//2
+					"text":"这些小生物挡住了去路...\n 看来要拿到那些蛋会很困难",
+					"audio":"Sally_3_blockingway_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//3
+					"text":"但是嘿！我有一个小工具\n 能帮助你把它们清除掉",
+					"audio":"Sally_4_havegadget_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+				{//4
+					"text":"让我们进去吧？",
+					"audio":"Sally_4_shallgoin_01",
+					"dialogType":1,
+					"Speaker":"Sally",
+				},
+				{//5
+					"text":"我们别无他法了！",
+					"audio":"Sally_5_try_01",
+					"dialogType":0,
+					"Speaker":"Sally",
+				},
+			],
+}

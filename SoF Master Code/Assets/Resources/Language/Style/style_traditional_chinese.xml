@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<style name="Default">
+		<font>take_off_good_luck_new_kids</font>
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+	</style>
+	<!--Loading Screen-->
+	<style name="loading_screen_title">
+		<fontsize>300</fontsize>
+		<fontcolor r="255" g="195" b="0" a="255"/>
+		<outline x="2" y="-2" r="69" g="0" b="0" a="255"/>
+	</style>
+	<style name="loading_screen_reload">
+		<fontsize>55</fontsize>
+		<fontcolor r="255" g="153" b="0" a="255"/>
+		<outline x="2" y="2" r="23" g="0" b="0" a="255"/>
+	</style>
+	<!--Campaign Mode-->
+	<style name="campaignmode_header">
+		<fontsize>70</fontsize>
+	<fontcolor r="255" g="240" b="212" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="campaignmode_campaign_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="campaignmode_buddyhome_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<!--Campaign Level-->
+
+	<style name="campaignlevel_header">
+		<fontsize>80</fontsize>
+	<fontcolor r="255" g="187" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="campaignlevel_locked_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="campaignlevel_new_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="campaignlevel_completed_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+		<!--Chomp Level-->
+	<style name="chomp_completed_text">
+		<fontsize>30</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="chomp_title_text">
+		<fontsize>130</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="chomp_start_text">
+		<fontsize>120</fontsize>
+		<fontcolor r="246" g="200" b="17" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<!--Main Menu-->
+	<style name="main_menu_login_panel_title">
+		<fontsize>153</fontsize>
+		<fontcolor r="255" g="195" b="0" a="255"/>
+		<outline x="2" y="2" r="92" g="0" b="2" a="255"/>
+	</style>
+	<style name="main_menu_loading">
+		<fontsize>20</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+	</style>
+	<style name="main_menu_login_panel_login_to_continue">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+	</style>
+	<style name="main_menu_login_panel_username_placeholder">
+		<fontsize>14</fontsize>
+		<fontcolor r="50" g="50" b="50" a="128"/>
+	</style>
+	<style name="main_menu_login_panel_password_placeholder">
+		<fontsize>14</fontsize>
+		<fontcolor r="50" g="50" b="50" a="128"/>
+	</style>
+	<style name="main_menu_guide">
+		<fontsize>99</fontsize>
+		<fontcolor r="240" g="174" b="0" a="255"/>
+		<outline x="2" y="-2" r="53" g="21" b="0" a="255"/>
+	</style>
+	<style name="main_menu_update">
+		<fontsize>99</fontsize>
+		<fontcolor r="240" g="174" b="0" a="255"/>
+		<outline x="2" y="-2" r="53" g="21" b="0" a="255"/>
+	</style>
+	<style name="main_menu_download">
+		<fontsize>99</fontsize>
+		<fontcolor r="240" g="174" b="0" a="255"/>
+		<outline x="2" y="-2" r="53" g="21" b="0" a="255"/>
+	</style>
+	<style name="main_menu_connection_error_title">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="main_menu_connection_error_text">
+		<fontsize>20</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+	</style>
+	<style name="main_menu_connection_error_retry">
+		<fontsize>99</fontsize>
+		<fontcolor r="240" g="174" b="0" a="255"/>
+		<outline x="2" y="2" r="53" g="21" b="0" a="255"/>
+	</style>
+	<style name="main_menu_set_password_title">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="2" y="-2" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="main_menu_set_password_placeholder">
+		<fontsize>14</fontsize>
+		<fontcolor r="50" g="50" b="50" a="128"/>
+	</style>
+	<style name="main_menu_set_password_error">
+		<fontsize>99</fontsize>
+		<fontcolor r="255" g="28" b="28" a="255"/>
+		<outline x="2" y="-2" r="45" g="0" b="0" a="128"/>
+	</style>
+	<!-- Chomp Chomp -->
+	<style name="chomp_chomp_win_text">
+		<fontsize>140</fontsize>
+		<fontcolor r="240" g="173" b="88" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="chomp_chomp_combo">
+		<fontsize>14</fontsize>
+		<fontcolor r="240" g="173" b="88" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Dialog Box-->
+	<style name="dialog_box_title_text">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="dialog_box_message_text">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="dialog_box_button_yes">
+		<fontsize>100</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="dialog_box_button_no">
+		<fontsize>100</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="dialog_box_button_retry">
+		<fontsize>80</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<!--Map new-->
+	<style name="map_new_settings_text">
+		<fontsize>70</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_buddy_change_alt_pos_text">
+		<fontsize>105</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_buddy_change_text">
+		<fontsize>105</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_change_password_alt_pos_text">
+		<fontsize>100</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_logout_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_change_password_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_support_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_add_child_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_logout_alt_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_reset_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_settings_unlock_text">
+		<fontsize>50</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_set_password_title">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="216" b="0" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_set_password_text">
+		<fontsize>14</fontsize>
+		<fontcolor r="50" g="50" b="50" a="128"/>
+	</style>
+	<style name="map_new_set_password_confirm_text">
+		<fontsize>14</fontsize>
+		<fontcolor r="50" g="50" b="50" a="128"/>
+	</style>
+	<style name="map_new_language_title">
+		<fontsize>70</fontsize>
+		<fontcolor r="255" g="216" b="00" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_language_english">
+		<fontsize>80</fontsize>
+		<fontcolor r="255" g="216" b="00" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="map_new_language_chinese">
+		<fontsize>80</fontsize>
+		<fontcolor r="255" g="216" b="00" a="255"/>
+		<outline x="-3" y="-3" r="118" g="51" b="0" a="255"/>
+	</style>
+	<!--Game Stage Select-->
+	<style name="game_stage_select_level_select">
+		<fontsize>68</fontsize>
+		<fontcolor r="255" g="240" b="212" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="game_stage_select_new">
+		<fontsize>64</fontsize>
+		<fontcolor r="255" g="0" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="game_stage_select_locked">
+		<fontsize>48</fontsize>
+		<fontcolor r="253" g="249" b="222" a="180"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="game_stage_select_cleared">
+		<fontsize>38</fontsize>
+		<fontcolor r="255" g="0" b="0" a="255"/>
+	</style>
+	<style name="game_stage_select_new_stage">
+		<fontsize>92</fontsize>
+		<fontcolor r="250" g="207" b="26" a="255"/>
+		<outline x="2" y="-2" r="92" g="27" b="0" a="255"/>
+	</style>
+	<style name="game_stage_select_locked_stage">
+		<fontsize>52</fontsize>
+		<fontcolor r="250" g="207" b="26" a="180"/>
+		<outline x="2" y="-2" r="92" g="27" b="0" a="180"/>
+	</style>
+	<style name="game_stage_select_cleared_stage">
+		<fontsize>40</fontsize>
+		<fontcolor r="250" g="207" b="26" a="180"/>
+		<outline x="2" y="-2" r="92" g="27" b="0" a="180"/>
+	</style>
+	<!--Perly Whirly Win Screen-->
+	<style name="win_screen_total_score">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="win_screen_highest_score">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="win_screen_highest_combo">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="win_screen_rewards">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="win_screen_lose_game_text">
+		<fontsize>140</fontsize>
+		<fontcolor r="240" g="173" b="88" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="win_screen_stage_complete">
+		<fontsize>140</fontsize>
+		<fontcolor r="240" g="173" b="88" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Pearly Whirly Game-->
+	<style name="pearly_whirly_game_reset_button">
+		<fontsize>14</fontsize>
+		<fontcolor r="74" g="222" b="137" a="255"/>
+	</style>
+	<style name="pearly_whirly_game_stage_clear_stage_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="pearly_whirly_game_stage_clear_clear_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="pearly_whirly_game_stage_failed_stage_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="154" g="233" b="220" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="pearly_whirly_game_stage_failed_failed_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="154" g="233" b="220" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="pearly_whirly_stage_text">
+		<fontsize>100</fontsize>
+		<fontcolor r="197" g="245" b="242" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="0"/>
+	</style>
+	<!--In Game Menu-->
+	<style name="in_game_menu_title">
+		<fontsize>20</fontsize>
+		<fontcolor r="254" g="185" b="0" a="255"/>
+		<outline x="5.55" y="-5.55" r="49" g="49" b="49" a="255"/>
+	</style>
+	<style name="in_game_menu_current_stage">
+		<fontsize>14</fontsize>
+		<fontcolor r="254" g="185" b="0" a="255"/>
+		<outline x="2" y="-2" r="49" g="49" b="49" a="255"/>
+	</style>
+	<!--Manta Main menu-->
+	<style name="manta_main_menu_go_button">
+		<fontsize>80</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<!--Manta Game-->
+	<style name="manta_game_ready_go_text">
+		<fontsize>140</fontsize>
+		<fontcolor r="250" g="153" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="180"/>
+	</style>
+	<style name="manta_game_stage_clear_stage_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="manta_game_stage_clear_clear_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="manta_game_stage_failed_stage_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="154" g="233" b="220" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="manta_game_stage_failed_failed_text">
+		<fontsize>160</fontsize>
+		<fontcolor r="154" g="233" b="220" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="manta_game_stage_continue">
+		<fontsize>97</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="manta_game_stage_continue_1">
+		<fontsize>97</fontsize>
+	</style>
+	<style name="manta_game_stage_continue_2">
+		<fontsize>97</fontsize>
+	</style>
+	<style name="manta_game_stage_continue_3">
+		<fontsize>97</fontsize>
+	</style>
+	<style name="manta_game_stage_continue_4">
+		<fontsize>97</fontsize>
+	</style>
+	<style name="manta_game_stage_continue_5">
+		<fontsize>97</fontsize>
+	</style>
+	<!--Manta Win Screen-->
+	<style name="manta_win_screen_highest_combo">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<!--Tsum Tsum Game-->
+	<style name="tsum_tsum_game_stage_clear_stage_text">
+		<fontsize>180</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_stage_clear_clear_text">
+		<fontsize>180</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_stage_failed_stage_text">
+		<fontsize>180</fontsize>
+		<fontcolor r="154" g="233" b="220" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_stage_failed_failed_text">
+		<fontsize>180</fontsize>
+		<fontcolor r="154" g="233" b="220" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_score_header">
+		<fontsize>14</fontsize>
+		<fontcolor r="47" g="255" b="221" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_left">
+		<fontsize>56</fontsize>
+		<fontcolor r="255" g="255" b="225" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_remaining">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="255" b="225" a="255"/>
+	</style>
+	<style name="tsum_tsum_game_combo">
+		<fontsize>42</fontsize>
+		<fontcolor r="255" g="227" b="71" a="255"/>
+		<outline x="2" y="-2" r="30" g="2" b="2" a="255"/>
+	</style>
+		<style name="tsum_stage_text">
+		<fontsize>30</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="30" g="2" b="2" a="0"/>
+	</style>
+	<!--Crab Level Select-->
+	<style name="crab_level_select_level_text">
+		<fontsize>40</fontsize>
+		<fontcolor r="255" g="0" b="0" a="255"/>
+		<outline x="2" y="-2" r="255" g="255" b="255" a="255"/>
+	</style>
+	<style name="crab_level_select_new">
+		<fontsize>64</fontsize>
+		<fontcolor r="255" g="222" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="crab_level_select_locked">
+		<fontsize>64</fontsize>
+		<fontcolor r="255" g="222" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="crab_level_select_cleared">
+		<fontsize>59</fontsize>
+		<fontcolor r="255" g="222" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<!--Crab Brothers Game-->
+	<style name="crab_brothers_game_stage">
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Tako Level Select-->
+	<style name="tako_level_select_level_text">
+		<fontsize>20</fontsize>
+		<fontcolor r="251" g="255" b="0" a="255"/>
+	</style>
+	<!--Tako Game Encounter Panel-->
+	<style name="tako_game_encounter_panel_title">
+		<font>Animated</font>
+		<fontsize>71</fontsize>
+		<fontcolor r="121" g="245" b="249" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_fish_title">
+		<font>Animated</font>
+		<fontsize>56</fontsize>
+		<fontcolor r="121" g="245" b="249" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_fish_detail">
+		<font>Animated</font>
+		<fontsize>62</fontsize>
+		<fontcolor r="121" g="245" b="249" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_previous">
+		<font>Animated</font>
+		<fontsize>56</fontsize>
+		<fontcolor r="121" g="245" b="249" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_ok">
+		<font>Animated</font>
+		<fontsize>56</fontsize>
+		<fontcolor r="121" g="245" b="249" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_next">
+		<font>Animated</font>
+		<fontsize>56</fontsize>
+		<fontcolor r="121" g="245" b="249" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_coral">
+		<font>Animated</font>
+		<fontsize>56</fontsize>
+		<fontcolor r="248" g="198" b="49" a="255"/>
+	</style>
+	<style name="tako_game_encounter_panel_deepsea">
+		<font>Animated</font>
+		<fontsize>56</fontsize>
+		<fontcolor r="93" g="237" b="230" a="255"/>
+	</style>
+	<!--Tako Game-->
+	<style name="tako_game_bottom_level">
+		<fontsize>40</fontsize>
+		<fontcolor r="230" g="193" b="55" a="255"/>
+	</style>
+	<style name="tako_game_bottom_new">
+		<fontsize>27</fontsize>
+		<fontcolor r="230" g="193" b="55" a="255"/>
+	</style>
+	<style name="tako_game_bottom_ok">
+		<fontsize>21</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="1.5" y="1.5" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="tako_game_bottom_page_1">
+		<fontsize>40</fontsize>
+		<fontcolor r="230" g="193" b="55" a="255"/>
+	</style>
+	<style name="tako_game_bottom_page_2">
+		<fontsize>40</fontsize>
+		<fontcolor r="230" g="193" b="55" a="255"/>
+	</style>
+	<!--Tako Win Screen-->
+	<style name="tako_win_screen_total_score">
+		<fontsize>82</fontsize>
+		<fontcolor r="24" g="68" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="tako_win_screen_highest_score">
+		<fontsize>100</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="tako_win_screen_highest_combo">
+		<fontsize>82</fontsize>
+		<fontcolor r="24" g="68" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="tako_win_screen_rewards">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="165" b="51" a="255"/>
+		<outline x="2" y="-2" r="38" g="11" b="2" a="255"/>
+	</style>
+	<style name="tako_win_screen_lose_game_text">
+		<fontsize>140</fontsize>
+		<fontcolor r="240" g="173" b="88" a="255"/>
+		<outline x="7" y="-7" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!-- Buddy Home Build Panel-->
+	<style name="buddy_home_build_panel_button_upgrade">
+		<fontsize>60</fontsize>
+		<fontcolor r="255" g="153" b="0" a="255"/>
+		<outline x="2" y="2" r="23" g="0" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_build_panel_button_selected">
+		<fontsize>48</fontsize>
+		<fontcolor r="255" g="220" b="0" a="255"/>
+		<outline x="2" y="2" r="23" g="0" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_build_panel_button_style">
+		<fontsize>60</fontsize>
+		<fontcolor r="255" g="153" b="0" a="255"/>
+		<outline x="2" y="2" r="23" g="0" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_build_panel_button_secret_style">
+		<fontsize>60</fontsize>
+		<fontcolor r="255" g="153" b="0" a="255"/>
+		<outline x="2" y="2" r="23" g="0" b="0" a="255"/>
+	</style>
+	<!-- Buddy Home Upgrade Panel-->
+	<style name="buddy_home_upgrade_panel_upgrade_text">
+		<fontsize>113</fontsize>
+		<fontcolor r="255" g="153" b="0" a="255"/>
+		<outline x="2" y="2" r="23" g="0" b="0" a="255"/>
+	</style>
+	<!--Buddy Home Expedition Panel-->
+	<style name="buddy_home_expedition_possible_findings">
+		<fontsize>80</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_title">
+		<fontsize>16</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_sally">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_expedition_coral">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_expedition_market_square">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_expedition_sunken_freight">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="118" g="51" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_expedition_go_button">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Expedition Confirm Panel-->
+	<style name="buddy_home_expedition_confirm_title">
+		<fontsize>16</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_confirm_time_title">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_confirm_time_hours">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_confirm_go_button">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_confirm_reward">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Expedition Return Panel-->
+	<style name="buddy_home_expedition_return_title">
+		<font>PORKYS</font>
+		<fontsize>16</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_return_returning">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_return_minutes">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Expedition Return Confirmation Panel-->
+	<style name="buddy_home_expedition_return_confirmation_text">
+		<fontsize>150</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_return_confirmation_yes">
+		<font>PORKYS</font>
+		<fontsize>123</fontsize>
+		<fontcolor r="85" g="219" b="97" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_return_confirmation_no">
+		<font>PORKYS</font>
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="96" b="99" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Expedition Returned Panel-->
+	<style name="buddy_home_expedition_returned_title">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="6" y="6" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_returned_title_second_line">
+		<fontsize>80</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="6" y="6" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_expedition_returned_earned">
+		<fontsize>100</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Chat Panel-->
+	<style name="buddy_home_chat_panel_title">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_chat_panel_explain">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_chat_panel_ecreate_new">
+		<fontsize>123</fontsize>
+		<transform_width>220</transform_width>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_chat_panel_ecreate_new_second_line">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_chat_panel_refresh">
+		<fontsize>123</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_chat_panel_room">
+		<fontsize>94</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home-->
+	<style name="buddy_home_room">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="buddy_home_freeze_message">
+		<fontsize>95</fontsize>
+		<fontcolor r="21" g="253" b="253" a="255"/>
+		<outline x="0.1" y="-0.1" r="118" g="51" b="0" a="255"/>
+	</style>
+	<!--Buddy Home Exit Panel-->
+	<style name="buddy_home_exit_panel_text">
+		<fontsize>49</fontsize>
+		<fontcolor r="50" g="50" b="50" a="255"/>
+	</style>
+	<!--Buddy Home Video-->
+	<style name="buddy_home_video_title">
+		<fontsize>257</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="1" y="1" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_video_chapter">
+		<fontsize>234</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="1" y="1" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Worksheet-->
+	<style name="buddy_home_worksheet_title">
+		<fontsize>257</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="-1" y="-1" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_worksheet_chapter">
+		<fontsize>234</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="1" y="1" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Buddy Home Doodle-->
+	<style name="buddy_home_doodle_title">
+		<fontsize>257</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="-3" y="-3" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="buddy_home_doodle_episode">
+		<fontsize>38</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="-2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<!--Create Pet-->
+	<style name="create_pet_title">
+		<fontsize>120</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="3" y="-3" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="create_pet_name">
+		<fontsize>14</fontsize>
+		<fontcolor r="0" g="0" b="0" a="255"/>
+	</style>
+	<style name="create_pet_name_place_holder">
+		<fontsize>14</fontsize>
+		<fontcolor r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="create_pet_pet_type">
+		<fontsize>28</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="create_pet_body_type">
+		<fontsize>28</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="create_pet_description">
+		<fontsize>36</fontsize>
+		<fontcolor r="255" g="206" b="0" a="255"/>
+		<outline x="2" y="-2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="create_pet_error_text">
+		<fontsize>60</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<style name="create_pet_error_button">
+		<fontsize>52</fontsize>
+		<fontcolor r="255" g="205" b="0" a="255"/>
+		<outline x="2" y="-2" r="85" g="13" b="2" a="255"/>
+	</style>
+	<!--Doodle Video Title-->
+	<style name="campaign_video_title">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="255" b="255" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="255"/>
+	</style>
+	<!--Game Name-->
+	<style name="in_game_video_title">
+		<fontsize>14</fontsize>
+		<fontcolor r="255" g="200" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+	<style name="campaignlevel_nametext">
+		<fontsize>40</fontsize>
+		<fontcolor r="255" g="187" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style><style name="campaignlevel_leveltext">
+		<fontsize>40</fontsize>
+		<fontcolor r="255" g="187" b="0" a="255"/>
+		<outline x="2" y="-2" r="0" g="0" b="0" a="128"/>
+	</style>
+
+</document>

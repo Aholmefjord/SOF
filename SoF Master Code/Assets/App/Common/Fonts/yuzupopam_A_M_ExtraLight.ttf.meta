@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4ba6a0ca100d4274d84df09a725cb6ca
+timeCreated: 1503938919
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yuzu Pop A [M] Extra Light
+  fontNames:
+  - Yuzu Pop A [M] Extra Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

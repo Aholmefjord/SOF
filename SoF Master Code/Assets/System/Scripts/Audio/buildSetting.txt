@@ -1,0 +1,5 @@
+{
+	apkOutputPath: Build/Android,
+	assetbundleOutputPath: Build/Android/AssetBundles,
+	assetbundleCompression: 2
+}

@@ -1,0 +1,72 @@
+total_parts	7
+lesson_name	模式识别和咔哧咔哧  (游戏)
+lesson_description	1.在咔哧咔哧游戏中进步强化模式识别思维|2.游戏目标：咔哧咔哧游戏 ：给小伙伴喂食5次
+finale_description	
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，《小伙伴手册》
+part_1_description_2_header	教学目标
+part_1_description_2	1.在咔哧咔哧游戏中进步强化模式识别思维|2.游戏目标：咔哧咔哧游戏 ：给小伙伴喂食5次
+part_1_description_3_header	教学提示
+part_1_description_3	连点成线的游戏能帮助幼儿运用模式识别的思维方式，建立点-线-图之间的关系
+part_1_picture	
+part_1_button	
+part_1_button_description	
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	火眼金睛游戏:|翻到《小伙伴手册》相第十八页，问问小朋友在每一张图片上哪一种水果多？|游戏目的在于训练幼儿运用模式识别的方式，迅速找到某一种水果
+part_2_picture	
+part_2_button	
+part_2_button_description	
+part_3	game
+part_3_target	teacher
+part_3_game_name	chomp
+part_3_game_start_level	1
+part_3_game_end_level	5
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	示范在咔哧咔哧游戏中运用模式识别的思维，迅速通关||邀请幼儿上台指出来，披萨在什么位置？苹果在什么位置？冰淇淋在什么位置？果汁在什么位置？
+part_3_picture	
+part_3_button	doodle
+part_3_button_description	这按钮将会开始咔哧咔哧 LV 1-5
+part_4	game
+part_4_target	student
+part_4_game_name	chomp
+part_4_game_start_level	1
+part_4_game_end_level	5
+part_4_name	小白陪你快乐学
+part_4_description_count	1
+part_4_description_1_header	示范（时长 = 15分钟）
+part_4_description_1	幼儿自己操作，复习游戏咔哧咔哧  ，并给小伙伴喂食五次
+part_4_picture	
+part_4_button	doodle
+part_4_button_description	这按钮将会开始咔哧咔哧 LV 1-5
+part_5	manual
+part_5_name	活动与游戏
+part_5_description_count	1
+part_5_description_1_header	活动与游戏（时长 = 15分钟）
+part_5_description_1	翻到《小伙伴手册》第十九页，完成“点点画----鲨鱼”
+part_5_picture	
+part_5_button	
+part_5_button_description	
+part_6	manual
+part_6_name	分享与反思
+part_6_description_count	1
+part_6_description_1_header	分享与回顾（时长 = 10分钟）
+part_6_description_1	1.回顾学习内容|2.请幼儿上台展示自己完成的画作|3.请幼儿将《小伙伴手册》带回家，完成第十九页上的内容：“点点画----贝壳”
+part_6_picture	
+part_6_button	
+part_6_button_description	
+part_7	manual
+part_7_name	分享与反思
+part_7_description_count	1
+part_7_description_1_header	活动延伸（时长 = 60分钟）
+part_7_description_1	完成《小伙伴手册》第十九页上的“点点画----贝壳”
+part_7_picture	
+part_7_button	
+part_7_button_description	

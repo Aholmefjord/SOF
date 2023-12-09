@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<!--Buddy Home Game Table-->
+	<string name="buddy_home_game_table_manta" location="map/1mantamapicon"/>
+	<string name="buddy_home_game_table_crab" location="map/2icbmapicon"/>
+	<string name="buddy_home_game_table_peraly" location="map/3mpmapicon"/>
+	<string name="buddy_home_game_table_tumble" location="map/4sunkenmapicon"/>
+	<!--Buddy Home Video Panel-->
+	<string name="buddy_home_video_panel_video_icon" location="map/videoicon"/>
+	<string name="buddy_home_video_panel_worksheet_icon" location="map/worksheeticon"/>
+	<string name="buddy_home_video_panel_doodle_icon" location="map/doodleicon"/>
+	<!--Crabby Main Menu -->
+	<string name="crabby_main_menu_title" location="Games/Crab/crabbieTitle"/>
+	<string name="crabby_main_menu_start" location="Games/Crab/crabbie_landing_start"/>
+	<!--Pearly Main Menu -->
+	<string name="pearly_main_menu_title" location="Games/Pearly/pearlywhirlytitle"/>
+	<string name="pearly_whirly_game_stage_left_button" location="Games/Pearly/reefleftbutton"/>
+	<string name="pearly_whirly_game_stage_right_button" location="Games/Pearly/reelrightbutton"/>
+	<string name="pearly_whirly_game_stage_restart_button" location="Games/Pearly/reefstartoverbutton"/>
+	<!--manta Main Menu -->
+	<string name="manta_main_menu_title" location="Games/Manta/mantamatchmaniatitle"/>
+	<!--Tako Main Menu -->
+	<string name="tako_main_menu_title" location="Games/Tako/start-screen_title"/>
+	<string name="tako_main_menu_start" location="Games/Tako/Start"/>
+	<!--Tsum Tsum Main Menu -->
+	<string name="tsum_tsum_main_menu_title" location="Games/TsumTsum/ttgametitle"/>
+	<!--Chomp -->
+	<string name="chomp_title_image" location="Games/Chomp/chompchompicon"/>
+	<!-- GUI -->
+	<string name="gui_go_button" location="gui/gobutton"/>
+	<string name="gui_login_button" location="gui/loginbutton"/>
+	<string name="gui_settings_home" location="gui/settings_home"/>
+	<string name="gui_settings_resume" location="gui/settings_resume"/>
+	<string name="gui_settings_restart" location="gui/settings_restart"/>
+	<string name="gui_settings_levelselect" location="gui/settings_levelselect"/>
+	<string name="gui_return_button" location="gui/returnbutton"/>
+	<!--Chomp Tutorial -->
+	<string name="chomp_tutorial_title" location="Games/Chomp/tutorial_title"/>
+	<string name="chomp_tutorial_content_1" location="Games/Chomp/tutorial_1"/>
+	<string name="chomp_tutorial_content_2" location="Games/Chomp/tutorial_2"/>
+	<string name="chomp_tutorial_content_3" location="Games/Chomp/tutorial_3"/>
+	<string name="chomp_tutorial_content_4" location="Games/Chomp/tutorial_4"/>
+	<!--Crab Tutorial -->
+	<string name="crab_tutorial_title" location="Games/Crab/tutorial_title"/>
+	<string name="crab_tutorial_content_1" location="Games/Crab/tutorial_1"/>
+	<string name="crab_tutorial_content_2" location="Games/Crab/tutorial_2"/>
+	<string name="crab_tutorial_content_3" location="Games/Crab/tutorial_3"/>
+	<string name="crab_tutorial_content_4" location="Games/Crab/tutorial_4"/>
+	<!--Manta Tutorial -->
+	<string name="manta_tutorial_title" location="Games/Manta/tutorial_title"/>
+	<string name="manta_tutorial_content_1" location="Games/Manta/tutorial_1"/>
+	<string name="manta_tutorial_content_2" location="Games/Manta/tutorial_2"/>
+	<string name="manta_tutorial_content_3" location="Games/Manta/tutorial_3"/>
+	<string name="manta_tutorial_content_4" location="Games/Manta/tutorial_4"/>
+	<!--Pearly Tutorial -->
+	<string name="pearly_tutorial_title" location="Games/Pearly/tutorial_title"/>
+	<string name="pearly_tutorial_content_1" location="Games/Pearly/tutorial_1"/>
+	<string name="pearly_tutorial_content_2" location="Games/Pearly/tutorial_3"/>
+	<string name="pearly_tutorial_content_3" location="Games/Pearly/tutorial_2"/>
+	<string name="pearly_tutorial_content_4" location="Games/Pearly/tutorial_4"/>
+	<string name="pearly_tutorial_content_5" location="Games/Pearly/tutorial_5"/>
+	<!--Tako Tutorial -->
+	<string name="tako_tutorial_title" location="Games/Tako/tutorial_title"/>
+	<string name="tako_tutorial_content_1" location="Games/Tako/tutorial_1"/>
+	<string name="tako_tutorial_content_2" location="Games/Tako/tutorial_2"/>
+	<string name="tako_tutorial_content_3" location="Games/Tako/tutorial_3"/>
+	<!--tsumtsum Tutorial -->
+	<string name="tsum_tsum_tutorial_title" location="Games/TsumTsum/tutorial_title"/>
+	<string name="tsum_tsum_tutorial_content_1" location="Games/TsumTsum/tutorial_1"/>
+	<string name="tsum_tsum_tutorial_content_2" location="Games/TsumTsum/tutorial_2"/>
+	<string name="tsum_tsum_tutorial_content_3" location="Games/TsumTsum/tutorial_3"/>
+	<string name="tsum_tsum_tutorial_content_4" location="Games/TsumTsum/tutorial_4"/>
+	<!-- Campaign Main Menu -->
+	<string name="campaign_main_menu_campaign_button" location="Campaignui/enter_campaign_button"/>
+	<string name="campaign_main_menu_home_button" location="Campaignui/enter_home_button"/>
+</document>

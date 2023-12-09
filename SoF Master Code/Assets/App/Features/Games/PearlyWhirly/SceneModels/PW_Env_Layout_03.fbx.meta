@@ -1,0 +1,1824 @@
+fileFormatVersion: 2
+guid: b48313311aaefd048ac69cbc833fae02
+timeCreated: 1476789875
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Anchor_01
+    100002: ArchCliff_01
+    100004: BootMountain_01
+    100006: Bottle
+    100008: Boulder_01
+    100010: Boulder_02
+    100012: Boulder_03
+    100014: Boulder_04
+    100016: Boulder_05
+    100018: Boulder_06
+    100020: Boulder_07
+    100022: Boulder_08
+    100024: Clam_01
+    100026: Clam_02
+    100028: Clam_03
+    100030: Clam_Base
+    100032: Clam_Base 1
+    100034: Clam_Base 2
+    100036: Clam_Top
+    100038: Clam_Top 1
+    100040: Clam_Top 2
+    100042: ConeShell
+    100044: Cork
+    100046: Crab_01
+    100048: Crab_02
+    100050: Crate_01
+    100052: Crate_02
+    100054: Crate_03
+    100056: Crate_04
+    100058: Fish_01
+    100060: Fish_02
+    100062: Fish_03
+    100064: Fish_04
+    100066: GiantClamBot
+    100068: GiantPearlClam
+    100070: GiantSnailShell
+    100072: GreenCoral_01
+    100074: GreenCoral_02
+    100076: GreenCoral_03
+    100078: GreenCoral_04
+    100080: GreenCoral_06
+    100082: GreenCoral_07
+    100084: GreenCoral_08
+    100086: GreenCoral_09
+    100088: Mast01
+    100090: Mast02
+    100092: Mast03
+    100094: MessageBottle_GRP
+    100096: PancakeSponge_1
+    100098: PancakeSponge_10
+    100100: PancakeSponge_2
+    100102: PancakeSponge_3
+    100104: PancakeSponge_4
+    100106: PancakeSponge_5
+    100108: PancakeSponge_6
+    100110: PancakeSponge_7
+    100112: PancakeSponge_8
+    100114: PancakeSponge_9
+    100116: Pearl
+    100118: Pearl 1
+    100120: Pearl 2
+    100122: Pearl 3
+    100124: Pearl 4
+    100126: Pearl 5
+    100128: Pearl 6
+    100130: Pearl 7
+    100132: PearlClam_01
+    100134: PearlClam_02
+    100136: PearlClam_03
+    100138: PearlClam_04
+    100140: PearlClam_05
+    100142: PearlClam_06
+    100144: PearlClam_07
+    100146: PearlClam_09
+    100148: PearlClam_10
+    100150: PearlClam_Flesh
+    100152: PearlClam_Flesh 1
+    100154: PearlClam_Flesh 2
+    100156: PearlClam_Flesh 3
+    100158: PearlClam_Flesh 4
+    100160: PearlClam_Flesh 5
+    100162: PearlClam_Flesh 6
+    100164: PearlClam_Flesh 7
+    100166: PearlClam_Flesh 8
+    100168: PearlClam_Flesh 9
+    100170: PearlClam_Top
+    100172: PearlClam_Top 1
+    100174: PearlClam_Top 2
+    100176: PearlClam_Top 3
+    100178: PearlClam_Top 4
+    100180: PearlClam_Top 5
+    100182: PearlClam_Top 6
+    100184: PearlClam_Top 7
+    100186: PearlClam_Top 8
+    100188: PearlClam_Top 9
+    100190: Plank_01
+    100192: Plank_02
+    100194: purpleSeasponge_01
+    100196: purpleSeasponge_02
+    100198: purpleSeasponge_03
+    100200: purpleSeasponge_04
+    100202: PurpleSponge_01
+    100204: PurpleSponge_02
+    100206: PurpleSponge_03
+    100208: PurpleSponge_04
+    100210: PurpleSponge_05
+    100212: PurpleSponge_06
+    100214: PurpleSponge_07
+    100216: PurpleSponge_08
+    100218: PurpleSponge_09
+    100220: PurpleSponge_1
+    100222: PurpleSponge_1 1
+    100224: PurpleSponge_1 2
+    100226: PurpleSponge_2
+    100228: PurpleSponge_2 1
+    100230: PurpleSponge_2 2
+    100232: PurpleSponge_3
+    100234: PurpleSponge_3 1
+    100236: PurpleSponge_3 2
+    100238: PurpleSponge_4
+    100240: PurpleSponge_4 1
+    100242: PurpleSponge_4 2
+    100244: PurpleSponge_5
+    100246: PurpleSponge_5 1
+    100248: PurpleSponge_5 2
+    100250: PurpleSponge_6
+    100252: PurpleSponge_6 1
+    100254: PurpleSponge_6 2
+    100256: PurpleSponge_7
+    100258: PurpleSponge_7 1
+    100260: PurpleSponge_7 2
+    100262: PurpleSponge_8
+    100264: PurpleSponge_8 1
+    100266: PurpleSponge_8 2
+    100268: //RootNode
+    100270: redCoral_1
+    100272: redCoral_2
+    100274: redCoral_3
+    100276: redCoral_4
+    100278: redCoral_5
+    100280: Rocks_01
+    100282: Rocks_02
+    100284: Rocks_03
+    100286: Rocks_04
+    100288: Rocks_05
+    100290: Rocks_06
+    100292: Rocks_07
+    100294: Rocks_08
+    100296: Rocks_09
+    100298: Rocks_10
+    100300: Rocks_11
+    100302: Rocks_12
+    100304: Rocks_13
+    100306: Rocks_16
+    100308: Rocks_17
+    100310: Rocks_18
+    100312: ScatteredRocks_1
+    100314: ScatteredRocks_10
+    100316: ScatteredRocks_11
+    100318: ScatteredRocks_13
+    100320: ScatteredRocks_14
+    100322: ScatteredRocks_15
+    100324: ScatteredRocks_16
+    100326: ScatteredRocks_17
+    100328: ScatteredRocks_18
+    100330: ScatteredRocks_2
+    100332: ScatteredRocks_20
+    100334: ScatteredRocks_21
+    100336: ScatteredRocks_22
+    100338: ScatteredRocks_23
+    100340: ScatteredRocks_24
+    100342: ScatteredRocks_25
+    100344: ScatteredRocks_26
+    100346: ScatteredRocks_28
+    100348: ScatteredRocks_29
+    100350: ScatteredRocks_3
+    100352: ScatteredRocks_30
+    100354: ScatteredRocks_31
+    100356: ScatteredRocks_32
+    100358: ScatteredRocks_33
+    100360: ScatteredRocks_34
+    100362: ScatteredRocks_35
+    100364: ScatteredRocks_36
+    100366: ScatteredRocks_37
+    100368: ScatteredRocks_38
+    100370: ScatteredRocks_39
+    100372: ScatteredRocks_4
+    100374: ScatteredRocks_40
+    100376: ScatteredRocks_41
+    100378: ScatteredRocks_42
+    100380: ScatteredRocks_43
+    100382: ScatteredRocks_44
+    100384: ScatteredRocks_45
+    100386: ScatteredRocks_47
+    100388: ScatteredRocks_48
+    100390: ScatteredRocks_5
+    100392: ScatteredRocks_50
+    100394: ScatteredRocks_51
+    100396: ScatteredRocks_52
+    100398: ScatteredRocks_53
+    100400: ScatteredRocks_54
+    100402: ScatteredRocks_55
+    100404: ScatteredRocks_56
+    100406: ScatteredRocks_57
+    100408: ScatteredRocks_62
+    100410: ScatteredRocks_63
+    100412: ScatteredRocks_64
+    100414: ScatteredRocks_65
+    100416: ScatteredRocks_66
+    100418: ScatteredRocks_67
+    100420: ScatteredRocks_68
+    100422: ScatteredRocks_69
+    100424: ScatteredRocks_70
+    100426: ScatteredRocks_8
+    100428: ScatteredRocks_9
+    100430: Scroll
+    100432: Seahorse
+    100434: SeaSponge_01
+    100436: SeaSponge_02
+    100438: SeaSponge_03
+    100440: SeaspongeRock
+    100442: SeaspongeRock 1
+    100444: SeaspongeRock 2
+    100446: SeaspongeRock 3
+    100448: Seaweed_1
+    100450: Seaweed_10
+    100452: Seaweed_101
+    100454: Seaweed_106
+    100456: Seaweed_107
+    100458: Seaweed_108
+    100460: Seaweed_109
+    100462: Seaweed_11
+    100464: Seaweed_110
+    100466: Seaweed_111
+    100468: Seaweed_112
+    100470: Seaweed_113
+    100472: Seaweed_114
+    100474: Seaweed_115
+    100476: Seaweed_116
+    100478: Seaweed_117
+    100480: Seaweed_118
+    100482: Seaweed_119
+    100484: Seaweed_12
+    100486: Seaweed_120
+    100488: Seaweed_121
+    100490: Seaweed_127
+    100492: Seaweed_128
+    100494: Seaweed_129
+    100496: Seaweed_130
+    100498: Seaweed_131
+    100500: Seaweed_132
+    100502: Seaweed_133
+    100504: Seaweed_134
+    100506: Seaweed_135
+    100508: Seaweed_14
+    100510: Seaweed_15
+    100512: Seaweed_16
+    100514: Seaweed_17
+    100516: Seaweed_18
+    100518: Seaweed_19
+    100520: Seaweed_2
+    100522: Seaweed_20
+    100524: Seaweed_21
+    100526: Seaweed_22
+    100528: Seaweed_23
+    100530: Seaweed_25
+    100532: Seaweed_26
+    100534: Seaweed_27
+    100536: Seaweed_28
+    100538: Seaweed_29
+    100540: Seaweed_3
+    100542: Seaweed_30
+    100544: Seaweed_32
+    100546: Seaweed_33
+    100548: Seaweed_35
+    100550: Seaweed_36
+    100552: Seaweed_38
+    100554: Seaweed_39
+    100556: Seaweed_4
+    100558: Seaweed_40
+    100560: Seaweed_41
+    100562: Seaweed_42
+    100564: Seaweed_46
+    100566: Seaweed_47
+    100568: Seaweed_48
+    100570: Seaweed_49
+    100572: Seaweed_5
+    100574: Seaweed_50
+    100576: Seaweed_51
+    100578: Seaweed_52
+    100580: Seaweed_53
+    100582: Seaweed_54
+    100584: Seaweed_55
+    100586: Seaweed_56
+    100588: Seaweed_57
+    100590: Seaweed_58
+    100592: Seaweed_59
+    100594: Seaweed_6
+    100596: Seaweed_60
+    100598: Seaweed_61
+    100600: Seaweed_62
+    100602: Seaweed_63
+    100604: Seaweed_66
+    100606: Seaweed_67
+    100608: Seaweed_68
+    100610: Seaweed_7
+    100612: Seaweed_71
+    100614: Seaweed_72
+    100616: Seaweed_73
+    100618: Seaweed_74
+    100620: Seaweed_75
+    100622: Seaweed_76
+    100624: Seaweed_77
+    100626: Seaweed_78
+    100628: Seaweed_79
+    100630: Seaweed_8
+    100632: Seaweed_80
+    100634: Seaweed_81
+    100636: Seaweed_82
+    100638: Seaweed_83
+    100640: Seaweed_84
+    100642: Seaweed_85
+    100644: Seaweed_86
+    100646: Seaweed_87
+    100648: Seaweed_88
+    100650: Seaweed_89
+    100652: Seaweed_90
+    100654: Seaweed_91
+    100656: Seaweed_92
+    100658: Seaweed_93
+    100660: Seaweed_94
+    100662: Seaweed_95
+    100664: Seaweed_96
+    100666: Seaweed_97
+    100668: Seaweed_99
+    100670: Ship_Back
+    100672: ship_Front
+    100674: ShipBack
+    100676: ShipFront
+    100678: Slabs_01
+    100680: Slabs_02
+    100682: Slabs_03
+    100684: Slabs_04
+    100686: Slabs_06
+    100688: Slabs_07
+    100690: Slabs_08
+    100692: spikeCoral_1
+    100694: spikeCoral_12
+    100696: spikeCoral_13
+    100698: spikeCoral_2
+    100700: spikeCoral_3
+    100702: spikeCoral_4
+    100704: spikeCoral_5
+    100706: spikeCoral_7
+    100708: spikeCoral_8
+    100710: spikeCoral_9
+    100712: Stackrocks_02
+    100714: Starfish_blue_01
+    100716: Starfish_blue_02
+    100718: Starfish_Yw_01
+    100720: Starfish_Yw_02
+    100722: Starfish_Yw_03
+    100724: Starfish_Yw_04
+    400000: Anchor_01
+    400002: ArchCliff_01
+    400004: BootMountain_01
+    400006: Bottle
+    400008: Boulder_01
+    400010: Boulder_02
+    400012: Boulder_03
+    400014: Boulder_04
+    400016: Boulder_05
+    400018: Boulder_06
+    400020: Boulder_07
+    400022: Boulder_08
+    400024: Clam_01
+    400026: Clam_02
+    400028: Clam_03
+    400030: Clam_Base
+    400032: Clam_Base 1
+    400034: Clam_Base 2
+    400036: Clam_Top
+    400038: Clam_Top 1
+    400040: Clam_Top 2
+    400042: ConeShell
+    400044: Cork
+    400046: Crab_01
+    400048: Crab_02
+    400050: Crate_01
+    400052: Crate_02
+    400054: Crate_03
+    400056: Crate_04
+    400058: Fish_01
+    400060: Fish_02
+    400062: Fish_03
+    400064: Fish_04
+    400066: GiantClamBot
+    400068: GiantPearlClam
+    400070: GiantSnailShell
+    400072: GreenCoral_01
+    400074: GreenCoral_02
+    400076: GreenCoral_03
+    400078: GreenCoral_04
+    400080: GreenCoral_06
+    400082: GreenCoral_07
+    400084: GreenCoral_08
+    400086: GreenCoral_09
+    400088: Mast01
+    400090: Mast02
+    400092: Mast03
+    400094: MessageBottle_GRP
+    400096: PancakeSponge_1
+    400098: PancakeSponge_10
+    400100: PancakeSponge_2
+    400102: PancakeSponge_3
+    400104: PancakeSponge_4
+    400106: PancakeSponge_5
+    400108: PancakeSponge_6
+    400110: PancakeSponge_7
+    400112: PancakeSponge_8
+    400114: PancakeSponge_9
+    400116: Pearl
+    400118: Pearl 1
+    400120: Pearl 2
+    400122: Pearl 3
+    400124: Pearl 4
+    400126: Pearl 5
+    400128: Pearl 6
+    400130: Pearl 7
+    400132: PearlClam_01
+    400134: PearlClam_02
+    400136: PearlClam_03
+    400138: PearlClam_04
+    400140: PearlClam_05
+    400142: PearlClam_06
+    400144: PearlClam_07
+    400146: PearlClam_09
+    400148: PearlClam_10
+    400150: PearlClam_Flesh
+    400152: PearlClam_Flesh 1
+    400154: PearlClam_Flesh 2
+    400156: PearlClam_Flesh 3
+    400158: PearlClam_Flesh 4
+    400160: PearlClam_Flesh 5
+    400162: PearlClam_Flesh 6
+    400164: PearlClam_Flesh 7
+    400166: PearlClam_Flesh 8
+    400168: PearlClam_Flesh 9
+    400170: PearlClam_Top
+    400172: PearlClam_Top 1
+    400174: PearlClam_Top 2
+    400176: PearlClam_Top 3
+    400178: PearlClam_Top 4
+    400180: PearlClam_Top 5
+    400182: PearlClam_Top 6
+    400184: PearlClam_Top 7
+    400186: PearlClam_Top 8
+    400188: PearlClam_Top 9
+    400190: Plank_01
+    400192: Plank_02
+    400194: purpleSeasponge_01
+    400196: purpleSeasponge_02
+    400198: purpleSeasponge_03
+    400200: purpleSeasponge_04
+    400202: PurpleSponge_01
+    400204: PurpleSponge_02
+    400206: PurpleSponge_03
+    400208: PurpleSponge_04
+    400210: PurpleSponge_05
+    400212: PurpleSponge_06
+    400214: PurpleSponge_07
+    400216: PurpleSponge_08
+    400218: PurpleSponge_09
+    400220: PurpleSponge_1
+    400222: PurpleSponge_1 1
+    400224: PurpleSponge_1 2
+    400226: PurpleSponge_2
+    400228: PurpleSponge_2 1
+    400230: PurpleSponge_2 2
+    400232: PurpleSponge_3
+    400234: PurpleSponge_3 1
+    400236: PurpleSponge_3 2
+    400238: PurpleSponge_4
+    400240: PurpleSponge_4 1
+    400242: PurpleSponge_4 2
+    400244: PurpleSponge_5
+    400246: PurpleSponge_5 1
+    400248: PurpleSponge_5 2
+    400250: PurpleSponge_6
+    400252: PurpleSponge_6 1
+    400254: PurpleSponge_6 2
+    400256: PurpleSponge_7
+    400258: PurpleSponge_7 1
+    400260: PurpleSponge_7 2
+    400262: PurpleSponge_8
+    400264: PurpleSponge_8 1
+    400266: PurpleSponge_8 2
+    400268: //RootNode
+    400270: redCoral_1
+    400272: redCoral_2
+    400274: redCoral_3
+    400276: redCoral_4
+    400278: redCoral_5
+    400280: Rocks_01
+    400282: Rocks_02
+    400284: Rocks_03
+    400286: Rocks_04
+    400288: Rocks_05
+    400290: Rocks_06
+    400292: Rocks_07
+    400294: Rocks_08
+    400296: Rocks_09
+    400298: Rocks_10
+    400300: Rocks_11
+    400302: Rocks_12
+    400304: Rocks_13
+    400306: Rocks_16
+    400308: Rocks_17
+    400310: Rocks_18
+    400312: ScatteredRocks_1
+    400314: ScatteredRocks_10
+    400316: ScatteredRocks_11
+    400318: ScatteredRocks_13
+    400320: ScatteredRocks_14
+    400322: ScatteredRocks_15
+    400324: ScatteredRocks_16
+    400326: ScatteredRocks_17
+    400328: ScatteredRocks_18
+    400330: ScatteredRocks_2
+    400332: ScatteredRocks_20
+    400334: ScatteredRocks_21
+    400336: ScatteredRocks_22
+    400338: ScatteredRocks_23
+    400340: ScatteredRocks_24
+    400342: ScatteredRocks_25
+    400344: ScatteredRocks_26
+    400346: ScatteredRocks_28
+    400348: ScatteredRocks_29
+    400350: ScatteredRocks_3
+    400352: ScatteredRocks_30
+    400354: ScatteredRocks_31
+    400356: ScatteredRocks_32
+    400358: ScatteredRocks_33
+    400360: ScatteredRocks_34
+    400362: ScatteredRocks_35
+    400364: ScatteredRocks_36
+    400366: ScatteredRocks_37
+    400368: ScatteredRocks_38
+    400370: ScatteredRocks_39
+    400372: ScatteredRocks_4
+    400374: ScatteredRocks_40
+    400376: ScatteredRocks_41
+    400378: ScatteredRocks_42
+    400380: ScatteredRocks_43
+    400382: ScatteredRocks_44
+    400384: ScatteredRocks_45
+    400386: ScatteredRocks_47
+    400388: ScatteredRocks_48
+    400390: ScatteredRocks_5
+    400392: ScatteredRocks_50
+    400394: ScatteredRocks_51
+    400396: ScatteredRocks_52
+    400398: ScatteredRocks_53
+    400400: ScatteredRocks_54
+    400402: ScatteredRocks_55
+    400404: ScatteredRocks_56
+    400406: ScatteredRocks_57
+    400408: ScatteredRocks_62
+    400410: ScatteredRocks_63
+    400412: ScatteredRocks_64
+    400414: ScatteredRocks_65
+    400416: ScatteredRocks_66
+    400418: ScatteredRocks_67
+    400420: ScatteredRocks_68
+    400422: ScatteredRocks_69
+    400424: ScatteredRocks_70
+    400426: ScatteredRocks_8
+    400428: ScatteredRocks_9
+    400430: Scroll
+    400432: Seahorse
+    400434: SeaSponge_01
+    400436: SeaSponge_02
+    400438: SeaSponge_03
+    400440: SeaspongeRock
+    400442: SeaspongeRock 1
+    400444: SeaspongeRock 2
+    400446: SeaspongeRock 3
+    400448: Seaweed_1
+    400450: Seaweed_10
+    400452: Seaweed_101
+    400454: Seaweed_106
+    400456: Seaweed_107
+    400458: Seaweed_108
+    400460: Seaweed_109
+    400462: Seaweed_11
+    400464: Seaweed_110
+    400466: Seaweed_111
+    400468: Seaweed_112
+    400470: Seaweed_113
+    400472: Seaweed_114
+    400474: Seaweed_115
+    400476: Seaweed_116
+    400478: Seaweed_117
+    400480: Seaweed_118
+    400482: Seaweed_119
+    400484: Seaweed_12
+    400486: Seaweed_120
+    400488: Seaweed_121
+    400490: Seaweed_127
+    400492: Seaweed_128
+    400494: Seaweed_129
+    400496: Seaweed_130
+    400498: Seaweed_131
+    400500: Seaweed_132
+    400502: Seaweed_133
+    400504: Seaweed_134
+    400506: Seaweed_135
+    400508: Seaweed_14
+    400510: Seaweed_15
+    400512: Seaweed_16
+    400514: Seaweed_17
+    400516: Seaweed_18
+    400518: Seaweed_19
+    400520: Seaweed_2
+    400522: Seaweed_20
+    400524: Seaweed_21
+    400526: Seaweed_22
+    400528: Seaweed_23
+    400530: Seaweed_25
+    400532: Seaweed_26
+    400534: Seaweed_27
+    400536: Seaweed_28
+    400538: Seaweed_29
+    400540: Seaweed_3
+    400542: Seaweed_30
+    400544: Seaweed_32
+    400546: Seaweed_33
+    400548: Seaweed_35
+    400550: Seaweed_36
+    400552: Seaweed_38
+    400554: Seaweed_39
+    400556: Seaweed_4
+    400558: Seaweed_40
+    400560: Seaweed_41
+    400562: Seaweed_42
+    400564: Seaweed_46
+    400566: Seaweed_47
+    400568: Seaweed_48
+    400570: Seaweed_49
+    400572: Seaweed_5
+    400574: Seaweed_50
+    400576: Seaweed_51
+    400578: Seaweed_52
+    400580: Seaweed_53
+    400582: Seaweed_54
+    400584: Seaweed_55
+    400586: Seaweed_56
+    400588: Seaweed_57
+    400590: Seaweed_58
+    400592: Seaweed_59
+    400594: Seaweed_6
+    400596: Seaweed_60
+    400598: Seaweed_61
+    400600: Seaweed_62
+    400602: Seaweed_63
+    400604: Seaweed_66
+    400606: Seaweed_67
+    400608: Seaweed_68
+    400610: Seaweed_7
+    400612: Seaweed_71
+    400614: Seaweed_72
+    400616: Seaweed_73
+    400618: Seaweed_74
+    400620: Seaweed_75
+    400622: Seaweed_76
+    400624: Seaweed_77
+    400626: Seaweed_78
+    400628: Seaweed_79
+    400630: Seaweed_8
+    400632: Seaweed_80
+    400634: Seaweed_81
+    400636: Seaweed_82
+    400638: Seaweed_83
+    400640: Seaweed_84
+    400642: Seaweed_85
+    400644: Seaweed_86
+    400646: Seaweed_87
+    400648: Seaweed_88
+    400650: Seaweed_89
+    400652: Seaweed_90
+    400654: Seaweed_91
+    400656: Seaweed_92
+    400658: Seaweed_93
+    400660: Seaweed_94
+    400662: Seaweed_95
+    400664: Seaweed_96
+    400666: Seaweed_97
+    400668: Seaweed_99
+    400670: Ship_Back
+    400672: ship_Front
+    400674: ShipBack
+    400676: ShipFront
+    400678: Slabs_01
+    400680: Slabs_02
+    400682: Slabs_03
+    400684: Slabs_04
+    400686: Slabs_06
+    400688: Slabs_07
+    400690: Slabs_08
+    400692: spikeCoral_1
+    400694: spikeCoral_12
+    400696: spikeCoral_13
+    400698: spikeCoral_2
+    400700: spikeCoral_3
+    400702: spikeCoral_4
+    400704: spikeCoral_5
+    400706: spikeCoral_7
+    400708: spikeCoral_8
+    400710: spikeCoral_9
+    400712: Stackrocks_02
+    400714: Starfish_blue_01
+    400716: Starfish_blue_02
+    400718: Starfish_Yw_01
+    400720: Starfish_Yw_02
+    400722: Starfish_Yw_03
+    400724: Starfish_Yw_04
+    2300000: Anchor_01
+    2300002: ArchCliff_01
+    2300004: BootMountain_01
+    2300006: Bottle
+    2300008: Boulder_01
+    2300010: Boulder_02
+    2300012: Boulder_03
+    2300014: Boulder_04
+    2300016: Boulder_05
+    2300018: Boulder_06
+    2300020: Boulder_07
+    2300022: Boulder_08
+    2300024: Clam_Base
+    2300026: Clam_Base 1
+    2300028: Clam_Base 2
+    2300030: Clam_Top
+    2300032: Clam_Top 1
+    2300034: Clam_Top 2
+    2300036: ConeShell
+    2300038: Cork
+    2300040: Crab_01
+    2300042: Crab_02
+    2300044: Crate_01
+    2300046: Crate_02
+    2300048: Crate_03
+    2300050: Crate_04
+    2300052: Fish_01
+    2300054: Fish_02
+    2300056: Fish_03
+    2300058: Fish_04
+    2300060: GiantClamBot
+    2300062: GiantSnailShell
+    2300064: GreenCoral_01
+    2300066: GreenCoral_02
+    2300068: GreenCoral_03
+    2300070: GreenCoral_04
+    2300072: GreenCoral_06
+    2300074: GreenCoral_07
+    2300076: GreenCoral_08
+    2300078: GreenCoral_09
+    2300080: Mast01
+    2300082: Mast02
+    2300084: Mast03
+    2300086: PancakeSponge_1
+    2300088: PancakeSponge_10
+    2300090: PancakeSponge_2
+    2300092: PancakeSponge_3
+    2300094: PancakeSponge_4
+    2300096: PancakeSponge_5
+    2300098: PancakeSponge_6
+    2300100: PancakeSponge_7
+    2300102: PancakeSponge_8
+    2300104: PancakeSponge_9
+    2300106: Pearl
+    2300108: Pearl 1
+    2300110: Pearl 2
+    2300112: Pearl 3
+    2300114: Pearl 4
+    2300116: Pearl 5
+    2300118: Pearl 6
+    2300120: Pearl 7
+    2300122: PearlClam_Flesh
+    2300124: PearlClam_Flesh 1
+    2300126: PearlClam_Flesh 2
+    2300128: PearlClam_Flesh 3
+    2300130: PearlClam_Flesh 4
+    2300132: PearlClam_Flesh 5
+    2300134: PearlClam_Flesh 6
+    2300136: PearlClam_Flesh 7
+    2300138: PearlClam_Flesh 8
+    2300140: PearlClam_Flesh 9
+    2300142: PearlClam_Top
+    2300144: PearlClam_Top 1
+    2300146: PearlClam_Top 2
+    2300148: PearlClam_Top 3
+    2300150: PearlClam_Top 4
+    2300152: PearlClam_Top 5
+    2300154: PearlClam_Top 6
+    2300156: PearlClam_Top 7
+    2300158: PearlClam_Top 8
+    2300160: PearlClam_Top 9
+    2300162: Plank_01
+    2300164: Plank_02
+    2300166: PurpleSponge_01
+    2300168: PurpleSponge_02
+    2300170: PurpleSponge_03
+    2300172: PurpleSponge_04
+    2300174: PurpleSponge_05
+    2300176: PurpleSponge_06
+    2300178: PurpleSponge_07
+    2300180: PurpleSponge_08
+    2300182: PurpleSponge_09
+    2300184: PurpleSponge_1
+    2300186: PurpleSponge_1 1
+    2300188: PurpleSponge_1 2
+    2300190: PurpleSponge_2
+    2300192: PurpleSponge_2 1
+    2300194: PurpleSponge_2 2
+    2300196: PurpleSponge_3
+    2300198: PurpleSponge_3 1
+    2300200: PurpleSponge_3 2
+    2300202: PurpleSponge_4
+    2300204: PurpleSponge_4 1
+    2300206: PurpleSponge_4 2
+    2300208: PurpleSponge_5
+    2300210: PurpleSponge_5 1
+    2300212: PurpleSponge_5 2
+    2300214: PurpleSponge_6
+    2300216: PurpleSponge_6 1
+    2300218: PurpleSponge_6 2
+    2300220: PurpleSponge_7
+    2300222: PurpleSponge_7 1
+    2300224: PurpleSponge_7 2
+    2300226: PurpleSponge_8
+    2300228: PurpleSponge_8 1
+    2300230: PurpleSponge_8 2
+    2300232: redCoral_1
+    2300234: redCoral_2
+    2300236: redCoral_3
+    2300238: redCoral_4
+    2300240: redCoral_5
+    2300242: Rocks_01
+    2300244: Rocks_02
+    2300246: Rocks_03
+    2300248: Rocks_04
+    2300250: Rocks_05
+    2300252: Rocks_06
+    2300254: Rocks_07
+    2300256: Rocks_08
+    2300258: Rocks_09
+    2300260: Rocks_10
+    2300262: Rocks_11
+    2300264: Rocks_12
+    2300266: Rocks_13
+    2300268: Rocks_16
+    2300270: Rocks_17
+    2300272: Rocks_18
+    2300274: ScatteredRocks_1
+    2300276: ScatteredRocks_10
+    2300278: ScatteredRocks_11
+    2300280: ScatteredRocks_13
+    2300282: ScatteredRocks_14
+    2300284: ScatteredRocks_15
+    2300286: ScatteredRocks_16
+    2300288: ScatteredRocks_17
+    2300290: ScatteredRocks_18
+    2300292: ScatteredRocks_2
+    2300294: ScatteredRocks_20
+    2300296: ScatteredRocks_21
+    2300298: ScatteredRocks_22
+    2300300: ScatteredRocks_23
+    2300302: ScatteredRocks_24
+    2300304: ScatteredRocks_25
+    2300306: ScatteredRocks_26
+    2300308: ScatteredRocks_28
+    2300310: ScatteredRocks_29
+    2300312: ScatteredRocks_3
+    2300314: ScatteredRocks_30
+    2300316: ScatteredRocks_31
+    2300318: ScatteredRocks_32
+    2300320: ScatteredRocks_33
+    2300322: ScatteredRocks_34
+    2300324: ScatteredRocks_35
+    2300326: ScatteredRocks_36
+    2300328: ScatteredRocks_37
+    2300330: ScatteredRocks_38
+    2300332: ScatteredRocks_39
+    2300334: ScatteredRocks_4
+    2300336: ScatteredRocks_40
+    2300338: ScatteredRocks_41
+    2300340: ScatteredRocks_42
+    2300342: ScatteredRocks_43
+    2300344: ScatteredRocks_44
+    2300346: ScatteredRocks_45
+    2300348: ScatteredRocks_47
+    2300350: ScatteredRocks_48
+    2300352: ScatteredRocks_5
+    2300354: ScatteredRocks_50
+    2300356: ScatteredRocks_51
+    2300358: ScatteredRocks_52
+    2300360: ScatteredRocks_53
+    2300362: ScatteredRocks_54
+    2300364: ScatteredRocks_55
+    2300366: ScatteredRocks_56
+    2300368: ScatteredRocks_57
+    2300370: ScatteredRocks_62
+    2300372: ScatteredRocks_63
+    2300374: ScatteredRocks_64
+    2300376: ScatteredRocks_65
+    2300378: ScatteredRocks_66
+    2300380: ScatteredRocks_67
+    2300382: ScatteredRocks_68
+    2300384: ScatteredRocks_69
+    2300386: ScatteredRocks_70
+    2300388: ScatteredRocks_8
+    2300390: ScatteredRocks_9
+    2300392: Scroll
+    2300394: Seahorse
+    2300396: SeaSponge_01
+    2300398: SeaSponge_02
+    2300400: SeaSponge_03
+    2300402: SeaspongeRock
+    2300404: SeaspongeRock 1
+    2300406: SeaspongeRock 2
+    2300408: SeaspongeRock 3
+    2300410: Seaweed_1
+    2300412: Seaweed_10
+    2300414: Seaweed_101
+    2300416: Seaweed_106
+    2300418: Seaweed_107
+    2300420: Seaweed_108
+    2300422: Seaweed_109
+    2300424: Seaweed_11
+    2300426: Seaweed_110
+    2300428: Seaweed_111
+    2300430: Seaweed_112
+    2300432: Seaweed_113
+    2300434: Seaweed_114
+    2300436: Seaweed_115
+    2300438: Seaweed_116
+    2300440: Seaweed_117
+    2300442: Seaweed_118
+    2300444: Seaweed_119
+    2300446: Seaweed_12
+    2300448: Seaweed_120
+    2300450: Seaweed_121
+    2300452: Seaweed_127
+    2300454: Seaweed_128
+    2300456: Seaweed_129
+    2300458: Seaweed_130
+    2300460: Seaweed_131
+    2300462: Seaweed_132
+    2300464: Seaweed_133
+    2300466: Seaweed_134
+    2300468: Seaweed_135
+    2300470: Seaweed_14
+    2300472: Seaweed_15
+    2300474: Seaweed_16
+    2300476: Seaweed_17
+    2300478: Seaweed_18
+    2300480: Seaweed_19
+    2300482: Seaweed_2
+    2300484: Seaweed_20
+    2300486: Seaweed_21
+    2300488: Seaweed_22
+    2300490: Seaweed_23
+    2300492: Seaweed_25
+    2300494: Seaweed_26
+    2300496: Seaweed_27
+    2300498: Seaweed_28
+    2300500: Seaweed_29
+    2300502: Seaweed_3
+    2300504: Seaweed_30
+    2300506: Seaweed_32
+    2300508: Seaweed_33
+    2300510: Seaweed_35
+    2300512: Seaweed_36
+    2300514: Seaweed_38
+    2300516: Seaweed_39
+    2300518: Seaweed_4
+    2300520: Seaweed_40
+    2300522: Seaweed_41
+    2300524: Seaweed_42
+    2300526: Seaweed_46
+    2300528: Seaweed_47
+    2300530: Seaweed_48
+    2300532: Seaweed_49
+    2300534: Seaweed_5
+    2300536: Seaweed_50
+    2300538: Seaweed_51
+    2300540: Seaweed_52
+    2300542: Seaweed_53
+    2300544: Seaweed_54
+    2300546: Seaweed_55
+    2300548: Seaweed_56
+    2300550: Seaweed_57
+    2300552: Seaweed_58
+    2300554: Seaweed_59
+    2300556: Seaweed_6
+    2300558: Seaweed_60
+    2300560: Seaweed_61
+    2300562: Seaweed_62
+    2300564: Seaweed_63
+    2300566: Seaweed_66
+    2300568: Seaweed_67
+    2300570: Seaweed_68
+    2300572: Seaweed_7
+    2300574: Seaweed_71
+    2300576: Seaweed_72
+    2300578: Seaweed_73
+    2300580: Seaweed_74
+    2300582: Seaweed_75
+    2300584: Seaweed_76
+    2300586: Seaweed_77
+    2300588: Seaweed_78
+    2300590: Seaweed_79
+    2300592: Seaweed_8
+    2300594: Seaweed_80
+    2300596: Seaweed_81
+    2300598: Seaweed_82
+    2300600: Seaweed_83
+    2300602: Seaweed_84
+    2300604: Seaweed_85
+    2300606: Seaweed_86
+    2300608: Seaweed_87
+    2300610: Seaweed_88
+    2300612: Seaweed_89
+    2300614: Seaweed_90
+    2300616: Seaweed_91
+    2300618: Seaweed_92
+    2300620: Seaweed_93
+    2300622: Seaweed_94
+    2300624: Seaweed_95
+    2300626: Seaweed_96
+    2300628: Seaweed_97
+    2300630: Seaweed_99
+    2300632: ShipBack
+    2300634: ShipFront
+    2300636: Slabs_01
+    2300638: Slabs_02
+    2300640: Slabs_03
+    2300642: Slabs_04
+    2300644: Slabs_06
+    2300646: Slabs_07
+    2300648: Slabs_08
+    2300650: spikeCoral_1
+    2300652: spikeCoral_12
+    2300654: spikeCoral_13
+    2300656: spikeCoral_2
+    2300658: spikeCoral_3
+    2300660: spikeCoral_4
+    2300662: spikeCoral_5
+    2300664: spikeCoral_7
+    2300666: spikeCoral_8
+    2300668: spikeCoral_9
+    2300670: Stackrocks_02
+    2300672: Starfish_blue_01
+    2300674: Starfish_blue_02
+    2300676: Starfish_Yw_01
+    2300678: Starfish_Yw_02
+    2300680: Starfish_Yw_03
+    2300682: Starfish_Yw_04
+    3300000: Anchor_01
+    3300002: ArchCliff_01
+    3300004: BootMountain_01
+    3300006: Bottle
+    3300008: Boulder_01
+    3300010: Boulder_02
+    3300012: Boulder_03
+    3300014: Boulder_04
+    3300016: Boulder_05
+    3300018: Boulder_06
+    3300020: Boulder_07
+    3300022: Boulder_08
+    3300024: Clam_Base
+    3300026: Clam_Base 1
+    3300028: Clam_Base 2
+    3300030: Clam_Top
+    3300032: Clam_Top 1
+    3300034: Clam_Top 2
+    3300036: ConeShell
+    3300038: Cork
+    3300040: Crab_01
+    3300042: Crab_02
+    3300044: Crate_01
+    3300046: Crate_02
+    3300048: Crate_03
+    3300050: Crate_04
+    3300052: Fish_01
+    3300054: Fish_02
+    3300056: Fish_03
+    3300058: Fish_04
+    3300060: GiantClamBot
+    3300062: GiantSnailShell
+    3300064: GreenCoral_01
+    3300066: GreenCoral_02
+    3300068: GreenCoral_03
+    3300070: GreenCoral_04
+    3300072: GreenCoral_06
+    3300074: GreenCoral_07
+    3300076: GreenCoral_08
+    3300078: GreenCoral_09
+    3300080: Mast01
+    3300082: Mast02
+    3300084: Mast03
+    3300086: PancakeSponge_1
+    3300088: PancakeSponge_10
+    3300090: PancakeSponge_2
+    3300092: PancakeSponge_3
+    3300094: PancakeSponge_4
+    3300096: PancakeSponge_5
+    3300098: PancakeSponge_6
+    3300100: PancakeSponge_7
+    3300102: PancakeSponge_8
+    3300104: PancakeSponge_9
+    3300106: Pearl
+    3300108: Pearl 1
+    3300110: Pearl 2
+    3300112: Pearl 3
+    3300114: Pearl 4
+    3300116: Pearl 5
+    3300118: Pearl 6
+    3300120: Pearl 7
+    3300122: PearlClam_Flesh
+    3300124: PearlClam_Flesh 1
+    3300126: PearlClam_Flesh 2
+    3300128: PearlClam_Flesh 3
+    3300130: PearlClam_Flesh 4
+    3300132: PearlClam_Flesh 5
+    3300134: PearlClam_Flesh 6
+    3300136: PearlClam_Flesh 7
+    3300138: PearlClam_Flesh 8
+    3300140: PearlClam_Flesh 9
+    3300142: PearlClam_Top
+    3300144: PearlClam_Top 1
+    3300146: PearlClam_Top 2
+    3300148: PearlClam_Top 3
+    3300150: PearlClam_Top 4
+    3300152: PearlClam_Top 5
+    3300154: PearlClam_Top 6
+    3300156: PearlClam_Top 7
+    3300158: PearlClam_Top 8
+    3300160: PearlClam_Top 9
+    3300162: Plank_01
+    3300164: Plank_02
+    3300166: PurpleSponge_01
+    3300168: PurpleSponge_02
+    3300170: PurpleSponge_03
+    3300172: PurpleSponge_04
+    3300174: PurpleSponge_05
+    3300176: PurpleSponge_06
+    3300178: PurpleSponge_07
+    3300180: PurpleSponge_08
+    3300182: PurpleSponge_09
+    3300184: PurpleSponge_1
+    3300186: PurpleSponge_1 1
+    3300188: PurpleSponge_1 2
+    3300190: PurpleSponge_2
+    3300192: PurpleSponge_2 1
+    3300194: PurpleSponge_2 2
+    3300196: PurpleSponge_3
+    3300198: PurpleSponge_3 1
+    3300200: PurpleSponge_3 2
+    3300202: PurpleSponge_4
+    3300204: PurpleSponge_4 1
+    3300206: PurpleSponge_4 2
+    3300208: PurpleSponge_5
+    3300210: PurpleSponge_5 1
+    3300212: PurpleSponge_5 2
+    3300214: PurpleSponge_6
+    3300216: PurpleSponge_6 1
+    3300218: PurpleSponge_6 2
+    3300220: PurpleSponge_7
+    3300222: PurpleSponge_7 1
+    3300224: PurpleSponge_7 2
+    3300226: PurpleSponge_8
+    3300228: PurpleSponge_8 1
+    3300230: PurpleSponge_8 2
+    3300232: redCoral_1
+    3300234: redCoral_2
+    3300236: redCoral_3
+    3300238: redCoral_4
+    3300240: redCoral_5
+    3300242: Rocks_01
+    3300244: Rocks_02
+    3300246: Rocks_03
+    3300248: Rocks_04
+    3300250: Rocks_05
+    3300252: Rocks_06
+    3300254: Rocks_07
+    3300256: Rocks_08
+    3300258: Rocks_09
+    3300260: Rocks_10
+    3300262: Rocks_11
+    3300264: Rocks_12
+    3300266: Rocks_13
+    3300268: Rocks_16
+    3300270: Rocks_17
+    3300272: Rocks_18
+    3300274: ScatteredRocks_1
+    3300276: ScatteredRocks_10
+    3300278: ScatteredRocks_11
+    3300280: ScatteredRocks_13
+    3300282: ScatteredRocks_14
+    3300284: ScatteredRocks_15
+    3300286: ScatteredRocks_16
+    3300288: ScatteredRocks_17
+    3300290: ScatteredRocks_18
+    3300292: ScatteredRocks_2
+    3300294: ScatteredRocks_20
+    3300296: ScatteredRocks_21
+    3300298: ScatteredRocks_22
+    3300300: ScatteredRocks_23
+    3300302: ScatteredRocks_24
+    3300304: ScatteredRocks_25
+    3300306: ScatteredRocks_26
+    3300308: ScatteredRocks_28
+    3300310: ScatteredRocks_29
+    3300312: ScatteredRocks_3
+    3300314: ScatteredRocks_30
+    3300316: ScatteredRocks_31
+    3300318: ScatteredRocks_32
+    3300320: ScatteredRocks_33
+    3300322: ScatteredRocks_34
+    3300324: ScatteredRocks_35
+    3300326: ScatteredRocks_36
+    3300328: ScatteredRocks_37
+    3300330: ScatteredRocks_38
+    3300332: ScatteredRocks_39
+    3300334: ScatteredRocks_4
+    3300336: ScatteredRocks_40
+    3300338: ScatteredRocks_41
+    3300340: ScatteredRocks_42
+    3300342: ScatteredRocks_43
+    3300344: ScatteredRocks_44
+    3300346: ScatteredRocks_45
+    3300348: ScatteredRocks_47
+    3300350: ScatteredRocks_48
+    3300352: ScatteredRocks_5
+    3300354: ScatteredRocks_50
+    3300356: ScatteredRocks_51
+    3300358: ScatteredRocks_52
+    3300360: ScatteredRocks_53
+    3300362: ScatteredRocks_54
+    3300364: ScatteredRocks_55
+    3300366: ScatteredRocks_56
+    3300368: ScatteredRocks_57
+    3300370: ScatteredRocks_62
+    3300372: ScatteredRocks_63
+    3300374: ScatteredRocks_64
+    3300376: ScatteredRocks_65
+    3300378: ScatteredRocks_66
+    3300380: ScatteredRocks_67
+    3300382: ScatteredRocks_68
+    3300384: ScatteredRocks_69
+    3300386: ScatteredRocks_70
+    3300388: ScatteredRocks_8
+    3300390: ScatteredRocks_9
+    3300392: Scroll
+    3300394: Seahorse
+    3300396: SeaSponge_01
+    3300398: SeaSponge_02
+    3300400: SeaSponge_03
+    3300402: SeaspongeRock
+    3300404: SeaspongeRock 1
+    3300406: SeaspongeRock 2
+    3300408: SeaspongeRock 3
+    3300410: Seaweed_1
+    3300412: Seaweed_10
+    3300414: Seaweed_101
+    3300416: Seaweed_106
+    3300418: Seaweed_107
+    3300420: Seaweed_108
+    3300422: Seaweed_109
+    3300424: Seaweed_11
+    3300426: Seaweed_110
+    3300428: Seaweed_111
+    3300430: Seaweed_112
+    3300432: Seaweed_113
+    3300434: Seaweed_114
+    3300436: Seaweed_115
+    3300438: Seaweed_116
+    3300440: Seaweed_117
+    3300442: Seaweed_118
+    3300444: Seaweed_119
+    3300446: Seaweed_12
+    3300448: Seaweed_120
+    3300450: Seaweed_121
+    3300452: Seaweed_127
+    3300454: Seaweed_128
+    3300456: Seaweed_129
+    3300458: Seaweed_130
+    3300460: Seaweed_131
+    3300462: Seaweed_132
+    3300464: Seaweed_133
+    3300466: Seaweed_134
+    3300468: Seaweed_135
+    3300470: Seaweed_14
+    3300472: Seaweed_15
+    3300474: Seaweed_16
+    3300476: Seaweed_17
+    3300478: Seaweed_18
+    3300480: Seaweed_19
+    3300482: Seaweed_2
+    3300484: Seaweed_20
+    3300486: Seaweed_21
+    3300488: Seaweed_22
+    3300490: Seaweed_23
+    3300492: Seaweed_25
+    3300494: Seaweed_26
+    3300496: Seaweed_27
+    3300498: Seaweed_28
+    3300500: Seaweed_29
+    3300502: Seaweed_3
+    3300504: Seaweed_30
+    3300506: Seaweed_32
+    3300508: Seaweed_33
+    3300510: Seaweed_35
+    3300512: Seaweed_36
+    3300514: Seaweed_38
+    3300516: Seaweed_39
+    3300518: Seaweed_4
+    3300520: Seaweed_40
+    3300522: Seaweed_41
+    3300524: Seaweed_42
+    3300526: Seaweed_46
+    3300528: Seaweed_47
+    3300530: Seaweed_48
+    3300532: Seaweed_49
+    3300534: Seaweed_5
+    3300536: Seaweed_50
+    3300538: Seaweed_51
+    3300540: Seaweed_52
+    3300542: Seaweed_53
+    3300544: Seaweed_54
+    3300546: Seaweed_55
+    3300548: Seaweed_56
+    3300550: Seaweed_57
+    3300552: Seaweed_58
+    3300554: Seaweed_59
+    3300556: Seaweed_6
+    3300558: Seaweed_60
+    3300560: Seaweed_61
+    3300562: Seaweed_62
+    3300564: Seaweed_63
+    3300566: Seaweed_66
+    3300568: Seaweed_67
+    3300570: Seaweed_68
+    3300572: Seaweed_7
+    3300574: Seaweed_71
+    3300576: Seaweed_72
+    3300578: Seaweed_73
+    3300580: Seaweed_74
+    3300582: Seaweed_75
+    3300584: Seaweed_76
+    3300586: Seaweed_77
+    3300588: Seaweed_78
+    3300590: Seaweed_79
+    3300592: Seaweed_8
+    3300594: Seaweed_80
+    3300596: Seaweed_81
+    3300598: Seaweed_82
+    3300600: Seaweed_83
+    3300602: Seaweed_84
+    3300604: Seaweed_85
+    3300606: Seaweed_86
+    3300608: Seaweed_87
+    3300610: Seaweed_88
+    3300612: Seaweed_89
+    3300614: Seaweed_90
+    3300616: Seaweed_91
+    3300618: Seaweed_92
+    3300620: Seaweed_93
+    3300622: Seaweed_94
+    3300624: Seaweed_95
+    3300626: Seaweed_96
+    3300628: Seaweed_97
+    3300630: Seaweed_99
+    3300632: ShipBack
+    3300634: ShipFront
+    3300636: Slabs_01
+    3300638: Slabs_02
+    3300640: Slabs_03
+    3300642: Slabs_04
+    3300644: Slabs_06
+    3300646: Slabs_07
+    3300648: Slabs_08
+    3300650: spikeCoral_1
+    3300652: spikeCoral_12
+    3300654: spikeCoral_13
+    3300656: spikeCoral_2
+    3300658: spikeCoral_3
+    3300660: spikeCoral_4
+    3300662: spikeCoral_5
+    3300664: spikeCoral_7
+    3300666: spikeCoral_8
+    3300668: spikeCoral_9
+    3300670: Stackrocks_02
+    3300672: Starfish_blue_01
+    3300674: Starfish_blue_02
+    3300676: Starfish_Yw_01
+    3300678: Starfish_Yw_02
+    3300680: Starfish_Yw_03
+    3300682: Starfish_Yw_04
+    4300000: PearlClam_Top
+    4300002: Pearl
+    4300004: PearlClam_Flesh
+    4300006: GiantClamBot
+    4300008: Cork
+    4300010: Bottle
+    4300012: Scroll
+    4300014: PearlClam_Top
+    4300016: PearlClam_Flesh
+    4300018: PearlClam_Top
+    4300020: Pearl
+    4300022: PearlClam_Flesh
+    4300024: PearlClam_Top
+    4300026: PearlClam_Flesh
+    4300028: PearlClam_Top
+    4300030: Pearl
+    4300032: PearlClam_Flesh
+    4300034: PearlClam_Top
+    4300036: Pearl
+    4300038: PearlClam_Flesh
+    4300040: PearlClam_Top
+    4300042: Pearl
+    4300044: PearlClam_Flesh
+    4300046: PearlClam_Top
+    4300048: Pearl
+    4300050: PearlClam_Flesh
+    4300052: PearlClam_Top
+    4300054: Pearl
+    4300056: PearlClam_Flesh
+    4300058: PearlClam_Top
+    4300060: Pearl
+    4300062: PearlClam_Flesh
+    4300064: Clam_Top
+    4300066: Clam_Base
+    4300068: Clam_Top
+    4300070: Clam_Base
+    4300072: Clam_Top
+    4300074: Clam_Base
+    4300076: SeaspongeRock
+    4300078: PurpleSponge_8
+    4300080: PurpleSponge_7
+    4300082: PurpleSponge_6
+    4300084: PurpleSponge_5
+    4300086: PurpleSponge_4
+    4300088: PurpleSponge_3
+    4300090: PurpleSponge_2
+    4300092: PurpleSponge_1
+    4300094: SeaspongeRock
+    4300096: PurpleSponge_09
+    4300098: PurpleSponge_08
+    4300100: PurpleSponge_07
+    4300102: PurpleSponge_06
+    4300104: PurpleSponge_05
+    4300106: PurpleSponge_04
+    4300108: PurpleSponge_03
+    4300110: PurpleSponge_02
+    4300112: PurpleSponge_01
+    4300114: SeaspongeRock
+    4300116: PurpleSponge_8
+    4300118: PurpleSponge_7
+    4300120: PurpleSponge_6
+    4300122: PurpleSponge_5
+    4300124: PurpleSponge_4
+    4300126: PurpleSponge_3
+    4300128: PurpleSponge_2
+    4300130: PurpleSponge_1
+    4300132: SeaspongeRock
+    4300134: PurpleSponge_8
+    4300136: PurpleSponge_7
+    4300138: PurpleSponge_6
+    4300140: PurpleSponge_5
+    4300142: PurpleSponge_4
+    4300144: PurpleSponge_3
+    4300146: PurpleSponge_2
+    4300148: PurpleSponge_1
+    4300150: GiantSnailShell
+    4300152: Fish_04
+    4300154: Fish_03
+    4300156: Seahorse
+    4300158: Crab_02
+    4300160: Crab_01
+    4300162: Fish_02
+    4300164: Fish_01
+    4300166: Starfish_Yw_04
+    4300168: Starfish_blue_02
+    4300170: Starfish_Yw_03
+    4300172: Starfish_Yw_02
+    4300174: Starfish_blue_01
+    4300176: Starfish_Yw_01
+    4300178: ConeShell
+    4300180: Mast01
+    4300182: ShipFront
+    4300184: Mast02
+    4300186: ShipBack
+    4300188: Mast03
+    4300190: Plank_01
+    4300192: Plank_02
+    4300194: Anchor_01
+    4300196: Crate_04
+    4300198: Crate_03
+    4300200: Crate_02
+    4300202: Crate_01
+    4300204: BootMountain_01
+    4300206: Stackrocks_02
+    4300208: ArchCliff_01
+    4300210: PancakeSponge_10
+    4300212: PancakeSponge_9
+    4300214: PancakeSponge_8
+    4300216: PancakeSponge_7
+    4300218: PancakeSponge_6
+    4300220: PancakeSponge_5
+    4300222: PancakeSponge_4
+    4300224: PancakeSponge_3
+    4300226: PancakeSponge_2
+    4300228: PancakeSponge_1
+    4300230: Boulder_07
+    4300232: Boulder_08
+    4300234: Slabs_08
+    4300236: Slabs_07
+    4300238: Slabs_06
+    4300240: Slabs_04
+    4300242: Slabs_03
+    4300244: Slabs_02
+    4300246: Slabs_01
+    4300248: redCoral_5
+    4300250: redCoral_4
+    4300252: redCoral_3
+    4300254: redCoral_2
+    4300256: redCoral_1
+    4300258: spikeCoral_13
+    4300260: spikeCoral_12
+    4300262: spikeCoral_9
+    4300264: spikeCoral_8
+    4300266: spikeCoral_7
+    4300268: spikeCoral_5
+    4300270: spikeCoral_4
+    4300272: spikeCoral_3
+    4300274: spikeCoral_2
+    4300276: spikeCoral_1
+    4300278: SeaSponge_03
+    4300280: SeaSponge_02
+    4300282: SeaSponge_01
+    4300284: GreenCoral_01
+    4300286: GreenCoral_02
+    4300288: GreenCoral_03
+    4300290: GreenCoral_04
+    4300292: GreenCoral_06
+    4300294: GreenCoral_07
+    4300296: GreenCoral_08
+    4300298: GreenCoral_09
+    4300300: Rocks_18
+    4300302: Rocks_17
+    4300304: Rocks_16
+    4300306: Rocks_13
+    4300308: Rocks_12
+    4300310: Rocks_11
+    4300312: Rocks_10
+    4300314: Rocks_09
+    4300316: Rocks_08
+    4300318: Rocks_07
+    4300320: Rocks_06
+    4300322: Rocks_05
+    4300324: Rocks_04
+    4300326: Rocks_03
+    4300328: Rocks_02
+    4300330: Rocks_01
+    4300332: Boulder_06
+    4300334: Boulder_05
+    4300336: Boulder_04
+    4300338: Boulder_03
+    4300340: Boulder_02
+    4300342: Boulder_01
+    4300344: ScatteredRocks_1
+    4300346: ScatteredRocks_2
+    4300348: ScatteredRocks_3
+    4300350: ScatteredRocks_4
+    4300352: ScatteredRocks_5
+    4300354: ScatteredRocks_8
+    4300356: ScatteredRocks_9
+    4300358: ScatteredRocks_10
+    4300360: ScatteredRocks_11
+    4300362: ScatteredRocks_13
+    4300364: ScatteredRocks_14
+    4300366: ScatteredRocks_15
+    4300368: ScatteredRocks_16
+    4300370: ScatteredRocks_17
+    4300372: ScatteredRocks_18
+    4300374: ScatteredRocks_20
+    4300376: ScatteredRocks_21
+    4300378: ScatteredRocks_22
+    4300380: ScatteredRocks_23
+    4300382: ScatteredRocks_24
+    4300384: ScatteredRocks_25
+    4300386: ScatteredRocks_26
+    4300388: ScatteredRocks_28
+    4300390: ScatteredRocks_29
+    4300392: ScatteredRocks_30
+    4300394: ScatteredRocks_31
+    4300396: ScatteredRocks_32
+    4300398: ScatteredRocks_33
+    4300400: ScatteredRocks_34
+    4300402: ScatteredRocks_35
+    4300404: ScatteredRocks_36
+    4300406: ScatteredRocks_37
+    4300408: ScatteredRocks_38
+    4300410: ScatteredRocks_39
+    4300412: ScatteredRocks_40
+    4300414: ScatteredRocks_41
+    4300416: ScatteredRocks_42
+    4300418: ScatteredRocks_43
+    4300420: ScatteredRocks_44
+    4300422: ScatteredRocks_45
+    4300424: ScatteredRocks_47
+    4300426: ScatteredRocks_48
+    4300428: ScatteredRocks_50
+    4300430: ScatteredRocks_51
+    4300432: ScatteredRocks_52
+    4300434: ScatteredRocks_53
+    4300436: ScatteredRocks_54
+    4300438: ScatteredRocks_55
+    4300440: ScatteredRocks_56
+    4300442: ScatteredRocks_57
+    4300444: ScatteredRocks_63
+    4300446: ScatteredRocks_65
+    4300448: ScatteredRocks_64
+    4300450: ScatteredRocks_62
+    4300452: ScatteredRocks_66
+    4300454: ScatteredRocks_67
+    4300456: ScatteredRocks_68
+    4300458: ScatteredRocks_69
+    4300460: ScatteredRocks_70
+    4300462: Seaweed_1
+    4300464: Seaweed_2
+    4300466: Seaweed_3
+    4300468: Seaweed_4
+    4300470: Seaweed_5
+    4300472: Seaweed_6
+    4300474: Seaweed_7
+    4300476: Seaweed_8
+    4300478: Seaweed_10
+    4300480: Seaweed_11
+    4300482: Seaweed_12
+    4300484: Seaweed_14
+    4300486: Seaweed_15
+    4300488: Seaweed_16
+    4300490: Seaweed_17
+    4300492: Seaweed_18
+    4300494: Seaweed_19
+    4300496: Seaweed_20
+    4300498: Seaweed_21
+    4300500: Seaweed_22
+    4300502: Seaweed_23
+    4300504: Seaweed_25
+    4300506: Seaweed_26
+    4300508: Seaweed_27
+    4300510: Seaweed_28
+    4300512: Seaweed_29
+    4300514: Seaweed_30
+    4300516: Seaweed_32
+    4300518: Seaweed_33
+    4300520: Seaweed_35
+    4300522: Seaweed_36
+    4300524: Seaweed_38
+    4300526: Seaweed_39
+    4300528: Seaweed_40
+    4300530: Seaweed_41
+    4300532: Seaweed_42
+    4300534: Seaweed_46
+    4300536: Seaweed_47
+    4300538: Seaweed_48
+    4300540: Seaweed_49
+    4300542: Seaweed_50
+    4300544: Seaweed_51
+    4300546: Seaweed_52
+    4300548: Seaweed_53
+    4300550: Seaweed_54
+    4300552: Seaweed_55
+    4300554: Seaweed_56
+    4300556: Seaweed_57
+    4300558: Seaweed_58
+    4300560: Seaweed_59
+    4300562: Seaweed_60
+    4300564: Seaweed_61
+    4300566: Seaweed_62
+    4300568: Seaweed_63
+    4300570: Seaweed_66
+    4300572: Seaweed_67
+    4300574: Seaweed_68
+    4300576: Seaweed_71
+    4300578: Seaweed_72
+    4300580: Seaweed_73
+    4300582: Seaweed_74
+    4300584: Seaweed_75
+    4300586: Seaweed_76
+    4300588: Seaweed_77
+    4300590: Seaweed_78
+    4300592: Seaweed_79
+    4300594: Seaweed_80
+    4300596: Seaweed_81
+    4300598: Seaweed_82
+    4300600: Seaweed_83
+    4300602: Seaweed_84
+    4300604: Seaweed_85
+    4300606: Seaweed_86
+    4300608: Seaweed_87
+    4300610: Seaweed_88
+    4300612: Seaweed_89
+    4300614: Seaweed_90
+    4300616: Seaweed_91
+    4300618: Seaweed_92
+    4300620: Seaweed_93
+    4300622: Seaweed_94
+    4300624: Seaweed_95
+    4300626: Seaweed_96
+    4300628: Seaweed_97
+    4300630: Seaweed_99
+    4300632: Seaweed_101
+    4300634: Seaweed_106
+    4300636: Seaweed_107
+    4300638: Seaweed_108
+    4300640: Seaweed_109
+    4300642: Seaweed_110
+    4300644: Seaweed_111
+    4300646: Seaweed_112
+    4300648: Seaweed_113
+    4300650: Seaweed_114
+    4300652: Seaweed_115
+    4300654: Seaweed_116
+    4300656: Seaweed_117
+    4300658: Seaweed_118
+    4300660: Seaweed_119
+    4300662: Seaweed_120
+    4300664: Seaweed_121
+    4300666: Seaweed_134
+    4300668: Seaweed_135
+    4300670: Seaweed_133
+    4300672: Seaweed_127
+    4300674: Seaweed_128
+    4300676: Seaweed_129
+    4300678: Seaweed_130
+    4300680: Seaweed_131
+    4300682: Seaweed_132
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,943 @@
+fileFormatVersion: 2
+guid: 4d07e64b8ce54b14db15df1cc09b2c20
+timeCreated: 1455521462
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Airplane Body
+    100002: Bear_Body
+    100004: Bear_Eyes
+    100006: Bear_Head
+    100008: Bear_Tail
+    100010: BlackBoard
+    100012: Bone_ArmFK00_L
+    100014: Bone_ArmFK00_L 1
+    100016: Bone_ArmFK00_R
+    100018: Bone_ArmFK00_R 1
+    100020: Bone_ArmFK01_L
+    100022: Bone_ArmFK01_L 1
+    100024: Bone_ArmFK01_R
+    100026: Bone_ArmFK01_R 1
+    100028: Bone_ArmIK00_L
+    100030: Bone_ArmIK00_L 1
+    100032: Bone_ArmIK00_R
+    100034: Bone_ArmIK00_R 1
+    100036: Bone_ArmIK01_L
+    100038: Bone_ArmIK01_L 1
+    100040: Bone_ArmIK01_R
+    100042: Bone_ArmIK01_R 1
+    100044: Bone_ArmSk00_L
+    100046: Bone_ArmSk00_L 1
+    100048: Bone_ArmSk00_R
+    100050: Bone_ArmSk00_R 1
+    100052: Bone_ArmSk01_L
+    100054: Bone_ArmSk01_L 1
+    100056: Bone_ArmSk01_R
+    100058: Bone_ArmSk01_R 1
+    100060: Bone_Clavicle_L
+    100062: Bone_Clavicle_L 1
+    100064: Bone_Clavicle_R
+    100066: Bone_Clavicle_R 1
+    100068: Bone_COG
+    100070: Bone_COG 1
+    100072: Bone_Finger00_L
+    100074: Bone_Finger00_L 1
+    100076: Bone_Finger00_R
+    100078: Bone_Finger00_R 1
+    100080: Bone_FingerEnd_L
+    100082: Bone_FingerEnd_L 1
+    100084: Bone_FingerEnd_R
+    100086: Bone_FingerEnd_R 1
+    100088: Bone_FootFK_L
+    100090: Bone_FootFK_L 1
+    100092: Bone_FootFK_R
+    100094: Bone_FootFK_R 1
+    100096: Bone_FootIK_L
+    100098: Bone_FootIK_L 1
+    100100: Bone_FootIK_R
+    100102: Bone_FootIK_R 1
+    100104: Bone_FootSk_L
+    100106: Bone_FootSk_L 1
+    100108: Bone_FootSk_R
+    100110: Bone_FootSk_R 1
+    100112: Bone_HandFK_L
+    100114: Bone_HandFK_L 1
+    100116: Bone_HandFK_R
+    100118: Bone_HandFK_R 1
+    100120: Bone_HandIK_L
+    100122: Bone_HandIK_L 1
+    100124: Bone_HandIK_R
+    100126: Bone_HandIK_R 1
+    100128: Bone_HandSk_L
+    100130: Bone_HandSk_L 1
+    100132: Bone_HandSk_R
+    100134: Bone_HandSk_R 1
+    100136: Bone_Head
+    100138: Bone_Head 1
+    100140: Bone_HeadEnd
+    100142: Bone_HeadEnd 1
+    100144: Bone_Hip
+    100146: Bone_Hip 1
+    100148: Bone_LegEnd_L
+    100150: Bone_LegEnd_L 1
+    100152: Bone_LegEnd_R
+    100154: Bone_LegEnd_R 1
+    100156: Bone_LegFK00_L
+    100158: Bone_LegFK00_L 1
+    100160: Bone_LegFK00_R
+    100162: Bone_LegFK00_R 1
+    100164: Bone_LegFK01_L
+    100166: Bone_LegFK01_L 1
+    100168: Bone_LegFK01_R
+    100170: Bone_LegFK01_R 1
+    100172: Bone_LegFKEnd_L
+    100174: Bone_LegFKEnd_L 1
+    100176: Bone_LegFKEnd_R
+    100178: Bone_LegFKEnd_R 1
+    100180: Bone_LegIK00_L
+    100182: Bone_LegIK00_L 1
+    100184: Bone_LegIK00_R
+    100186: Bone_LegIK00_R 1
+    100188: Bone_LegIK01_L
+    100190: Bone_LegIK01_L 1
+    100192: Bone_LegIK01_R
+    100194: Bone_LegIK01_R 1
+    100196: Bone_LegIKEnd_L
+    100198: Bone_LegIKEnd_L 1
+    100200: Bone_LegIKEnd_R
+    100202: Bone_LegIKEnd_R 1
+    100204: Bone_LegSk00_L
+    100206: Bone_LegSk00_L 1
+    100208: Bone_LegSk00_R
+    100210: Bone_LegSk00_R 1
+    100212: Bone_LegSk01_L
+    100214: Bone_LegSk01_L 1
+    100216: Bone_LegSk01_R
+    100218: Bone_LegSk01_R 1
+    100220: Bone_Spine00
+    100222: Bone_Spine00 1
+    100224: Bone_Spine01
+    100226: Bone_Spine01 1
+    100228: Bone_Tail00
+    100230: Bone_Tail00 1
+    100232: Bone_TailEnd
+    100234: Bone_TailEnd 1
+    100236: Bone_Thumb00_L
+    100238: Bone_Thumb00_L 1
+    100240: Bone_Thumb00_R
+    100242: Bone_Thumb00_R 1
+    100244: Bone_ThumbEnd_L
+    100246: Bone_ThumbEnd_L 1
+    100248: Bone_ThumbEnd_R
+    100250: Bone_ThumbEnd_R 1
+    100252: Box001
+    100254: Box001 1
+    100256: Box002
+    100258: Box003
+    100260: Box004
+    100262: Box005
+    100264: Cabinet_05
+    100266: Camera001
+    100268: Camera001.Target
+    100270: ChalkBoard
+    100272: CoffeeTable
+    100274: Ctrl_COG
+    100276: Ctrl_Finger_L
+    100278: Ctrl_Finger_R
+    100280: Ctrl_FK_Arm00_L
+    100282: Ctrl_FK_Arm00_R
+    100284: Ctrl_FK_Arm01_R
+    100286: Ctrl_FK_Arm02_L
+    100288: Ctrl_FK_Hand_L
+    100290: Ctrl_FK_Hand_R
+    100292: Ctrl_FootFK_L
+    100294: Ctrl_FootFK_R
+    100296: Ctrl_Head
+    100298: Ctrl_HeelBall_L
+    100300: Ctrl_HeelBall_R
+    100302: Ctrl_Hip
+    100304: Ctrl_IK_Elbow_L
+    100306: Ctrl_IK_Elbow_R
+    100308: Ctrl_IK_Foot_L
+    100310: Ctrl_IK_Foot_R
+    100312: Ctrl_IK_Hand_L
+    100314: Ctrl_IK_Hand_R
+    100316: Ctrl_IK_Knee_L
+    100318: Ctrl_IK_Knee_R
+    100320: Ctrl_LegFK00_L
+    100322: Ctrl_LegFK00_R
+    100324: Ctrl_LegFK01_L
+    100326: Ctrl_LegFK01_R
+    100328: Ctrl_Master
+    100330: Ctrl_Shoulder_L
+    100332: Ctrl_Shoulder_R
+    100334: Ctrl_Spine00
+    100336: Ctrl_Spine001
+    100338: Ctrl_Tail
+    100340: Ctrl_Tail 1
+    100342: Ctrl_Thumb_L
+    100344: Ctrl_Thumb_R
+    100346: Ctrl_ToeBall_L
+    100348: Ctrl_ToeBall_R
+    100350: Curtain_01
+    100352: Cylinder001
+    100354: Cylinder001 1
+    100356: Cylinder002
+    100358: Cylinder002 1
+    100360: Cylinder003
+    100362: Cylinder003 1
+    100364: Cylinder003 2
+    100366: Cylinder004
+    100368: Cylinder004 1
+    100370: Cylinder005
+    100372: Cylinder006
+    100374: Cylinder007
+    100376: Cylinder008
+    100378: Cylinder009
+    100380: Cylinder010
+    100382: Cylinder011
+    100384: Door
+    100386: Globe
+    100388: Hotdog
+    100390: IK_Arm_L
+    100392: IK_Arm_L 1
+    100394: IK_Arm_R
+    100396: IK_Arm_R 1
+    100398: IK_Leg_L
+    100400: IK_Leg_L 1
+    100402: IK_Leg_R
+    100404: IK_Leg_R 1
+    100406: Jellyfish
+    100408: Kitchen_Cabinet
+    100410: Kitchen_Cupborad
+    100412: //RootNode
+    100414: Kitchen_Fridge
+    100416: Kitchen_FridgeDoor
+    100418: Kitchen_Hangingboard
+    100420: Kitchen_Stove
+    100422: Kitchen_Table
+    100424: LongSofa
+    100426: Object001
+    100428: Object002
+    100430: Object003
+    100432: OctoPodium
+    100434: Picture_05
+    100436: PointConstr_Hand_L
+    100438: PointConstr_Hand_L 1
+    100440: PointConstr_Hand_R
+    100442: PointConstr_Hand_R 1
+    100444: PointCtrl_Ankle_L
+    100446: PointCtrl_Ankle_L 1
+    100448: PointCtrl_Ankle_R
+    100450: PointCtrl_Ankle_R 1
+    100452: PointCtrl_Heel_L
+    100454: PointCtrl_Heel_L 1
+    100456: PointCtrl_Heel_R
+    100458: PointCtrl_Heel_R 1
+    100460: PointCtrl_Toe_L
+    100462: PointCtrl_Toe_L 1
+    100464: PointCtrl_Toe_R
+    100466: PointCtrl_Toe_R 1
+    100468: PointOrient_ArmFK00_L
+    100470: PointOrient_ArmFK00_L 1
+    100472: PointOrient_ArmFK00_R
+    100474: PointOrient_ArmFK00_R 1
+    100476: PointOrient_ArmFK00_R 2
+    100478: PointOrient_ArmFK00_R 3
+    100480: PointOrient_ArmFK01_L
+    100482: PointOrient_ArmFK01_L 1
+    100484: PointOrient_Clavicle_L
+    100486: PointOrient_Clavicle_L 1
+    100488: PointOrient_Clavicle_L 2
+    100490: PointOrient_Clavicle_L 3
+    100492: PointOrient_Finger00_L
+    100494: PointOrient_Finger00_L 1
+    100496: PointOrient_Finger00_R
+    100498: PointOrient_Finger00_R 1
+    100500: PointOrient_FootFK_L
+    100502: PointOrient_FootFK_L 1
+    100504: PointOrient_FootFK_R
+    100506: PointOrient_FootFK_R 1
+    100508: PointOrient_HandFK_L
+    100510: PointOrient_HandFK_L 1
+    100512: PointOrient_HandFK_R
+    100514: PointOrient_HandFK_R 1
+    100516: PointOrient_HandIK_L
+    100518: PointOrient_HandIK_L 1
+    100520: PointOrient_HandIK_R
+    100522: PointOrient_HandIK_R 1
+    100524: PointOrient_Head
+    100526: PointOrient_Head 1
+    100528: PointOrient_LegFK00_L
+    100530: PointOrient_LegFK00_L 1
+    100532: PointOrient_LegFK00_R
+    100534: PointOrient_LegFK00_R 1
+    100536: PointOrient_LegFK01_L
+    100538: PointOrient_LegFK01_L 1
+    100540: PointOrient_LegFK01_R
+    100542: PointOrient_LegFK01_R 1
+    100544: PointOrient_Spine00
+    100546: PointOrient_Spine00 1
+    100548: PointOrient_Spine001
+    100550: PointOrient_Spine001 1
+    100552: PointOrient_Spine002
+    100554: PointOrient_Spine002 1
+    100556: PointOrient_Tail00
+    100558: PointOrient_Tail00 1
+    100560: PointOrient_Thumb00_L
+    100562: PointOrient_Thumb00_L 1
+    100564: PointOrient_Thumb00_R
+    100566: PointOrient_Thumb00_R 1
+    100568: Pushcar
+    100570: Reference_Front
+    100572: Reference_Profile
+    100574: Reflect001
+    100576: Room_Boatsofa
+    100578: Room_Chair
+    100580: Room_Computer
+    100582: Room_Cupboard
+    100584: Room_DoubleDeckBed
+    100586: Room_Hangingshelf
+    100588: Room_PlasticChair2
+    100590: Room_PlasticChair3
+    100592: Room_PlasticTable
+    100594: Room_Studydesk
+    100596: Room_Toytrain
+    100598: RoundTable
+    100600: Shelf
+    100602: Sofa
+    100604: Sphere001
+    100606: Sphere001 1
+    100608: SquareTable
+    100610: Teapot set
+    100612: Toilet_Dispencer1
+    100614: Toilet_Mirror
+    100616: Toilet_Shower
+    100618: Toilet_Sink
+    100620: Toilet_Toilietbowl
+    100622: Toilet_Tub
+    100624: TV
+    100626: TV_Screen
+    100628: TV_Support
+    100630: WallLight
+    400000: Airplane Body
+    400002: Bear_Body
+    400004: Bear_Eyes
+    400006: Bear_Head
+    400008: Bear_Tail
+    400010: BlackBoard
+    400012: Bone_ArmFK00_L
+    400014: Bone_ArmFK00_L 1
+    400016: Bone_ArmFK00_R
+    400018: Bone_ArmFK00_R 1
+    400020: Bone_ArmFK01_L
+    400022: Bone_ArmFK01_L 1
+    400024: Bone_ArmFK01_R
+    400026: Bone_ArmFK01_R 1
+    400028: Bone_ArmIK00_L
+    400030: Bone_ArmIK00_L 1
+    400032: Bone_ArmIK00_R
+    400034: Bone_ArmIK00_R 1
+    400036: Bone_ArmIK01_L
+    400038: Bone_ArmIK01_L 1
+    400040: Bone_ArmIK01_R
+    400042: Bone_ArmIK01_R 1
+    400044: Bone_ArmSk00_L
+    400046: Bone_ArmSk00_L 1
+    400048: Bone_ArmSk00_R
+    400050: Bone_ArmSk00_R 1
+    400052: Bone_ArmSk01_L
+    400054: Bone_ArmSk01_L 1
+    400056: Bone_ArmSk01_R
+    400058: Bone_ArmSk01_R 1
+    400060: Bone_Clavicle_L
+    400062: Bone_Clavicle_L 1
+    400064: Bone_Clavicle_R
+    400066: Bone_Clavicle_R 1
+    400068: Bone_COG
+    400070: Bone_COG 1
+    400072: Bone_Finger00_L
+    400074: Bone_Finger00_L 1
+    400076: Bone_Finger00_R
+    400078: Bone_Finger00_R 1
+    400080: Bone_FingerEnd_L
+    400082: Bone_FingerEnd_L 1
+    400084: Bone_FingerEnd_R
+    400086: Bone_FingerEnd_R 1
+    400088: Bone_FootFK_L
+    400090: Bone_FootFK_L 1
+    400092: Bone_FootFK_R
+    400094: Bone_FootFK_R 1
+    400096: Bone_FootIK_L
+    400098: Bone_FootIK_L 1
+    400100: Bone_FootIK_R
+    400102: Bone_FootIK_R 1
+    400104: Bone_FootSk_L
+    400106: Bone_FootSk_L 1
+    400108: Bone_FootSk_R
+    400110: Bone_FootSk_R 1
+    400112: Bone_HandFK_L
+    400114: Bone_HandFK_L 1
+    400116: Bone_HandFK_R
+    400118: Bone_HandFK_R 1
+    400120: Bone_HandIK_L
+    400122: Bone_HandIK_L 1
+    400124: Bone_HandIK_R
+    400126: Bone_HandIK_R 1
+    400128: Bone_HandSk_L
+    400130: Bone_HandSk_L 1
+    400132: Bone_HandSk_R
+    400134: Bone_HandSk_R 1
+    400136: Bone_Head
+    400138: Bone_Head 1
+    400140: Bone_HeadEnd
+    400142: Bone_HeadEnd 1
+    400144: Bone_Hip
+    400146: Bone_Hip 1
+    400148: Bone_LegEnd_L
+    400150: Bone_LegEnd_L 1
+    400152: Bone_LegEnd_R
+    400154: Bone_LegEnd_R 1
+    400156: Bone_LegFK00_L
+    400158: Bone_LegFK00_L 1
+    400160: Bone_LegFK00_R
+    400162: Bone_LegFK00_R 1
+    400164: Bone_LegFK01_L
+    400166: Bone_LegFK01_L 1
+    400168: Bone_LegFK01_R
+    400170: Bone_LegFK01_R 1
+    400172: Bone_LegFKEnd_L
+    400174: Bone_LegFKEnd_L 1
+    400176: Bone_LegFKEnd_R
+    400178: Bone_LegFKEnd_R 1
+    400180: Bone_LegIK00_L
+    400182: Bone_LegIK00_L 1
+    400184: Bone_LegIK00_R
+    400186: Bone_LegIK00_R 1
+    400188: Bone_LegIK01_L
+    400190: Bone_LegIK01_L 1
+    400192: Bone_LegIK01_R
+    400194: Bone_LegIK01_R 1
+    400196: Bone_LegIKEnd_L
+    400198: Bone_LegIKEnd_L 1
+    400200: Bone_LegIKEnd_R
+    400202: Bone_LegIKEnd_R 1
+    400204: Bone_LegSk00_L
+    400206: Bone_LegSk00_L 1
+    400208: Bone_LegSk00_R
+    400210: Bone_LegSk00_R 1
+    400212: Bone_LegSk01_L
+    400214: Bone_LegSk01_L 1
+    400216: Bone_LegSk01_R
+    400218: Bone_LegSk01_R 1
+    400220: Bone_Spine00
+    400222: Bone_Spine00 1
+    400224: Bone_Spine01
+    400226: Bone_Spine01 1
+    400228: Bone_Tail00
+    400230: Bone_Tail00 1
+    400232: Bone_TailEnd
+    400234: Bone_TailEnd 1
+    400236: Bone_Thumb00_L
+    400238: Bone_Thumb00_L 1
+    400240: Bone_Thumb00_R
+    400242: Bone_Thumb00_R 1
+    400244: Bone_ThumbEnd_L
+    400246: Bone_ThumbEnd_L 1
+    400248: Bone_ThumbEnd_R
+    400250: Bone_ThumbEnd_R 1
+    400252: Box001
+    400254: Box001 1
+    400256: Box002
+    400258: Box003
+    400260: Box004
+    400262: Box005
+    400264: Cabinet_05
+    400266: Camera001
+    400268: Camera001.Target
+    400270: ChalkBoard
+    400272: CoffeeTable
+    400274: Ctrl_COG
+    400276: Ctrl_Finger_L
+    400278: Ctrl_Finger_R
+    400280: Ctrl_FK_Arm00_L
+    400282: Ctrl_FK_Arm00_R
+    400284: Ctrl_FK_Arm01_R
+    400286: Ctrl_FK_Arm02_L
+    400288: Ctrl_FK_Hand_L
+    400290: Ctrl_FK_Hand_R
+    400292: Ctrl_FootFK_L
+    400294: Ctrl_FootFK_R
+    400296: Ctrl_Head
+    400298: Ctrl_HeelBall_L
+    400300: Ctrl_HeelBall_R
+    400302: Ctrl_Hip
+    400304: Ctrl_IK_Elbow_L
+    400306: Ctrl_IK_Elbow_R
+    400308: Ctrl_IK_Foot_L
+    400310: Ctrl_IK_Foot_R
+    400312: Ctrl_IK_Hand_L
+    400314: Ctrl_IK_Hand_R
+    400316: Ctrl_IK_Knee_L
+    400318: Ctrl_IK_Knee_R
+    400320: Ctrl_LegFK00_L
+    400322: Ctrl_LegFK00_R
+    400324: Ctrl_LegFK01_L
+    400326: Ctrl_LegFK01_R
+    400328: Ctrl_Master
+    400330: Ctrl_Shoulder_L
+    400332: Ctrl_Shoulder_R
+    400334: Ctrl_Spine00
+    400336: Ctrl_Spine001
+    400338: Ctrl_Tail
+    400340: Ctrl_Tail 1
+    400342: Ctrl_Thumb_L
+    400344: Ctrl_Thumb_R
+    400346: Ctrl_ToeBall_L
+    400348: Ctrl_ToeBall_R
+    400350: Curtain_01
+    400352: Cylinder001
+    400354: Cylinder001 1
+    400356: Cylinder002
+    400358: Cylinder002 1
+    400360: Cylinder003
+    400362: Cylinder003 1
+    400364: Cylinder003 2
+    400366: Cylinder004
+    400368: Cylinder004 1
+    400370: Cylinder005
+    400372: Cylinder006
+    400374: Cylinder007
+    400376: Cylinder008
+    400378: Cylinder009
+    400380: Cylinder010
+    400382: Cylinder011
+    400384: Door
+    400386: Globe
+    400388: Hotdog
+    400390: IK_Arm_L
+    400392: IK_Arm_L 1
+    400394: IK_Arm_R
+    400396: IK_Arm_R 1
+    400398: IK_Leg_L
+    400400: IK_Leg_L 1
+    400402: IK_Leg_R
+    400404: IK_Leg_R 1
+    400406: Jellyfish
+    400408: Kitchen_Cabinet
+    400410: Kitchen_Cupborad
+    400412: //RootNode
+    400414: Kitchen_Fridge
+    400416: Kitchen_FridgeDoor
+    400418: Kitchen_Hangingboard
+    400420: Kitchen_Stove
+    400422: Kitchen_Table
+    400424: LongSofa
+    400426: Object001
+    400428: Object002
+    400430: Object003
+    400432: OctoPodium
+    400434: Picture_05
+    400436: PointConstr_Hand_L
+    400438: PointConstr_Hand_L 1
+    400440: PointConstr_Hand_R
+    400442: PointConstr_Hand_R 1
+    400444: PointCtrl_Ankle_L
+    400446: PointCtrl_Ankle_L 1
+    400448: PointCtrl_Ankle_R
+    400450: PointCtrl_Ankle_R 1
+    400452: PointCtrl_Heel_L
+    400454: PointCtrl_Heel_L 1
+    400456: PointCtrl_Heel_R
+    400458: PointCtrl_Heel_R 1
+    400460: PointCtrl_Toe_L
+    400462: PointCtrl_Toe_L 1
+    400464: PointCtrl_Toe_R
+    400466: PointCtrl_Toe_R 1
+    400468: PointOrient_ArmFK00_L
+    400470: PointOrient_ArmFK00_L 1
+    400472: PointOrient_ArmFK00_R
+    400474: PointOrient_ArmFK00_R 1
+    400476: PointOrient_ArmFK00_R 2
+    400478: PointOrient_ArmFK00_R 3
+    400480: PointOrient_ArmFK01_L
+    400482: PointOrient_ArmFK01_L 1
+    400484: PointOrient_Clavicle_L
+    400486: PointOrient_Clavicle_L 1
+    400488: PointOrient_Clavicle_L 2
+    400490: PointOrient_Clavicle_L 3
+    400492: PointOrient_Finger00_L
+    400494: PointOrient_Finger00_L 1
+    400496: PointOrient_Finger00_R
+    400498: PointOrient_Finger00_R 1
+    400500: PointOrient_FootFK_L
+    400502: PointOrient_FootFK_L 1
+    400504: PointOrient_FootFK_R
+    400506: PointOrient_FootFK_R 1
+    400508: PointOrient_HandFK_L
+    400510: PointOrient_HandFK_L 1
+    400512: PointOrient_HandFK_R
+    400514: PointOrient_HandFK_R 1
+    400516: PointOrient_HandIK_L
+    400518: PointOrient_HandIK_L 1
+    400520: PointOrient_HandIK_R
+    400522: PointOrient_HandIK_R 1
+    400524: PointOrient_Head
+    400526: PointOrient_Head 1
+    400528: PointOrient_LegFK00_L
+    400530: PointOrient_LegFK00_L 1
+    400532: PointOrient_LegFK00_R
+    400534: PointOrient_LegFK00_R 1
+    400536: PointOrient_LegFK01_L
+    400538: PointOrient_LegFK01_L 1
+    400540: PointOrient_LegFK01_R
+    400542: PointOrient_LegFK01_R 1
+    400544: PointOrient_Spine00
+    400546: PointOrient_Spine00 1
+    400548: PointOrient_Spine001
+    400550: PointOrient_Spine001 1
+    400552: PointOrient_Spine002
+    400554: PointOrient_Spine002 1
+    400556: PointOrient_Tail00
+    400558: PointOrient_Tail00 1
+    400560: PointOrient_Thumb00_L
+    400562: PointOrient_Thumb00_L 1
+    400564: PointOrient_Thumb00_R
+    400566: PointOrient_Thumb00_R 1
+    400568: Pushcar
+    400570: Reference_Front
+    400572: Reference_Profile
+    400574: Reflect001
+    400576: Room_Boatsofa
+    400578: Room_Chair
+    400580: Room_Computer
+    400582: Room_Cupboard
+    400584: Room_DoubleDeckBed
+    400586: Room_Hangingshelf
+    400588: Room_PlasticChair2
+    400590: Room_PlasticChair3
+    400592: Room_PlasticTable
+    400594: Room_Studydesk
+    400596: Room_Toytrain
+    400598: RoundTable
+    400600: Shelf
+    400602: Sofa
+    400604: Sphere001
+    400606: Sphere001 1
+    400608: SquareTable
+    400610: Teapot set
+    400612: Toilet_Dispencer1
+    400614: Toilet_Mirror
+    400616: Toilet_Shower
+    400618: Toilet_Sink
+    400620: Toilet_Toilietbowl
+    400622: Toilet_Tub
+    400624: TV
+    400626: TV_Screen
+    400628: TV_Support
+    400630: WallLight
+    2300000: Airplane Body
+    2300002: Bear_Eyes
+    2300004: BlackBoard
+    2300006: Box001
+    2300008: Box001 1
+    2300010: Box002
+    2300012: Box003
+    2300014: Box004
+    2300016: Box005
+    2300018: Cabinet_05
+    2300020: ChalkBoard
+    2300022: CoffeeTable
+    2300024: Curtain_01
+    2300026: Cylinder001
+    2300028: Cylinder001 1
+    2300030: Cylinder002
+    2300032: Cylinder002 1
+    2300034: Cylinder003
+    2300036: Cylinder003 1
+    2300038: Cylinder003 2
+    2300040: Cylinder004
+    2300042: Cylinder004 1
+    2300044: Cylinder005
+    2300046: Cylinder006
+    2300048: Cylinder007
+    2300050: Cylinder008
+    2300052: Cylinder009
+    2300054: Cylinder010
+    2300056: Cylinder011
+    2300058: Door
+    2300060: Globe
+    2300062: Hotdog
+    2300064: Jellyfish
+    2300066: Kitchen_Cabinet
+    2300068: Kitchen_Cupborad
+    2300070: Kitchen_Fridge
+    2300072: Kitchen_FridgeDoor
+    2300074: Kitchen_Hangingboard
+    2300076: Kitchen_Stove
+    2300078: Kitchen_Table
+    2300080: LongSofa
+    2300082: Object001
+    2300084: Object002
+    2300086: Object003
+    2300088: OctoPodium
+    2300090: Picture_05
+    2300092: Pushcar
+    2300094: Reference_Front
+    2300096: Reference_Profile
+    2300098: Reflect001
+    2300100: Room_Boatsofa
+    2300102: Room_Chair
+    2300104: Room_Computer
+    2300106: Room_Cupboard
+    2300108: Room_DoubleDeckBed
+    2300110: Room_Hangingshelf
+    2300112: Room_PlasticChair2
+    2300114: Room_PlasticChair3
+    2300116: Room_PlasticTable
+    2300118: Room_Studydesk
+    2300120: Room_Toytrain
+    2300122: RoundTable
+    2300124: Shelf
+    2300126: Sofa
+    2300128: Sphere001
+    2300130: Sphere001 1
+    2300132: SquareTable
+    2300134: Teapot set
+    2300136: Toilet_Dispencer1
+    2300138: Toilet_Mirror
+    2300140: Toilet_Shower
+    2300142: Toilet_Sink
+    2300144: Toilet_Toilietbowl
+    2300146: Toilet_Tub
+    2300148: TV
+    2300150: TV_Screen
+    2300152: TV_Support
+    2300154: WallLight
+    3300000: Airplane Body
+    3300002: Bear_Eyes
+    3300004: BlackBoard
+    3300006: Box001
+    3300008: Box001 1
+    3300010: Box002
+    3300012: Box003
+    3300014: Box004
+    3300016: Box005
+    3300018: Cabinet_05
+    3300020: ChalkBoard
+    3300022: CoffeeTable
+    3300024: Curtain_01
+    3300026: Cylinder001
+    3300028: Cylinder001 1
+    3300030: Cylinder002
+    3300032: Cylinder002 1
+    3300034: Cylinder003
+    3300036: Cylinder003 1
+    3300038: Cylinder003 2
+    3300040: Cylinder004
+    3300042: Cylinder004 1
+    3300044: Cylinder005
+    3300046: Cylinder006
+    3300048: Cylinder007
+    3300050: Cylinder008
+    3300052: Cylinder009
+    3300054: Cylinder010
+    3300056: Cylinder011
+    3300058: Door
+    3300060: Globe
+    3300062: Hotdog
+    3300064: Jellyfish
+    3300066: Kitchen_Cabinet
+    3300068: Kitchen_Cupborad
+    3300070: Kitchen_Fridge
+    3300072: Kitchen_FridgeDoor
+    3300074: Kitchen_Hangingboard
+    3300076: Kitchen_Stove
+    3300078: Kitchen_Table
+    3300080: LongSofa
+    3300082: Object001
+    3300084: Object002
+    3300086: Object003
+    3300088: OctoPodium
+    3300090: Picture_05
+    3300092: Pushcar
+    3300094: Reference_Front
+    3300096: Reference_Profile
+    3300098: Reflect001
+    3300100: Room_Boatsofa
+    3300102: Room_Chair
+    3300104: Room_Computer
+    3300106: Room_Cupboard
+    3300108: Room_DoubleDeckBed
+    3300110: Room_Hangingshelf
+    3300112: Room_PlasticChair2
+    3300114: Room_PlasticChair3
+    3300116: Room_PlasticTable
+    3300118: Room_Studydesk
+    3300120: Room_Toytrain
+    3300122: RoundTable
+    3300124: Shelf
+    3300126: Sofa
+    3300128: Sphere001
+    3300130: Sphere001 1
+    3300132: SquareTable
+    3300134: Teapot set
+    3300136: Toilet_Dispencer1
+    3300138: Toilet_Mirror
+    3300140: Toilet_Shower
+    3300142: Toilet_Sink
+    3300144: Toilet_Toilietbowl
+    3300146: Toilet_Tub
+    3300148: TV
+    3300150: TV_Screen
+    3300152: TV_Support
+    3300154: WallLight
+    4300000: Shelf
+    4300002: RoundTable
+    4300004: ChalkBoard
+    4300006: Globe
+    4300008: TV_Support
+    4300010: SquareTable
+    4300012: TV
+    4300014: Door
+    4300016: WallLight
+    4300018: Sofa
+    4300020: LongSofa
+    4300022: CoffeeTable
+    4300024: Reference_Front
+    4300026: Reference_Profile
+    4300028: Bear_Tail
+    4300030: Bear_Head
+    4300032: Bear_Eyes
+    4300034: Bear_Body
+    4300036: Cylinder002
+    4300038: Curtain_01
+    4300040: Kitchen_Fridge
+    4300042: Kitchen_FridgeDoor
+    4300044: Kitchen_Stove
+    4300046: Kitchen_Cupborad
+    4300048: Kitchen_Hangingboard
+    4300050: Room_DoubleDeckBed
+    4300052: Jellyfish
+    4300054: Kitchen_Cabinet
+    4300056: Toilet_Mirror
+    4300058: Reflect001
+    4300060: OctoPodium
+    4300062: Room_PlasticTable
+    4300064: Room_PlasticChair2
+    4300066: Cylinder003
+    4300068: Kitchen_Table
+    4300070: Cylinder004
+    4300072: Cylinder005
+    4300074: Cylinder006
+    4300076: Cylinder007
+    4300078: Cylinder008
+    4300080: Cylinder009
+    4300082: Cylinder010
+    4300084: Cylinder011
+    4300086: Room_Cupboard
+    4300088: Room_Studydesk
+    4300090: Room_Hangingshelf
+    4300092: Room_Boatsofa
+    4300094: Pushcar
+    4300096: Sphere001
+    4300098: Room_Chair
+    4300100: Room_Toytrain
+    4300102: Airplane Body
+    4300104: Cylinder001
+    4300106: Toilet_Toilietbowl
+    4300108: Cylinder003
+    4300110: Toilet_Sink
+    4300112: Toilet_Shower
+    4300114: Toilet_Tub
+    4300116: Cabinet_05
+    4300118: Box005
+    4300120: Sphere001
+    4300122: Cylinder004
+    4300124: Cylinder003
+    4300126: Box004
+    4300128: Cylinder002
+    4300130: Cylinder001
+    4300132: Box003
+    4300134: Box002
+    4300136: Box001
+    4300138: Room_Computer
+    4300140: Box001
+    4300142: Toilet_Dispencer1
+    4300144: Room_PlasticChair3
+    4300146: Picture_05
+    4300148: TV_Screen
+    4300150: BlackBoard
+    4300152: Object001
+    4300154: Object002
+    4300156: Object003
+    4300158: Teapot set
+    4300160: Hotdog
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Bear_Body
+    13700002: Bear_Head
+    13700004: Bear_Tail
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

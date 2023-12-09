@@ -1,0 +1,92 @@
+total_parts	11
+lesson_name	猜猜蟹（游戏）
+lesson_description	1.认识新的计算思维游戏----猜猜蟹 |2.游戏目标：|猜猜蟹：第 1-5关|疯狂匹配：第11-15 关|萨丽历险记：第46-50 关
+part_1	manual
+part_1_name	教学准备
+part_1_description_count	3
+part_1_description_1_header	教学准备
+part_1_description_1	充好电的小白，故事书（第四本），《小伙伴手册》
+part_1_description_2_header	教学目标
+part_1_description_2	1.认识新的计算思维游戏----猜猜蟹 |2.游戏目标：|猜猜蟹：第 1-5关|疯狂匹配：第11-15 关|萨丽历险记：第46-50 关
+part_1_description_3_header	教学提示
+part_1_description_3	1.猜猜蟹游戏的设置主要书为了培养幼儿的抽象思维能力|2.相比其他已学的游戏来说，猜猜蟹的难度增大|3.5～6岁时，孩子思维从形象思维向抽象逻辑思维过渡，对事物的理解也发生各种变化|a)从理解事物个体发展到对事物关系的理解;|b)从依靠具体形象的理解过渡到主要依靠语言来理解(这时，你用语言向他描述事物，一般情况他会理解);|c)这个阶段的孩子已经不停留在对事物的简单表面的评价，现在已经开始对事物比较复杂、深刻的评价|比如，早期孩子在看电视时，便可以说出谁是好人，谁是坏人，这时已经能知道好在哪里，坏在哪里，还会用各种理由来说明他的看法另外，孩子的思维已经从事物的外表向内部、从局部到全面进行判断和推理，并且逐步正确加深
+part_2	manual
+part_2_name	热身活动
+part_2_description_count	1
+part_2_description_1_header	热身活动（时长 = 5分钟）
+part_2_description_1	1.谜语：从头到脚硬盔甲，走起路来横着走，张牙舞爪八只脚，两把利剪真吓人（提示：动物）|谜底：螃蟹|2.Finger game（手指游戏）|眼睛大大脾气坏 小螃蟹，真奇怪，横行去，横行来，摇摇摆摆左右拐大剪刀，随身带， 咔嚓咔嚓好厉害小鱼儿，快快快，要保性命快躲开|3.故事：多多蟹兄弟
+part_3	game
+part_3_target	teacher
+part_3_game_name	crab
+part_3_game_start_level	1
+part_3_game_end_level	5
+part_3_multiple_activities	start
+part_3_name	示范
+part_3_description_count	1
+part_3_description_1_header	示范（时长 = 15分钟）
+part_3_description_1	1）打开海洋历险记游戏，开始猜猜蟹游戏|2）示范完成前三关（一边玩一边解释游戏规则和技巧）|３）告知幼儿当天的计算思维游戏目标：|游戏目标：|猜猜蟹：第 1-5关|疯狂匹配：第11-15 关|萨丽历险记：第46-50 关
+part_3_button	crab
+part_3_button_description	这按钮将会开始猜猜蟹 LV 1-5
+part_4	game
+part_4_target	teacher
+part_4_game_name	chomp
+part_4_game_start_level	1
+part_4_game_end_level	5
+part_4_multiple_activities	child
+part_4_name	示范2
+part_4_button	crab
+part_4_button_description	这按钮将会开始猜猜蟹 LV 11-15
+part_5	game
+part_5_target	teacher
+part_5_game_name	pearly
+part_5_game_start_level	46
+part_5_game_end_level	50
+part_5_multiple_activities	end
+part_5_name	示范3
+part_5_button	crab
+part_5_button_description	这按钮将会开始猜猜蟹 LV 46-50
+part_6	game
+part_6_target	student
+part_6_game_name	crab
+part_6_game_start_level	1
+part_6_game_end_level	5
+part_6_multiple_activities	start
+part_6_name	小白陪你快乐学
+part_6_description_count	1
+part_6_description_1_header	示范（时长 = 15分钟）
+part_6_description_1	1.比一比：看谁先打开海洋历险记，找到猜猜蟹游戏|2.完成游戏目标：|猜猜蟹：第 1-5关|疯狂匹配：第11-15 关|萨丽历险记：第46-50 关
+part_6_button	crab
+part_6_button_description	这按钮将会开始猜猜蟹 LV 1-5
+part_7	game
+part_7_target	student
+part_7_game_name	chomp
+part_7_game_start_level	1
+part_7_game_end_level	5
+part_7_multiple_activities	child
+part_7_name	小白陪你快乐学2
+part_7_button	crab
+part_7_button_description	这按钮将会开始猜猜蟹 LV 11-15
+part_8	game
+part_8_target	student
+part_8_game_name	pearly
+part_8_game_start_level	46
+part_8_game_end_level	50
+part_8_multiple_activities	end
+part_8_name	小白陪你快乐学3
+part_8_button	crab
+part_8_button_description	这按钮将会开始猜猜蟹 LV 46-50
+part_9	manual
+part_9_name	活动与游戏
+part_9_description_count	1
+part_9_description_1_header	活动与游戏（时长 = 15分钟）
+part_9_description_1	1.活动一：《考考你》|翻到《小伙伴手册》第二十八页，完成《考考你》||2.活动二：找一找|翻到《小伙伴手册》第二十九页，完成《兜兜公主的影子》||3.活动三：翻到《小伙伴手册》第三十页，完成《镜子里面的兜兜王子》
+part_10	manual
+part_10_name	分享与反思
+part_10_description_count	1
+part_10_description_1_header	分享与回顾（时长 = 10分钟）
+part_10_description_1	1.邀请幼儿回顾学习内容|2.请幼儿展示通关记录，分享为什么通关|3.请幼儿展示《小伙伴手册》上的完成情况
+part_11	manual
+part_11_name	分享与反思
+part_11_description_count	1
+part_11_description_1_header	活动延伸（时长 = 60分钟）
+part_11_description_1	1.训练孩子抽象思维的方法——打电话|在纸上写下一个朋友或者家人的电话号码，然后让孩子读着去拨这个电话，这让他们有机会练习从左到右读出数字||2.训练孩子抽象思维的方法——数你周围所有的东西|数数排队的有几个人?图书馆的台阶有几级?人行道边的树有几棵?||3.训练孩子抽象思维的方法——清点家庭用品|把所有的刀、叉、勺从抽屉里拿出来，打乱放在一起，然后让孩子把这些东西分类归组，然后数一数每组里面有几只同样的方法，可以让孩子整理袜子抽屉(按颜色或者大小)，整理玩具(比如把所有的熊玩具放在一起等)

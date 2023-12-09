@@ -1,0 +1,16 @@
+{
+"Dialogue":[
+				{//0
+					"text":"欢迎回来，取回了所有的货物真是干得不错。\n 听到了你小伙伴的消息真是非常抱歉，如果需要我的帮忙的话....\n 请让我知道",
+					"audio":"Doodle_1",
+					"dialogType":0,
+					"Speaker":"Doodle",
+				},
+				{//1
+					"text":"*咳嗽声*",
+					"audio":"SFX_buddy_coughing",
+					"dialogType":2,
+					"Speaker":"Buddy",
+				},
+			],
+}

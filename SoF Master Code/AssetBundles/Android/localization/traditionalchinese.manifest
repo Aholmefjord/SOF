@@ -1,0 +1,73 @@
+ManifestFileVersion: 0
+CRC: 326886124
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e33996e4f28f2b2c1cb1317caeebac0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f73bf4575117d03472577b0bcfa36a4a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearly_tutorial_title_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/TsumTsum/tsum_tsum_tutorial_1_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearly_tutorial_2_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/reefleftbutton_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/loginbutton_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/map/4sunkenmapiconCN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crab_tutorial_title_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/map/doodleicon_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Chomp/chomp_tutorial_4_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/manta_tutorial_4_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Chomp/chompchompicon_CN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crabbie_landing_start_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crab_tutorial_1_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/map/3mpmapiconCN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crab_tutorial_3_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearly_tutorial_5_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/text_traditional_chinese.xml
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Chomp/chomp_tutorial_3_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/reefstartoverbutton_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearly_tutorial_4_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Chomp/chomp_tutorial_2_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearly_tutorial_3_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/returnbutton_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/map/videoicon_CN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/manta_tutorial_title_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crabbieTitleCN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crab_tutorial_4_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/manta_tutorial_2_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Chomp/chomp_tutorial_title_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/manta_tutorial_1_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearlywhirlytitle_CN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/TsumTsum/tsum_tsum_tutorial_2_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/gobutton_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/manta_tutorial_3_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/TsumTsum/tsum_tsum_tutorial_title_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/settings_restart_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/map/1mantamapiconCN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/pearly_tutorial_1_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/map/worksheeticon_CN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/settings_resume_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Pearly/reelrightbutton_CN.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/mantamatchmaniatitle_CN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/image_traditional_chinese.xml
+- Assets/App/Features/Localization/traditionalchinese/Images/map/2icbmapiconCN.png
+- Assets/App/Features/Localization/traditionalchinese/style_traditional_chinese.xml
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Crab/crab_tutorial_2_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/settings_levelselect_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/gui/settings_home_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Chomp/chomp_tutorial_1_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/TsumTsum/ttgametitle_CN_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/TsumTsum/tsum_tsum_tutorial_3_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/Images/games/TsumTsum/tsum_tsum_tutorial_4_cn_trad.png
+- Assets/App/Features/Localization/traditionalchinese/text_chinese.xml
+- Assets/App/Features/Localization/traditionalchinese/Images/games/Manta/mantamatchmaniatitle_CN.png
+Dependencies: []

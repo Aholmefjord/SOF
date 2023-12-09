@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<!--Loading Screen-->
+	<string name="loading_screen_title">...加载中...</string>
+	<string name="loading_screen_reload">阿哦.. 好像出错了呢!\n让我们回到小伙伴的家里吧</string>
+	<!--Main Menu-->
+	<string name="main_menu_login_panel_title">登入</string>
+	<string name="main_menu_login_panel_login_to_continue">请登入您的账号</string>
+	<string name="main_menu_login_panel_username_placeholder">输入邮箱或者用户名...</string>
+	<string name="main_menu_login_panel_password_placeholder">输入密码...</string>
+	<string name="main_menu_loading">载入中.....</string>
+	<string name="main_menu_logging_in">登入中：</string>
+	<string name="main_menu_downloading_game_data">正在下载游戏资料： </string>
+	<string name="main_menu_synchronizing_game_data">正在同步游戏资料： </string>
+	<string name="main_menu_loading_player_data">正在加载玩家资料： </string>
+	<string name="main_menu_guide">说明</string>
+	<string name="main_menu_update">发现\n新更新</string>
+	<string name="main_menu_download">下载</string>
+	<string name="main_menu_download_complete">下载完成</string>
+	<string name="main_menu_connection_error_title">网络错误</string>
+	<string name="main_menu_connection_error_text">请确认您已经连接上网络，然后点击重试按钮</string>
+	<string name="main_menu_connection_error_download_error_text">下载出错，请点击重试按钮</string>
+	<string name="main_menu_connection_error_retry">重试</string>
+	<string name="main_menu_finding_julesbox_text">寻找 JULES 盒子</string>
+	<string name="main_menu_found_julesbox_text">找到 JULES 盒子</string>
+	<string name="main_menu_did_not_find_julesbox_text">无法找到 JULES 盒子</string>
+	<string name="main_menu_check_update_text">检查最新内容</string>
+	<string name="main_menu_set_password_title">输入新的密码</string>
+	<string name="main_menu_set_password_placeholder">输入密码...</string>
+	<string name="main_menu_set_password_error">密码不能是空的!</string>
+	<!--CampaignMode-->
+	<string name="campaignmode_header">您想去哪搜索呢？  </string>
+	<string name="campaignmode_campaign_text">和您的小伙伴边学边玩</string>
+	<string name="campaignmode_buddyhome_text">去小伙伴的家玩耍</string>
+		<!--CampaignLevel-->
+	<string name="campaignlevel_header">探险记</string>
+	<string name="campaignlevel_locked_text">锁</string>
+	<string name="campaignlevel_new_text">新!</string>
+	<string name="campaignlevel_completed_text">完成</string>
+	<!--Chomp Game-->
+	<string name="chomp_completed_text">完成</string>
+	<string name="chomp_title_text">喂你的小伙伴</string>
+	<string name="chomp_start_text">开始</string>
+	<!--Cinematics-->
+	<string name="cinematics_Sally">小萨</string>
+	<string name="cinematics_Doodle">兜兜</string>
+	<string name="cinematics_Buddy">小伙伴</string>
+	<string name="cinematics_Miss Puffin">美丽豚女士</string>
+	<string name="cinematics_Manta">大福先生</string>
+	<string name="cinematics_Infinite Crab Brothers">多多蟹兄弟</string>
+	<string name="cinematics_?">？？？？？</string>
+	<!--chomp chomp-->
+	<string name="chomp_chomp_win_text">做得好！</string>
+	<string name="chomp_chomp_combo">连击 </string>
+	<!--Dialog Box-->
+	<string name="dialog_box_error_title">错误</string>
+	<string name="dialog_box_maintenance_title">维护</string>
+	<string name="dialog_box_account_error_title">账号错误</string>
+	<string name="dialog_box_processing">运行中...</string>
+	<string name="dialog_box_please_wait">请稍后.</string>
+	<string name="dialog_box_invalid_username_or_email_entered">邮箱或用户名错误</string>
+	<string name="dialog_box_error_username_not_allowed">错误：用户名不允许.\n请选用其他的用户名.</string>
+	<string name="dialog_box_error_username_already_in_use">错误：用户名以被用.\n请选用其他的用户名.</string>
+	<string name="dialog_box_email_in_use">错误：邮箱已存在.\n请登入.</string>
+	<string name="dialog_box_username_in_use">错误：用户名已存在.\n请选择新的用户名.</string>
+	<string name="dialog_box_error_creating_buddy">创建小伙伴出错.\n请重试.</string>
+	<string name="dialog_box_error_updating_email">更新邮箱出错. </string>
+	<string name="dialog_box_error_updating_email_please_try_again">更新邮箱出错. \n请重试</string>
+	<string name="dialog_box_title_text">标题</string>
+	<string name="dialog_box_message_text">信息</string>
+	<string name="dialgo_box_message_creating_room">创建房间 . . . </string>
+	<string name="dialgo_box_message_joining_room">进入房间 . . . </string>
+	<string name="dialgo_box_message_unable_to_create_room">无法创建房间，\n请稍后再试</string>
+	<string name="dialgo_box_message_unable_to_join_room">无法进入房间，\n请稍后再试</string>
+	<string name="dialgo_box_message_error_connecting_to_server">无法连接服务器.\n请检查网络状态\n或者稍后再试."</string>
+	<string name="dialog_box_game_is_under_maintenance">游戏正在维护.\n请稍后再试</string>
+	<string name="dialog_box_logout_confirmation">你想要退出这个账号吗？</string>
+	<string name="dialog_box_button_yes">OK</string>
+	<string name="dialog_box_button_no">NO</string>
+	<string name="dialog_box_button_retry">重试</string>
+	<string name="dialog_box_error_message">有错误发生。\n请稍后再试。\n错误：</string>
+	<string name="dialog_box_password_not_match">两组密码不相同</string>
+	<string name="dialog_exit_to_start">确定要退出到\n游戏开始界面吗？</string>
+	<string name="dialog_box_account_not_found">用户名不存在</string>
+	<string name="dialog_box_missing_username">请输入用户名</string>
+	<string name="dialog_box_missing_password">请输入密码</string>
+	<!--Map New-->
+	<string name="map_new_settings_text">设置</string>
+	<string name="map_new_settings_buddy_change_alt_pos_text">小伙伴</string>
+	<string name="map_new_settings_buddy_change_text">小伙伴</string>
+	<string name="map_new_settings_change_password_alt_pos_text">更换密码</string>
+	<string name="map_new_settings_logout_text">登出</string>
+	<string name="map_new_settings_change_password_text">更换密码</string>
+	<string name="map_new_settings_support_text">帮助</string>
+	<string name="map_new_settings_add_child_text">添加朋友</string>
+	<string name="map_new_settings_logout_alt_text">登出</string>
+	<string name="map_new_settings_reset_text">重置</string>
+	<string name="map_new_settings_unlock_text">解锁</string>
+	<string name="map_new_set_password_title">输入新的密码</string>
+	<string name="map_new_set_password_text">输入密码...</string>
+	<string name="map_new_set_password_confirm_text">确认密码...</string>
+	<string name="map_new_language_title">语言</string>
+	<string name="map_new_language_english">英文</string>
+	<string name="map_new_language_chinese">中文</string>
+	<!--Game Stage Select-->
+	<string name="game_stage_select_level_select">关卡选择</string>
+	<string name="game_stage_select_new">新</string>
+	<string name="game_stage_select_locked">锁!</string>
+	<string name="game_stage_select_cleared">通关!</string>
+	<string name="game_stage_select_new_stage">关卡</string>
+	<string name="game_stage_select_locked_stage">关卡</string>
+	<string name="game_stage_select_cleared_stage">关卡</string>
+	<!--Win Screen-->
+	<string name="win_screen_total_score">总积分</string>
+	<string name="win_screen_highest_score">最高分</string>
+	<string name="win_screen_highest_combo">奖励分</string>
+	<string name="win_screen_rewards">奖励</string>
+	<string name="win_screen_lose_game_text">再接再厉!</string>
+	<string name="win_screen_stage_complete">通过关卡</string>
+	<!--Pearly Whirly Game-->
+	<string name="pearly_whirly_game_reset_button">重新 开始</string>
+	<string name="pearly_whirly_game_stage_clear_stage_text">通过</string>
+	<string name="pearly_whirly_game_stage_clear_clear_text">关卡</string>
+	<string name="pearly_whirly_game_stage_failed_stage_text">再接</string>
+	<string name="pearly_whirly_game_stage_failed_failed_text">再厉</string>
+	<string name="pearly_whirly_stage_text">关卡</string>
+	<!--In Game Menu-->
+	<string name="in_game_menu_title">暂停</string>
+	<string name="in_game_menu_current_stage">当前关卡</string>
+	<!--Manta Main menu-->
+	<string name="manta_main_menu_go_button">出发</string>
+	<!--Manta Game-->
+	<string name="manta_game_ready_go_text">准备</string>
+	<string name="manta_game_ready_go_ready_text">准备?!</string>
+	<string name="manta_game_ready_go_go_text">开始!!!</string>
+	<string name="manta_game_stage_clear_stage_text">通过</string>
+	<string name="manta_game_stage_clear_clear_text">关卡</string>
+	<string name="manta_game_stage_failed_stage_text">再接</string>
+	<string name="manta_game_stage_failed_failed_text">再厉</string>
+	<string name="manta_game_stage_continue">继续</string>
+	<string name="manta_game_stage_continue_text_1">完美!</string>
+	<string name="manta_game_stage_continue_text_2">精彩!</string>
+	<string name="manta_game_stage_continue_text_3">好厉害!</string>
+	<string name="manta_game_stage_continue_text_4">太棒了!</string>
+	<string name="manta_game_stage_continue_text_5">美妙 绝伦!</string>
+	<string name="manta_game_progress_text"> 物品完成！</string>
+	<string name="manta_game_stage_text"> 关卡 </string>
+	<!--Manta Win Screen-->
+	<string name="manta_win_screen_highest_combo">奖励分</string>
+	<!--Tsum Win Screen-->
+	<string name="tsum_win_screen_highest_combo">奖励分</string>
+	<!--Tsum Tsum Game-->
+	<string name="tsum_tsum_game_stage_clear_stage_text">通过</string>
+	<string name="tsum_tsum_game_stage_clear_clear_text">关卡</string>
+	<string name="tsum_tsum_game_stage_failed_stage_text">再接</string>
+	<string name="tsum_tsum_game_stage_failed_failed_text">再厉</string>
+	<string name="tsum_tsum_game_score_header">积分</string>
+	<string name="tsum_tsum_game_left"> 清除</string>
+	<string name="tsum_tsum_game_remaining">等待消灭</string>
+	<string name="tsum_tsum_game_combo"> </string>
+	<string name="tsum_tsum_game_combo_chain">连击! x </string>
+	<string name="tsum_tsum_game_combo_multi">倍数! x </string>
+	<string name="tsum_tsum_game_encouragementwords_words"> </string>
+	<string name="tsum_tsum_game_encouragementwords_words_1">太棒了!</string>
+	<string name="tsum_tsum_game_encouragementwords_words_2">好厉害!</string>
+	<string name="tsum_tsum_game_encouragementwords_words_3">精彩!</string>
+	<string name="tsum_tsum_game_encouragementwords_words_4">完美!</string>
+	<string name="tsum_stage_text">关卡</string>
+	<!--Crab Levle Select-->
+	<string name="crab_level_select_level_text">关卡</string>
+	<string name="crab_level_select_new">新!</string>
+	<string name="crab_level_select_locked">锁!</string>
+	<string name="crab_level_select_cleared">通关!</string>
+	<!--Crab Brothers Game-->
+	<string name="crab_brothers_game_stage">关卡 </string>
+	<!--Tako Level Select-->
+	<string name="tako_level_select_level_text">等级 </string>
+	<!--Tako Game Encounter Panel-->
+	<string name="tako_game_encounter_panel_title">新的生物!</string>
+	<string name="tako_game_encounter_panel_fish_title">鱼</string>
+	<string name="tako_game_encounter_panel_fish_detail">内容</string>
+	<string name="tako_game_encounter_panel_previous">上一个</string>
+	<string name="tako_game_encounter_panel_ok">明白</string>
+	<string name="tako_game_encounter_panel_next">下一个</string>
+	<string name="tako_game_encounter_panel_coral">大海\n与珊瑚</string>
+	<string name="tako_game_encounter_panel_deepsea">深海鱼</string>
+	<!--Tako Game-->
+	<string name="tako_game_bottom_level">等级</string>
+	<string name="tako_game_bottom_new">新!</string>
+	<string name="tako_game_bottom_ok">就绪!</string>
+	<string name="tako_game_bottom_page_1">页面 1/2</string>
+	<string name="tako_game_bottom_page_2">页面 2/2</string>
+	<string name="tako_game_fish_Anglerfish">琵琶鱼</string>
+	<string name="tako_game_fish_Anglerfish_desc">琵琶鱼头部上方有个肉状突出，形似小灯笼，是由琵琶鱼的第一背鳍逐渐向上延伸形成的，深海中有很多鱼都有趋光性，于是小灯笼就成了鮟鱇鱼引诱食物的利器</string>
+	<string name="tako_game_fish_Pelican Eel">鹈鹕</string>
+	<string name="tako_game_fish_Pelican Eel_desc">身长约150厘米，全身长有密而短的羽毛，羽毛为白色、桃红色或浅灰褐色.嘴长30多厘米，具有下嘴壳与皮肤相连接形成的大皮囊；皮囊可以自由伸缩</string>
+	<string name="tako_game_fish_Goblin Shark">哥布林鲨鱼</string>
+	<string name="tako_game_fish_Goblin Shark_desc">哥布林鲨又称欧氏剑吻鲨、欧氏尖吻鲨，加布林鲨，出没于阳光照射不到的深海，一般在深于200米水深处.</string>
+	<string name="tako_game_fish_Viper Fish">蝰鱼</string>
+	<string name="tako_game_fish_Viper Fish_desc">其体细长而侧扁，一般体长不足350毫米。头大，眼大，吻短。口裂大，斜位。具一短须的下颌大于上颌。一口长而伸出的獠牙甚利。</string>
+	<string name="tako_game_fish_Fangtooth Fish">矛齿鱼</string>
+	<string name="tako_game_fish_Fangtooth Fish_desc">矛齿鱼，又名恩齐德鱼，是一属已灭绝的硬骨鱼。它们全盛于上白垩纪，属于细小至中等的鱼类。它们最著名的特征是在上下颚及腭骨的前端有很大的獠牙</string>
+	<string name="tako_game_fish_Vampire Squid">吸血鬼鱿鱼</string>
+	<string name="tako_game_fish_Vampire Squid_desc">吸血鬼鱿鱼这种神秘的动物在分类上介于鱿鱼和章鱼之间，而它那把触手都连结起来的“斗篷”在头足类里堪称独一无二。吸血鬼鱿鱼在触手上长有数十个奇异的肉状突起，遇到捕食者时还会喷出带有荧光小球的黏液。</string>
+	<string name="tako_game_fish_Giant Isopod">大王具足虫</string>
+	<string name="tako_game_fish_Giant Isopod_desc">大王具足虫，或称为巨型深海大虱、巨型等足虫，是世界体积最大的节肢动物门等脚目漂水虱科动物。一般认为大王具足虫大量生活在冰冷的大西洋深海里。</string>
+	<string name="tako_game_fish_Giant Spider Crab">霸王蜘蛛蟹</string>
+	<string name="tako_game_fish_Giant Spider Crab_desc">蜘蛛蟹是海蟹的一种，生长于美国阿拉斯加。因为八条腿特长，外观形似蜘蛛，而且触角也比普通螃蟹多，所以被称为蜘蛛蟹。</string>
+	<string name="tako_game_fish_Batwing Coral Crab">蝙蝠毛刺蟹</string>
+	<string name="tako_game_fish_Batwing Coral Crab_desc">蝙蝠毛刺蟹是爬行亚目，分布于西沙群岛, 海南岛的一个物种。全身长满白色的毛</string>
+	<string name="tako_game_fish_Dolphin">海豚</string>
+	<string name="tako_game_fish_Dolphin_desc">海豚具有齿鲸类典型的形态学性状：纺锤形的身体；单个新月形的呼吸孔；头骨套叠，上颌骨向后扩展与额骨重叠；颅顶偏左的不对称；圆锥形或钉状的齿等</string>
+	<string name="tako_game_fish_Manta Ray">蝠鲼</string>
+	<string name="tako_game_fish_Manta Ray_desc">蝠鲼，又被称为魔鬼鱼与毯魟。属于软骨鱼纲、蝠鲼科，它包含两个属，前口蝠鲼属和蝠鲼属。平时底栖生活，但有时上升表层游弋，并做远程洄游，行动敏捷。</string>
+	<string name="tako_game_fish_Bluestripe Snapper">青铜鲷</string>
+	<string name="tako_game_fish_Bluestripe Snapper_desc">欧洲的鲷科鱼类主要都是底食泥鱼。鲷鱼广泛地分布于止水、运河及流速缓慢的深河中，软口鱼偏好流速较快的河川中游，文鳊则栖息于大而流速缓慢的河川中下游。</string>
+	<string name="tako_game_fish_Whale Shark">鲸鲨</string>
+	<string name="tako_game_fish_Whale Shark_desc">身体庞大，全长可达20米，是世界上最大的鱼类。体表散布淡色斑点与纵横交错的淡色带，有如棋盘。鼻孔位于上唇的两侧，出现于口内。牙多而细小，排成多行。</string>
+	<string name="tako_game_fish_Sailfish">旗鱼</string>
+	<string name="tako_game_fish_Sailfish_desc">旗鱼属于鲭亚目旗鱼科，又名芭蕉鱼，亦称平鳍旗鱼太平洋热带及亚热带大洋性鱼类，是公认的短距离内游泳速度最快的鱼类</string>
+	<string name="tako_game_fish_Longspined Porcupinefish">六斑刺鲀</string>
+	<string name="tako_game_fish_Longspined Porcupinefish_desc">热带海洋性底层鱼类，主要栖息于浅海礁石区、软质底海域或开放性水域。一般行独居生活，有时会聚集成群；幼鱼则行大洋漂游性生活。</string>
+	<string name="tako_game_fish_Sun Fish">翻车鱼</string>
+	<string name="tako_game_fish_Sun Fish_desc">单独或成对游泳，有时十余尾成群，小个体鱼较活泼，常跃出水面，大个体鱼行动迟缓，常侧卧于水面，或背鳍露出水面，也能潜入百余米深水中。</string>
+	<!--Tako Win Screen-->
+	<string name="tako_win_screen_total_score">积分</string>
+	<string name="tako_win_screen_highest_score">最高分</string>
+	<string name="tako_win_screen_highest_combo">奖励</string>
+	<string name="tako_win_screen_rewards">奖励</string>
+	<string name="tako_win_screen_lose_game_text">再接再厉!</string>
+	<!--Buddy Home Build Panel-->
+	<string name="buddy_home_build_panel_button_upgrade">升级</string>
+	<string name="buddy_home_build_panel_button_selected">选择</string>
+	<string name="buddy_home_build_panel_button_style">设计</string>
+	<string name="buddy_home_build_panel_button_secret_style">隐藏\n设计</string>
+	<string name="buddy_home_build_panel_button_None">无</string>
+	<string name="buddy_home_build_panel_button_Basic">基础</string>
+	<string name="buddy_home_build_panel_button_Captain">船长</string>
+	<string name="buddy_home_build_panel_button_Nature">大自然</string>
+	<string name="buddy_home_build_panel_button_Special">特殊</string>
+	<string name="buddy_home_build_panel_button_Clock">时钟</string>
+	<string name="buddy_home_build_panel_button_Squiggles">海浪</string>
+	<string name="buddy_home_build_panel_button_Star">星星</string>
+	<string name="buddy_home_build_panel_button_toytrain">玩具火车</string>
+	<string name="buddy_home_build_panel_button_toycar">玩具车</string>
+	<string name="buddy_home_build_panel_button_teaset">茶具</string>
+	<string name="buddy_home_build_panel_button_dollhouse">娃娃房</string>
+	<string name="buddy_home_build_panel_button_boardgame">桌游</string>
+	<string name="buddy_home_build_panel_button_teddybear">泰迪熊</string>
+	<string name="buddy_home_build_panel_button_truck">卡车</string>
+	<string name="buddy_home_build_panel_button_robot">机器人</string>
+	<string name="buddy_home_build_panel_button_anthurium">花烛</string>
+	<string name="buddy_home_build_panel_button_aloe">芦荟</string>
+	<string name="buddy_home_build_panel_button_daisy">雏菊</string>
+	<string name="buddy_home_build_panel_button_bush">灌木</string>
+	<!--Buddy Home Upgrade Panel-->
+	<string name="buddy_home_upgrade_panel_upgrade_text">升级这个家具?</string>
+	<string name="buddy_home_upgrade_panel_unlock_item_text">解锁这个物品?</string>
+	<string name="buddy_home_upgrade_panel_unlock_furniture_text">解锁这个家具?</string>
+	<string name="buddy_home_upgrade_panel_upgrade_item_text">升级这个物品?</string>
+	<string name="buddy_home_upgrade_panel_upgrade_furniture_text">升级这个家具?</string>
+	<!--Buddy Home Expedition Panel-->
+	<string name="buddy_home_expedition_claiming_reward">收集宝物.....</string>
+	<string name="buddy_home_expedition_ready_to_send_out">出发准备就绪.</string>
+	<string name="buddy_home_expedition_possible_findings">获得资源</string>
+	<string name="buddy_home_expedition_title">你希望你的小伙伴去哪里探险呢?</string>
+	<string name="buddy_home_expedition_sally">小丽\n周围</string>
+	<string name="buddy_home_expedition_coral">珊瑚\n礁边</string>
+	<string name="buddy_home_expedition_market_square">深海\n市场</string>
+	<string name="buddy_home_expedition_sunken_freight">沉船\n周边</string>
+	<string name="buddy_home_expedition_go_button">出发!</string>
+	<!--Buddy Home Expedition Confirm Panel-->
+	<string name="buddy_home_expedition_confirm_title">你希望小伙伴去\n探险多久呢?</string>
+	<string name="buddy_home_expedition_confirm_time_title">探险时间</string>
+	<string name="buddy_home_expedition_confirm_time_hours">小时</string>
+	<string name="buddy_home_expedition_confirm_go_button">出发!</string>
+	<string name="buddy_home_expedition_confirm_reward">你会获得</string>
+	<!--Buddy Home Expedition Return Panel-->
+	<string name="buddy_home_expedition_return_title">伙伴正在探险中</string>
+	<string name="buddy_home_expedition_return_returning">剩余时间</string>
+	<string name="buddy_home_expedition_return_minutes">分钟</string>
+	<!--Buddy Home Expedition Return Confirmation Panel-->
+	<string name="buddy_home_expedition_return_confirmation_text">你确定你要让\n伙伴回来吗?</string>
+	<string name="buddy_home_expedition_return_confirmation_yes">YES</string>
+	<string name="buddy_home_expedition_return_confirmation_no">NO</string>
+	<!--Buddy Home Expedition Returned Panel-->
+	<string name="buddy_home_expedition_returned_title">小伙伴</string>
+	<string name="buddy_home_expedition_returned_title_second_line">\n已经返回!</string>
+	<string name="buddy_home_expedition_returned_earned">你获得了:</string>
+	<!--Buddy Home Chat Panel-->
+	<string name="buddy_home_chat_panel_title">欢迎来到小伙伴的聊天室!</string>
+	<string name="buddy_home_chat_panel_explain">选择一个房间然后点入!</string>
+	<string name="buddy_home_chat_panel_ecreate_new">创建</string>
+	<string name="buddy_home_chat_panel_ecreate_new_second_line">房间</string>
+	<string name="buddy_home_chat_panel_refresh">刷新</string>
+	<string name="buddy_home_chat_panel_room">的房间</string>
+	<!--Buddy Home-->
+	<string name="buddy_home_room">的房间</string>
+	<string name="buddy_home_freeze_message">老师需要你的注意力!!</string>
+	<!--Buddy Home Exit Panel-->
+	<string name="buddy_home_exit_panel_text">哦, 你真的想要\n退出吗?</string>
+	<!--Buddy Home Video-->
+	<string name="buddy_home_video_title">视频</string>
+	<string name="buddy_home_video_chapter">章节</string>
+	<string name="buddy_home_video_chapter_1">1 - 前言</string>
+	<string name="buddy_home_video_chapter_2">2 - 小丽寻宝记</string>
+	<string name="buddy_home_video_chapter_3">3 - 咔哧咔哧</string>
+	<string name="buddy_home_video_chapter_4">3 - 猜猜蟹.</string>
+	<string name="buddy_home_video_chapter_5">4 - 疯狂匹配</string>
+	<string name="buddy_home_video_chapter_6">5 - 海洋消消乐</string>
+	<string name="buddy_home_video_chapter_7">6 - 北海巨妖</string>
+	<string name="buddy_home_video_chapter_8">7 - 大自然</string>
+	<string name="buddy_home_video_chapter_9">8 - 故事</string>
+	<!--Buddy Home Worksheet-->
+	<string name="buddy_home_worksheet_title">作业表</string>
+	<string name="buddy_home_worksheet_chapter">章节</string>
+	<string name="buddy_home_worksheet_chapter_1">模式识别</string>
+	<string name="buddy_home_worksheet_chapter_2">水下习性</string>
+	<string name="buddy_home_worksheet_chapter_3">海上习性</string>
+	<string name="buddy_home_worksheet_chapter_4">抽象模式识别</string>
+	<string name="buddy_home_worksheet_chapter_5">IQ 测试 - 2</string>
+	<string name="buddy_home_worksheet_chapter_6">IQ 测试 - 3</string>
+	<!--Buddy Home Doodle-->
+	<string name="buddy_home_doodle_title">兜兜</string>
+	<string name="buddy_home_doodle_episode">故事</string>
+	<!--Create Pet-->
+	<string name="create_pet_title">小伙伴</string>
+	<string name="create_pet_name_place_holder">输入名字...</string>
+	<string name="create_pet_pet_type">小伙伴选择</string>
+	<string name="create_pet_body_type">身体选择</string>
+	<string name="create_pet_description">这是你现在的小伙伴!</string>
+	<string name="create_pet_Cat">猫咪</string>
+	<string name="create_pet_Cat_Pink">小粉红</string>
+	<string name="create_pet_Cat_Pink_desc">害羞，不爱说话，最让人疼爱的伙伴</string>
+	<string name="create_pet_Cat_Calico">凯利</string>
+	<string name="create_pet_Cat_Calico_desc">黑与白，光与暗，代表着力量</string>
+	<string name="create_pet_Cat_Stripes">条条</string>
+	<string name="create_pet_Cat_Stripes_desc">坚强，勇敢，给人安全感</string>
+	<string name="create_pet_Cat_Cymric">小灰</string>
+	<string name="create_pet_Cat_Cymric_desc">特殊的条纹，特别喜欢撒娇</string>
+	<string name="create_pet_Cat_Siamese">大黑</string>
+	<string name="create_pet_Cat_Siamese_desc">勇敢而善良，与众不同的感觉</string>
+	<string name="create_pet_Cat_Electric">闪电</string>
+	<string name="create_pet_Cat_Electric_desc">闪电般的纹路，速度是他的强项，小心被它电到哦</string>
+	<string name="create_pet_Dog">狗狗</string>
+	<string name="create_pet_Dog_Corgi">威威</string>
+	<string name="create_pet_Dog_Corgi_desc">活跃，积极，无时不刻不在你身边转</string>
+	<string name="create_pet_Dog_Bernese">伯尼</string>
+	<string name="create_pet_Dog_Bernese_desc">在大山下长大，从来不会迷路</string>
+	<string name="create_pet_Dog_Furry">软软</string>
+	<string name="create_pet_Dog_Furry_desc">全身上下都是软软绵绵的，摸上去特别的舒服</string>
+	<string name="create_pet_Dog_Dalmatian">斑斑</string>
+	<string name="create_pet_Dog_Dalmatian_desc">身上带着不同的斑点，十分的高贵</string>
+	<string name="create_pet_Dog_Husky">哈奇</string>
+	<string name="create_pet_Dog_Husky_desc">哈士奇，能够在冰天雪地里生活，不怕冷，体力特别好</string>
+	<string name="create_pet_Dog_Hush">开开</string>
+	<string name="create_pet_Dog_Hush_desc">开心，开心，还是开心，无时不刻给人带来快乐</string>
+	<string name="create_pet_Bear">小熊</string>
+	<string name="create_pet_Bear_Teddy">泰迪</string>
+	<string name="create_pet_Bear_Teddy_desc">柔软的毛毛，善良，能成为你很好的朋友</string>
+	<string name="create_pet_Bear_Heart">爱心</string>
+	<string name="create_pet_Bear_Heart_desc">充满着爱心，时时刻刻爱着你的小伙伴</string>
+	<string name="create_pet_Bear_Moon">月月</string>
+	<string name="create_pet_Bear_Moon_desc">带着月亮的图案，不怕黑，晚上它可是会保护你哦</string>
+	<string name="create_pet_Bear_Red">红红</string>
+	<string name="create_pet_Bear_Red_desc">热情，红红火火，性格开朗</string>
+	<string name="create_pet_Bear_Blue">兰兰</string>
+	<string name="create_pet_Bear_Blue_desc">大海的怀抱，热爱游泳，可以带你去海里游玩哦</string>
+	<string name="create_pet_Fox">小狐狸</string>
+	<string name="create_pet_Fox_Red">小红</string>
+	<string name="create_pet_Fox_Red_desc">好动，喜欢去户外，喜欢去深林里玩耍</string>
+	<string name="create_pet_Fox_Striped">月光</string>
+	<string name="create_pet_Fox_Striped_desc">喜欢晚上活动，喜欢在月光下静静的看着月亮</string>
+	<string name="create_pet_Fox_Fire">焰焰</string>
+	<string name="create_pet_Fox_Fire_desc">热情如火焰，漂亮的皮肤仿佛能在晚上为你照明</string>
+	<string name="create_pet_Fox_Purple">紫月</string>
+	<string name="create_pet_Fox_Purple_desc">特殊的图案，可能隐藏着秘密，比任何小伙伴都要勇敢</string>
+	<string name="create_pet_Fox_Kitsune">幻幻</string>
+	<string name="create_pet_Fox_Kitsune_desc">它好像拥有魔法，可以读懂你的心</string>
+	<string name="create_pet_Fox_Cape">煌煌</string>
+	<string name="create_pet_Fox_Cape_desc">对陌生人特别害羞，可是熟了后会变得特别的热情</string>
+	<string name="create_pet_error_text">请重新选择小伙伴的名字</string>
+	<string name="create_pet_error_button">好的</string>
+	<!--Campaign Video Title-->
+	<string name="campaign_video_title">兜兜动画</string>
+	<!--Game Name-->
+	<string name="in_game_video_title"></string>
+	<string name="campaignlevel_nametext"></string>
+	<string name="campaignlevel_leveltext"></string>
+	<string name="game_name_pearly">萨丽寻宝记</string>
+	<string name="game_name_chomp">咔哧咔哧</string>
+	<string name="game_name_manta">疯狂匹配</string>
+	<string name="game_name_tumble">海洋消消乐</string>
+	<string name="game_name_crab">猜猜蟹</string>
+	<string name="game_name_tako">章鱼大作战</string>
+	<string name="game_name_video">兜兜动画 </string>
+</document>

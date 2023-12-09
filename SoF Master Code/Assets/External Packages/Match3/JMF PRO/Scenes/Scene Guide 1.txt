@@ -1,0 +1,11 @@
+For Newbies :-
+
+Under "File" -> "Build Settings.." 
+OR
+CTRL-SHIFT-B
+
+---------------
+
+Add the scenes in ANY order...
+
+just highlight everything and drop into the build settings.
